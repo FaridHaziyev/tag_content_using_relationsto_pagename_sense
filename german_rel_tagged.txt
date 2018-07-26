@@ -1,0 +1,4946 @@
+buchstabe	{'06828818-n'}
+anführer	{'09623038-n'}
+muslim	{'09682291-n'}
+letter	{'06828818-n', '06624161-n'}
+baumwolle	{'12175949-n'}
+spaniel	{'02101108-n'}
+geophysik	{'06117562-n'}
+sauerstoffmangel	{'14043882-n', '14043243-n'}
+türen	{'03221720-n'}
+zutritt	{'03290771-n'}
+fall	{'00092293-v', '02977619-n', '09898892-n', '01182654-n'}
+eingang	{'03290771-n'}
+schwelle	{'03223686-n'}
+verführung	{'00160415-n'}
+dolch	{'03158885-n'}
+disaccharid	{'14836642-n'}
+mineral	{'14662574-n'}
+sewastopol	{'09017168-n'}
+jalta	{'09017301-n'}
+klasse	{'07974025-n', '08103777-n'}
+bourgeois	{'09869830-n'}
+leichnam	{'05217859-n'}
+feinstrumpfhose	{'03885904-n'}
+strümpfe	{'03540267-n'}
+dublin	{'08889191-n'}
+becken	{'03982060-n', '03157348-n', '04388743-n', '09397391-n', '02801525-n'}
+chrysantheme	{'11951271-n'}
+blume	{'11669921-n'}
+entzündung	{'14336539-n'}
+metall	{'14625458-n', '14586769-n'}
+herrscher	{'10541229-n'}
+synthese	{'13565379-n'}
+stockrose	{'12173664-n'}
+kaffee	{'07929351-n', '07929519-n', '12662772-n', '04972451-n'}
+mütze	{'02954340-n'}
+paläobiologie	{'06078724-n'}
+index	{'06639674-n', '05567381-n'}
+syzygium	{'12339319-n'}
+rotschenkel	{'02028035-n'}
+grünschenkel	{'02027897-n'}
+tempo	{'15283097-n'}
+örtlich	{'03681148-n'}
+lautsprecher	{'03691459-n'}
+dollar	{'13391967-n', '13395897-n'}
+selbst	{'09604981-n', '05675601-n'}
+thema	{'05996646-n', '06409752-n', '10668666-n'}
+leben	{'10260706-n', '06515827-n', '15140405-n'}
+formen	{'07092356-n', '03780392-n', '05930736-n', '06290637-n', '08111157-n', '01659248-v', '05217168-n'}
+mensch	{'02472987-n', '10289039-n'}
+organismus	{'00004475-n'}
+verhältnis	{'13819207-n'}
+gingivitis	{'14081216-n'}
+gericht	{'02501278-v', '07557434-n', '08329453-n'}
+tal	{'09289596-n', '09468604-n', '09262690-n'}
+schlucht	{'09233446-n', '09405787-n', '09290444-n'}
+narbenbildung	{'14363913-n'}
+noten	{'07020895-n'}
+megalith	{'03743016-n'}
+tag	{'15164957-n', '15157225-n', '15123115-n'}
+uhr	{'15228378-n', '03046257-n', '15227846-n', '04437953-n'}
+tageszeit	{'15164957-n'}
+mittag	{'15165490-n'}
+tageslicht	{'15164957-n'}
+zeitpunkt	{'02713184-v', '15159583-n', '08620061-n', '15246853-n'}
+nacht	{'15167027-n'}
+vorabend	{'15156424-n'}
+heute	{'15156001-n'}
+gestern	{'15156187-n'}
+morgen	{'15155891-n', '06632671-n'}
+marienkäfer	{'02165456-n'}
+motschekiebchen	{'02165456-n'}
+gelenk	{'05595083-n'}
+rat	{'09775663-n', '08310949-n', '08309409-n'}
+nukleosid	{'14964367-n'}
+seenadel	{'01455778-n'}
+hippocampus	{'01456631-n'}
+vater	{'10405540-n', '10080869-n'}
+system	{'05237227-n', '04377057-n', '05661996-n'}
+kunzit	{'14928180-n'}
+lithium	{'14643793-n'}
+hiddenit	{'15052413-n'}
+spasmus	{'14360459-n'}
+annapurna	{'09197945-n'}
+fenster	{'04589745-n', '04587648-n'}
+kolonialismus	{'00426526-n'}
+insektenfresser	{'01888520-n', '01889074-n'}
+stoff	{'00019613-n', '03309808-n'}
+maseru	{'08959105-n'}
+sesotho	{'09693372-n'}
+menge	{'07999699-n', '07951464-n', '05855125-n'}
+unterhose	{'02896442-n', '04508489-n'}
+komik	{'06776138-n'}
+kermesbeere	{'11855274-n'}
+waldmurmeltier	{'02361587-n'}
+wasser	{'14845743-n', '09225146-n', '14855724-n'}
+adelige	{'10412910-n'}
+zoll	{'13315999-n'}
+pastete	{'07856270-n'}
+spielen	{'01714208-v', '02035919-v'}
+untereinheit	{'13662703-n'}
+tragen	{'00523513-n', '03051540-n', '00433216-n'}
+soutane	{'02979516-n', '04264233-n'}
+talar	{'03450516-n'}
+albe	{'02694966-n'}
+chorrock	{'04364994-n'}
+velum	{'03548930-n'}
+kasel	{'03010795-n'}
+pallium	{'05486510-n', '03880129-n'}
+teich	{'09397391-n'}
+stausee	{'04078747-n'}
+heroin	{'02837416-n'}
+opiat	{'03850746-n'}
+gestalt	{'05931341-n', '05930386-n', '13741022-n', '03335600-n'}
+tonne	{'02795169-n'}
+schlag	{'01173038-n'}
+gruß	{'06630017-n'}
+diabetes	{'14117805-n'}
+styrol	{'14595543-n'}
+styropor	{'14595933-n'}
+behörde	{'08337324-n'}
+getränk	{'07885223-n', '07881800-n'}
+bild	{'07269916-n', '03925226-n', '03265874-n', '03931044-n', '10027246-n'}
+maikäfer	{'02174659-n'}
+kutsche	{'02968473-n'}
+hahnenfuß	{'11720353-n'}
+phospholipid	{'14982681-n'}
+emulgator	{'14674408-n'}
+glimmer	{'14681555-n'}
+cephalosporin	{'02996840-n'}
+behälter	{'03094503-n'}
+film	{'06613686-n', '03338821-n'}
+delaware	{'09264116-n'}
+rum	{'07905038-n'}
+laib	{'07683786-n'}
+hölle	{'05629682-n'}
+unterleib	{'05558345-n'}
+abdominal	{'05557339-n'}
+innere	{'05534333-n'}
+bauch	{'05534333-n'}
+bauchnabel	{'05556595-n'}
+dysfunktion	{'14557898-n'}
+münze	{'13388245-n'}
+behandlung	{'00658082-n'}
+kohlenstoff	{'14633206-n'}
+salut	{'06633041-n'}
+anerkennung	{'06628861-n'}
+begrüßen	{'06631322-n'}
+hallo	{'06632511-n'}
+antwort	{'06630852-n'}
+einheit	{'13583724-n', '08189659-n'}
+beweis	{'05824739-n', '05823932-n'}
+hormon	{'05407119-n'}
+rassismus	{'06203758-n'}
+operation	{'00671351-n', '13524925-n'}
+lerchensporn	{'11904109-n', '11903881-n'}
+radikale	{'14621446-n', '10503452-n'}
+theater	{'06893885-n'}
+konzert	{'06892775-n'}
+aufführung	{'06893441-n'}
+kastanie	{'12262905-n', '04972350-n'}
+baum	{'13104059-n'}
+zeus	{'01452954-n'}
+gewalt	{'08208016-n', '00965404-n'}
+grog	{'07904865-n'}
+eisenbahn	{'04048568-n', '04468005-n'}
+ende	{'08566028-n', '06753030-n'}
+kommunikation	{'00033020-n'}
+anweisung	{'06722453-n', '06786629-n'}
+information	{'06634376-n', '05816287-n', '08462320-n'}
+spitze	{'08386555-n', '13902482-n', '04275661-n'}
+punkt	{'13902482-n', '08620061-n', '15113229-n', '13939892-n'}
+waffe	{'04565375-n'}
+bajonett	{'02812949-n'}
+klinge	{'02848216-n', '04198722-n', '04373894-n'}
+buddhismus	{'06240244-n', '08098708-n'}
+judentum	{'08479095-n', '08094013-n', '06232880-n'}
+gottesdienst	{'08082602-n', '03028079-n'}
+kult	{'08151490-n'}
+schaffung	{'08053576-n'}
+daoismus	{'08098346-n'}
+hinduismus	{'08096624-n', '06236802-n'}
+geländer	{'04047401-n'}
+selen	{'14654175-n'}
+tocopherol	{'15092409-n'}
+strahlung	{'00705580-n', '01252918-n'}
+psychose	{'14398067-n'}
+after	{'05538016-n'}
+empfindlichkeit	{'14531772-n'}
+süden	{'09050244-n'}
+jacksonville	{'09073258-n'}
+miami	{'09073697-n'}
+tampa	{'09075329-n'}
+orlando	{'09074140-n'}
+systole	{'07401409-n'}
+bloodhound	{'02088466-n'}
+otterhound	{'02091635-n'}
+element	{'03081021-n', '14840755-n', '06795746-n', '14622893-n'}
+ständer	{'04301000-n'}
+singer	{'10599806-n'}
+theorie	{'05989479-n', '05888929-n'}
+land	{'08556491-n', '13246662-n', '08544813-n', '09335240-n'}
+likör	{'07907943-n'}
+kunstwerk	{'02743547-n', '06998748-n'}
+brisbane	{'08832877-n'}
+singapur	{'08997801-n'}
+asean	{'08487504-n'}
+singapurerin	{'09749614-n'}
+neurobiologie	{'06078511-n'}
+neurophysiologie	{'06081602-n'}
+werbung	{'07248801-n', '07250034-n', '07247071-n'}
+chicago	{'09083390-n'}
+engineering	{'06125041-n'}
+exokrin	{'05328867-n'}
+stall	{'04299370-n'}
+antilope	{'02419796-n'}
+jagdhund	{'02087551-n'}
+wohnsitzwechsel	{'01123095-n'}
+lignin	{'14935319-n'}
+splintholz	{'13097536-n'}
+kernholz	{'13097752-n'}
+kiefer	{'11608885-n'}
+buche	{'12261179-n'}
+stamm	{'14942762-n', '08102555-n', '13165815-n'}
+eichenholz	{'12268918-n'}
+fichtenholz	{'11624840-n'}
+bauholz	{'15100257-n'}
+laubholz	{'15100112-n'}
+pappel	{'12731714-n', '12731401-n'}
+ulme	{'12405714-n', '12406155-n'}
+faser	{'03331244-n', '14866889-n'}
+semantik	{'06179792-n'}
+erle	{'12284665-n', '12284262-n'}
+linde	{'12203331-n', '12202936-n'}
+kirschbaum	{'12641796-n'}
+bambus	{'12147539-n'}
+mahagoni	{'12695572-n', '12695144-n'}
+balsa	{'12191813-n'}
+tanne	{'11620912-n'}
+wimpertierchen	{'01395254-n'}
+code	{'06353934-n', '06355894-n'}
+schweinswal	{'02070430-n'}
+schrift	{'01747945-v', '06359877-n', '06351613-n', '06362953-n'}
+alabama	{'09191875-n'}
+person	{'14438693-n', '00007846-n'}
+lesbisch	{'10254965-n', '09711530-n'}
+individuum	{'00007846-n'}
+abfall	{'14857497-n', '14856263-n'}
+joint	{'03601335-n'}
+kunst	{'05638987-n', '02743547-n', '00933420-n', '05637558-n'}
+malaysisch	{'09721883-n', '09712696-n'}
+putrajaya	{'08963969-n'}
+malaiisch	{'09712696-n'}
+hacke	{'03731019-n'}
+roman	{'06367879-n', '09716933-n'}
+kolosseum	{'03072828-n'}
+geschlecht	{'13813042-n', '05006898-n', '00844254-n'}
+beziehung	{'00031921-n', '07545415-n', '13780719-n', '13928668-n'}
+verwandtschaft	{'13813283-n', '07969695-n', '13812607-n'}
+blutsverwandtschaft	{'13813591-n'}
+elternschaft	{'13813765-n'}
+vaterschaft	{'13813898-n'}
+kohl	{'11875691-n', '11877193-n'}
+politik	{'06148148-n', '05901508-n'}
+manöver	{'00168237-n'}
+polymorphismus	{'11493266-n'}
+bildung	{'05984287-n', '09287968-n', '08426461-n', '01659248-v'}
+brahmane	{'08306959-n'}
+hindu	{'09713501-n', '09684609-n'}
+schnapper	{'02586543-n'}
+torfgränke	{'12234318-n'}
+belgien	{'08849753-n'}
+niederlande	{'08949093-n'}
+wagon	{'02958343-n'}
+washington	{'09070793-n'}
+gaumensegel	{'05309392-n'}
+luxemburg	{'08960987-n'}
+boden	{'02819474-n', '09217638-n', '09335240-n', '14844693-n', '14842992-n'}
+fliege	{'02190166-n', '02190648-n'}
+fest	{'06303540-n', '07447641-n', '15046900-n', '13246475-n'}
+bewusstlosigkeit	{'05678932-n'}
+note	{'06504462-n'}
+patella	{'01948917-n', '05278395-n'}
+walnuss	{'12318378-n'}
+butternuss	{'07771891-n', '12318965-n'}
+bau	{'04341686-n', '00911048-n', '02913152-n'}
+wohnheim	{'03541696-n'}
+resort	{'08640531-n'}
+schmerzen	{'14323683-n', '14322699-n', '05724694-n'}
+verbindung	{'13792842-n', '14818238-n', '07339329-n', '01291069-v'}
+lkw	{'04490091-n'}
+titan	{'14659211-n'}
+philosophie	{'06158346-n', '05943300-n'}
+schallplatte	{'03924069-n'}
+einsiedler	{'10172448-n'}
+lumineszenz	{'11476430-n'}
+double	{'10666846-n'}
+griffbrett	{'03341297-n'}
+taro	{'11786539-n', '11786843-n'}
+zuckermelone	{'07755707-n', '12164363-n'}
+melone	{'12163824-n'}
+gorgo	{'09495103-n'}
+test	{'05799212-n', '00791078-n'}
+erforschen	{'05797597-n'}
+prüfung	{'00635850-n', '05799212-n'}
+wecker	{'02694662-n'}
+bewegung	{'03795758-n', '01835496-v', '00331950-n', '13518963-n', '00279835-n'}
+brot	{'07679356-n'}
+show	{'06619065-n'}
+therapie	{'00661091-n'}
+agentur	{'08337324-n'}
+ontologie	{'06162847-n'}
+kosmologie	{'06163223-n'}
+rosa	{'12620196-n'}
+programm	{'06568978-n', '05898568-n'}
+malakka	{'12136581-n'}
+maß	{'03429288-n', '00489837-v', '00996969-n', '00174412-n'}
+messung	{'00489837-v', '00996969-n'}
+werden	{'15094294-n', '02210855-v', '00457382-n'}
+pueblo	{'09068320-n', '09666622-n'}
+siliziumdioxid	{'15041277-n'}
+musiker	{'10339966-n', '10340312-n'}
+bildhauer	{'10566072-n'}
+maler	{'10391653-n'}
+leicht	{'03666591-n', '11473954-n'}
+enzym	{'14732946-n'}
+medizin	{'06043075-n', '03740161-n'}
+naphthochinon	{'15092751-n'}
+textilie	{'03309808-n'}
+material	{'14580897-n', '03309808-n'}
+gewebe	{'03309808-n', '15074962-n'}
+diplomat	{'10013927-n'}
+echovirus	{'01338333-n'}
+färbemittel	{'14985383-n'}
+pigment	{'14984973-n', '14989820-n'}
+rötung	{'14336539-n'}
+sukkulente	{'13084184-n'}
+gesellschaft	{'08187033-n', '13929588-n', '08008335-n', '08227214-n', '08387930-n'}
+windsurfen	{'01948450-v'}
+teil	{'08216900-n', '07030718-n', '13285176-n', '08630039-n', '05256358-n', '06392001-n', '09385911-n', '03892891-n', '05867413-n', '13809207-n'}
+autorität	{'09824361-n'}
+wasserbrotwurzel	{'11786843-n'}
+flugzeugführer	{'10433164-n'}
+julfest	{'15196537-n'}
+weihnachten	{'15196537-n'}
+kutikula	{'01903756-n'}
+hülle	{'01903756-n', '02977619-n'}
+deutung	{'07170753-n'}
+trespe	{'12110778-n'}
+alkaloid	{'14712692-n'}
+tango	{'01896007-v'}
+mit	{'07673397-n', '01895757-v', '14966667-n', '04290259-n'}
+walzer	{'01895612-v'}
+hotel	{'03542333-n'}
+abstand	{'05129565-n', '05084201-n'}
+orthoklas	{'14865221-n'}
+oligoklas	{'14865316-n'}
+gottheit	{'09505418-n'}
+göttin	{'09505418-n'}
+assay	{'00791527-n'}
+wellenreiten	{'01948077-v'}
+surfbrett	{'01948077-v'}
+expedition	{'00309647-n'}
+malariamittel	{'02721948-n'}
+gliederfüßer	{'01767661-n'}
+zustimmung	{'06686736-n', '13971065-n'}
+häuten	{'01262936-v'}
+haut	{'01262936-v', '05238282-n'}
+abgezogen	{'01262936-v'}
+facharzt	{'10632576-n'}
+ruanda	{'08815046-n'}
+burundi	{'08716219-n'}
+hirnhaut	{'05326900-n'}
+hund	{'02084071-n', '02083346-n'}
+kot	{'14854847-n', '14854262-n'}
+display	{'03211117-n'}
+felinen	{'02127808-n'}
+mähne	{'01899746-n'}
+teile	{'02678738-n'}
+xtc	{'02678738-n'}
+rudel	{'07994941-n', '07995278-n'}
+poker	{'00494768-n'}
+ofen	{'03343560-n', '03862676-n', '03404449-n'}
+feuerstelle	{'03507241-n'}
+hostess	{'10187491-n'}
+neurotransmitter	{'14807558-n'}
+katecholamine	{'14807929-n'}
+frisur	{'05256862-n'}
+action	{'00037396-n'}
+wahrscheinlichkeit	{'04756635-n'}
+auto	{'01930738-v', '02960352-n', '02958343-n'}
+hindustani	{'06970373-n'}
+sanskrit	{'06969129-n'}
+fuchs	{'02118333-n', '02388735-n'}
+nachtschattengewächse	{'12892226-n'}
+bilsenkraut	{'12904314-n'}
+kleeblatt	{'11753700-n'}
+lyrik	{'06380726-n', '07051975-n'}
+preis	{'04487996-n', '06696483-n'}
+oscar	{'07268967-n'}
+geburt	{'09856671-n', '13532886-n'}
+derwisch	{'10006337-n'}
+aldehyd	{'14584765-n'}
+glissando	{'06857122-n'}
+zucken	{'14361664-n'}
+kuchen	{'07628870-n', '07631834-n'}
+türkei	{'09039411-n'}
+lydien	{'08788004-n'}
+lykien	{'08787878-n'}
+bithynien	{'08503921-n'}
+phrygien	{'08701410-n'}
+galatien	{'08701296-n'}
+kappadokien	{'08701161-n'}
+troja	{'08788887-n'}
+pontos	{'08701719-n'}
+rosengewächse	{'12619306-n'}
+post	{'06264398-n'}
+modell	{'03178782-n', '05930736-n', '05937112-n'}
+vorbild	{'05937112-n'}
+lipid	{'14938907-n'}
+frau	{'10780632-n', '10787470-n', '06328996-n'}
+spuk	{'09545976-n'}
+begrüßung	{'06630017-n'}
+technik	{'06125041-n'}
+rolle	{'05929008-n', '02362862-n', '05867413-n'}
+armenhaus	{'04601159-n'}
+nukleotid	{'14964590-n'}
+klette	{'11924445-n'}
+chanukka	{'15199033-n'}
+kompanie	{'08214272-n'}
+regiment	{'08213817-n'}
+gold	{'14638799-n', '04966240-n'}
+tumor	{'14235200-n'}
+antikörper	{'15027189-n'}
+alpenbirkenzeisig	{'01531971-n'}
+stieglitz	{'01532325-n', '01531178-n'}
+begriff	{'05836598-n', '06303888-n', '06751974-n'}
+idee	{'05833840-n'}
+fieberklee	{'12484784-n'}
+rauchen	{'04103491-n'}
+papier	{'14974264-n'}
+geschlechtsverkehr	{'00845523-n'}
+mischung	{'14818238-n', '07882497-n', '08398773-n', '07374756-n'}
+seestern	{'02317335-n'}
+zahn	{'05282746-n'}
+kirche	{'03028079-n'}
+rundmäuler	{'01476829-n', '01477080-n'}
+watt	{'13644522-n'}
+krankheit	{'14061805-n', '14070360-n'}
+gehirnwäsche	{'00888960-n'}
+volt	{'13643276-n'}
+handwerk	{'01091905-n', '00606370-n'}
+kooperation	{'01202904-n'}
+bahn	{'04048568-n'}
+luftpost	{'06622993-n'}
+software	{'06566077-n'}
+unix	{'06568706-n'}
+präsentation	{'04076846-n'}
+zeichnen	{'03009920-n'}
+bebauungsplan	{'03959350-n'}
+tadschikisch	{'09734006-n'}
+duschanbe	{'09021313-n'}
+übertragung	{'02232190-v', '06247181-n', '10724372-n', '01107932-n'}
+theropode	{'01712008-n'}
+antibiotikum	{'02716866-n'}
+schicksal	{'07330007-n'}
+bein	{'03906106-n', '03654576-n'}
+kleidungsstück	{'03419014-n'}
+hose	{'04480303-n'}
+moosbeere	{'12245695-n'}
+blaubeere	{'12246232-n'}
+chauffeur	{'02058049-v'}
+heilige	{'10547145-n'}
+holzart	{'15098161-n'}
+stück	{'03343853-n', '07654667-n', '03932203-n', '07037465-n'}
+komposition	{'07037465-n'}
+artischocke	{'11959632-n', '07718747-n'}
+cardy	{'11959862-n'}
+riesling	{'07897438-n'}
+klo	{'03371875-n'}
+abwesenheit	{'01234345-n'}
+speiche	{'05593318-n'}
+elle	{'05593476-n'}
+schwingel	{'12121610-n'}
+baseball	{'02799071-n', '00471613-n'}
+hobart	{'08834280-n'}
+mönchsfisch	{'02606384-n'}
+linguistik	{'06172789-n', '06171040-n'}
+taxon	{'07992450-n'}
+bindehaut	{'05315095-n'}
+vermarkten	{'02298160-v'}
+marketing	{'01113068-n', '02298160-v'}
+trommelfell	{'05318831-n'}
+lobgesang	{'07036443-n'}
+choral	{'07036328-n'}
+versenkung	{'05785508-n'}
+pflanze	{'00017222-n'}
+munition	{'04566257-n'}
+patrone	{'02971691-n'}
+granate	{'04190464-n'}
+leuchtspurmunition	{'04462707-n'}
+universität	{'08287182-n'}
+warnung	{'07224151-n'}
+problem	{'06784003-n'}
+saum	{'08583292-n', '04230808-n'}
+sophismus	{'05895138-n'}
+darm	{'05534333-n'}
+diakon	{'09994673-n'}
+rakete	{'03773504-n', '04008634-n', '04099175-n'}
+chlorid	{'15017604-n', '15016852-n'}
+spodumen	{'15052223-n'}
+rodentia	{'02329093-n'}
+schwellung	{'14315192-n'}
+lymphödem	{'14120614-n'}
+schwellungen	{'14315192-n'}
+pinkeln	{'13533886-n'}
+fladenbrot	{'07683360-n', '07682624-n'}
+korallenbeere	{'12677841-n'}
+askese	{'04881998-n'}
+wisconsin	{'09480556-n'}
+polyeder	{'13883885-n'}
+rom	{'04058239-n'}
+wort	{'06286395-n'}
+rechtsanwalt	{'10249950-n', '09775663-n', '10623175-n'}
+zug	{'04468005-n'}
+gestein	{'09416076-n', '14696793-n'}
+arius	{'02520985-n'}
+aspisviper	{'01752736-n'}
+viper	{'01752585-n', '01752165-n'}
+sammlung	{'06592699-n', '07951464-n', '06591442-n'}
+süß	{'05716577-n', '07609840-n'}
+liste	{'06481320-n', '00634586-n', '02472223-v', '06416206-n'}
+autor	{'10794014-n'}
+rotlachs	{'02536165-n'}
+schminke	{'03714235-n'}
+dessert	{'07609840-n'}
+rückenmark	{'05495172-n'}
+rinder	{'02402425-n'}
+butterfisch	{'02632989-n', '02614978-n'}
+interozeption	{'05654052-n'}
+florilegium	{'06592699-n'}
+quarz	{'14693733-n'}
+auerochse	{'02405101-n'}
+silberlachs	{'02536864-n'}
+brücke	{'02898711-n', '05500992-n', '02899569-n'}
+königslachs	{'02536456-n'}
+zebu	{'02404906-n'}
+banteng	{'02405440-n'}
+yak	{'02405302-n'}
+genfer	{'09889346-n'}
+bahnhof	{'08566028-n'}
+nudeln	{'07700868-n', '07863374-n', '07698915-n'}
+hijab	{'03520493-n'}
+kopftuch	{'03505504-n', '02766168-n', '03610992-n'}
+käse	{'07850329-n'}
+krankenpfleger	{'10366966-n'}
+brandgans	{'01849466-n'}
+vorstellung	{'05625465-n', '05926676-n'}
+form	{'05930736-n', '01659248-v', '05930386-n', '05217168-n', '03779621-n', '13077033-n'}
+granatapfel	{'12345280-n'}
+energie	{'14050143-n'}
+winkel	{'13887509-n'}
+membran	{'05426243-n'}
+geologie	{'06115701-n'}
+tourismus	{'00298161-n'}
+kopfschmerzen	{'14326607-n'}
+tennessee	{'09455640-n'}
+süd	{'09050244-n'}
+nashville	{'09141297-n'}
+memphis	{'08899351-n', '09141119-n'}
+katzenschweif	{'11956348-n'}
+feuer	{'07302836-n'}
+parapsychologie	{'07256375-n'}
+skelett	{'05585383-n'}
+knochen	{'05269901-n'}
+feind	{'10055847-n'}
+gegner	{'10055847-n'}
+hülsenfrucht	{'11747468-n'}
+zulu	{'09752023-n'}
+korinther	{'09711320-n'}
+japanisch	{'09718217-n'}
+hand	{'06692238-n'}
+tetrasaccharid	{'15069161-n'}
+garage	{'03416489-n'}
+mafioso	{'10280495-n'}
+schwert	{'04373894-n'}
+epoche	{'15254028-n', '15113229-n'}
+wendehals	{'01841679-n'}
+emu	{'01519873-n'}
+pathologie	{'06060845-n'}
+prothorax	{'02665687-n'}
+allomorph	{'06306606-n'}
+antidepressivum	{'02718811-n'}
+silbe	{'06304671-n'}
+barsch	{'02555863-n', '02556846-n'}
+myom	{'14248541-n'}
+spektroskop	{'04273064-n'}
+soja	{'07729485-n'}
+prozess	{'00029677-n', '06556692-n', '05701363-n'}
+gas	{'14877585-n'}
+brennstoff	{'14875077-n'}
+erkenntnis	{'05707495-n'}
+makroökonomie	{'06150933-n'}
+farbton	{'14984973-n'}
+färberwaid	{'15002138-n', '11890022-n'}
+indigo	{'12536040-n', '14754860-n'}
+cochenille	{'14987025-n'}
+auftrieb	{'01968569-v', '05028963-n'}
+blau	{'04969242-n', '14986593-n'}
+chalcedon	{'14806333-n'}
+sardonyx	{'15019972-n'}
+see	{'09328904-n'}
+unordnung	{'13972797-n'}
+austausch	{'01093085-n'}
+grad	{'13939892-n'}
+verstärker	{'02705944-n'}
+strich	{'02796995-n'}
+option	{'13241600-n'}
+heimweh	{'07487594-n'}
+lepton	{'09338013-n'}
+beutel	{'03993180-n', '02773037-n'}
+pali	{'06973334-n'}
+clan	{'07969695-n'}
+führer	{'09623038-n'}
+überheblichkeit	{'04887912-n'}
+übermut	{'04887912-n'}
+wahrsagen	{'05776212-n'}
+bagdad	{'08914193-n'}
+tigris	{'09458791-n'}
+euphrat	{'09274739-n'}
+mesopotamien	{'08916316-n'}
+iraker	{'09714694-n'}
+mosul	{'08915017-n'}
+chor	{'03024064-n'}
+gegensatz	{'07206887-n'}
+rüstung	{'02739668-n'}
+wappenschild	{'03296478-n'}
+songwriter	{'10624540-n'}
+purin	{'14706749-n'}
+wachsblume	{'11774513-n'}
+bezahlung	{'01120448-n'}
+schifffahrt	{'01950798-v', '01105259-n'}
+handel	{'01090446-n', '00079398-n'}
+verkauf	{'01113068-n', '01114824-n'}
+einfuhr	{'01111750-n', '02346136-v'}
+unternehmen	{'13929588-n', '01094725-n'}
+ausfuhr	{'02346409-v', '01111952-n'}
+infektion	{'14174549-n'}
+habichtskraut	{'11982115-n'}
+korbblütler	{'11911591-n'}
+grünspan	{'04528079-n'}
+strauch	{'13112664-n'}
+staat	{'08303692-n', '08168978-n', '00024720-n'}
+schmerz	{'14322699-n'}
+phenobarbital	{'04256152-n'}
+secobarbital	{'04163740-n'}
+wissen	{'05999797-n', '00023271-n'}
+kreuzblume	{'12705013-n'}
+religion	{'08081668-n', '05946687-n'}
+noesis	{'00023271-n'}
+nasenbär	{'02509515-n'}
+ringen	{'00447540-n'}
+dynastie	{'07971582-n'}
+wiederholung	{'01018630-n', '07099271-n'}
+zeremonie	{'07450842-n'}
+speerspitze	{'04271371-n'}
+speer	{'04270891-n', '03594148-n'}
+heide	{'12226932-n', '12233529-n'}
+besenheide	{'12233529-n'}
+genetik	{'06075527-n'}
+talk	{'15066367-n'}
+pneumokoniose	{'14149963-n'}
+hase	{'02327028-n', '02326237-n', '07666521-n'}
+kaninchen	{'07666521-n'}
+antarktis	{'09198106-n'}
+tremolo	{'07399336-n'}
+klingen	{'07371293-n'}
+gezeigt	{'00943837-v'}
+zeigen	{'00943837-v', '06619065-n'}
+hilfe	{'01207609-n', '13265904-n', '00654885-n'}
+polymer	{'14994328-n'}
+silicium	{'14654541-n'}
+eigenschaft	{'04723816-n', '04916342-n', '05849040-n'}
+ulcus	{'14211609-n'}
+zwerg	{'09541125-n'}
+schutz	{'04192698-n', '00817680-n'}
+schaufel	{'02848523-n'}
+begehren	{'07488340-n', '07489714-n', '07484265-n'}
+sinnlichkeit	{'07488875-n'}
+edelweiß	{'11989393-n'}
+rumpf	{'02861886-n'}
+leitwerk	{'04384016-n'}
+verhandlung	{'07148192-n'}
+gespräch	{'07134850-n', '07135734-n', '07148192-n'}
+versöhnung	{'07151122-n'}
+amateur	{'09786585-n'}
+larve	{'02311060-n', '02312006-n'}
+breiapfelbaum	{'12774641-n'}
+wurst	{'07675627-n'}
+anfang	{'07325190-n', '07290905-n'}
+steigen	{'07327288-n'}
+lufttrichter	{'04527310-n'}
+rohr	{'03944672-n', '03253398-n', '04493505-n', '03945167-n'}
+plattwürmer	{'01924590-n'}
+fischbandwurm	{'01927456-n'}
+manie	{'09181557-n'}
+anlegestelle	{'04033082-n'}
+ersatz	{'13282550-n'}
+mechanismus	{'13518963-n'}
+deutschland	{'08766988-n'}
+europäisch	{'09686536-n'}
+preußisch	{'09748648-n'}
+yangon	{'08715777-n'}
+rangun	{'08715777-n'}
+burmesisch	{'09695747-n'}
+mandalay	{'08715952-n'}
+party	{'02491851-v'}
+geschirr	{'03133538-n'}
+essbesteck	{'04221424-n', '03153375-n'}
+gläser	{'03439064-n'}
+essgeschirr	{'03133538-n', '03202622-n'}
+teller	{'03361945-n'}
+service	{'04175380-n', '01032040-n', '00098625-n'}
+canterbury	{'08883772-n'}
+fähigkeit	{'05200169-n', '05616246-n'}
+wildkatze	{'02124623-n'}
+kupfer	{'14635722-n'}
+akropolis	{'02676938-n'}
+festung	{'03386011-n', '04340935-n'}
+schanker	{'14184067-n'}
+videokamera	{'04404997-n'}
+neurosyphilis	{'14135065-n'}
+analgetisch	{'02707683-n'}
+schmerzmittel	{'02707683-n'}
+röteln	{'14123259-n'}
+deuterium	{'14641046-n'}
+feuerstein	{'14871078-n'}
+pädiatrie	{'06061631-n'}
+amphibol	{'14665767-n'}
+betäubungsmittel	{'03808564-n', '03247620-n'}
+opium	{'03850966-n'}
+musik	{'07020895-n'}
+methadon	{'03754014-n'}
+fuß	{'13650045-n', '02153445-n', '07094843-n'}
+laotisch	{'09719794-n'}
+vientiane	{'08957064-n'}
+mekong	{'09350524-n'}
+benzodiazepin	{'02830852-n'}
+irrigation	{'00695448-n'}
+spiel	{'01072949-v', '00457382-n', '01724459-v', '00430606-n', '00455599-n'}
+gespielt	{'01724459-v', '01072949-v'}
+korn	{'07731952-n'}
+ähre	{'13133613-n'}
+getreide	{'12141495-n', '07906877-n'}
+puffmais	{'12145477-n'}
+maiskolben	{'08544125-n'}
+scharniergelenk	{'05580416-n'}
+paprika	{'12900462-n', '07824702-n'}
+atmosphäre	{'14520278-n'}
+wind	{'11525955-n'}
+amygdalin	{'14887464-n'}
+polygamie	{'13966925-n'}
+monogamie	{'13966007-n'}
+insektizid	{'14919948-n'}
+unterhaltung	{'00426928-n', '07135734-n'}
+verstehen	{'00458641-n', '05805475-n'}
+radieschen	{'11894327-n', '11894770-n'}
+vers	{'06384708-n', '07092592-n'}
+endoplasma	{'05433953-n'}
+ektoplasma	{'05433856-n'}
+zytoskelett	{'05433496-n'}
+protoplasma	{'05432736-n'}
+jungfrau	{'09471976-n'}
+mikroprozessor	{'03760310-n'}
+blechblasinstrumente	{'02891788-n'}
+bassschlüssel	{'02803349-n'}
+bombardon	{'03512030-n'}
+helikon	{'03512030-n'}
+formell	{'07448885-n'}
+anatomie	{'06057539-n'}
+regenpfeifer	{'02023341-n'}
+schwertliliengewächse	{'12411084-n'}
+königskerze	{'12888906-n'}
+neuropsychologie	{'06140799-n'}
+psychophysiologie	{'06140799-n'}
+zelle	{'00006484-n'}
+krater	{'09472413-n'}
+leinkraut	{'12884260-n'}
+eisenhut	{'11722982-n'}
+plagioklas	{'14865316-n'}
+öl	{'14980579-n', '07673397-n', '14966667-n'}
+erdöl	{'14980579-n'}
+lösungsmittel	{'15047313-n'}
+schulmeister	{'02587618-n'}
+bilden	{'06290637-n', '05930736-n', '08111157-n', '01659248-v'}
+abwasser	{'14857021-n'}
+grab	{'03455033-n'}
+moosglöckchen	{'12673328-n'}
+strom	{'09448361-n', '09411430-n'}
+wild	{'07650449-n'}
+gesicht	{'05600637-n'}
+hirsch	{'02430045-n'}
+ersetzen	{'00197772-n'}
+raum	{'08630039-n', '04105893-n', '03003730-n'}
+ansicht	{'01191158-n', '05611302-n'}
+entscheidung	{'01191158-n', '00162632-n'}
+pruritus	{'05723811-n'}
+paraguayer	{'09726246-n'}
+richtung	{'08679972-n', '06197215-n'}
+methode	{'08679972-n'}
+pilot	{'01941093-v', '09826204-n'}
+fliegen	{'01941093-v'}
+segelflugzeug	{'01942959-v'}
+gleitflug	{'01942959-v'}
+geflogen	{'01941093-v'}
+holz	{'08438533-n', '15098161-n'}
+verwünschung	{'07233996-n'}
+medikation	{'03740161-n'}
+substanz	{'00020090-n', '00019613-n'}
+flüssigkeit	{'14940386-n', '14939900-n', '14939445-n'}
+akkord	{'06869951-n'}
+skript	{'07009946-n'}
+buchen	{'07009946-n'}
+aufteilung	{'13843920-n'}
+tüte	{'04122825-n'}
+balken	{'02815950-n'}
+hundredweight	{'13725271-n'}
+zentner	{'13725271-n'}
+rock	{'09416076-n', '04230808-n'}
+beschichtung	{'03058107-n'}
+wachturm	{'04556948-n'}
+leuchtturm	{'02814860-n'}
+minarett	{'03767745-n'}
+eckturm	{'04501947-n'}
+ausspruch	{'07151380-n'}
+puppe	{'03219135-n', '02312427-n', '02312640-n'}
+kreisel	{'04454240-n'}
+kaleidoskop	{'03607756-n'}
+teddybär	{'04399382-n'}
+überprüfen	{'00662589-v'}
+ball	{'02778669-n', '02779435-n'}
+überprüfung	{'00662589-v'}
+frisbee	{'03397947-n'}
+schuss	{'00788632-n', '04598965-n'}
+hut	{'11532351-n', '02954340-n', '03497657-n'}
+liberalismus	{'06218623-n'}
+stern	{'13881644-n', '09444100-n'}
+tötung	{'00219012-n'}
+seppuku	{'00223362-n'}
+töten	{'00219012-n'}
+phobie	{'14381416-n'}
+fleisch	{'07649854-n'}
+stratum	{'08657249-n'}
+baby	{'09828216-n'}
+schiff	{'02858304-n', '01950798-v', '04194289-n'}
+vergehen	{'00766234-n'}
+verbrechen	{'00766234-n'}
+verstoß	{'00766234-n'}
+senat	{'08161591-n'}
+legislative	{'08163273-n'}
+penicillin	{'03910033-n'}
+furosemid	{'03406597-n'}
+mannit	{'03718056-n'}
+cola	{'07927931-n', '12197211-n'}
+nacktsamer	{'11596108-n'}
+weg	{'13777764-n', '03899328-n'}
+weihe	{'01040646-n'}
+niger	{'09371151-n'}
+bevölkerung	{'01257969-n'}
+bamako	{'08965958-n'}
+folge	{'06621771-n', '08459252-n'}
+malier	{'09722279-n'}
+timbuktu	{'08966085-n'}
+kleid	{'03236735-n'}
+phytohormon	{'14744841-n'}
+ärger	{'07518468-n'}
+frustration	{'07518663-n'}
+wut	{'07516354-n', '07516997-n', '07517737-n'}
+mangobaum	{'07764155-n', '12761284-n'}
+ziege	{'02416519-n'}
+antiemetikum	{'02719750-n'}
+antihistaminikum	{'02720725-n'}
+wegwarte	{'11953038-n'}
+endivie	{'11953339-n'}
+lipoprotein	{'14939230-n'}
+bandonion	{'02786736-n'}
+salz	{'15010703-n'}
+meteorit	{'09352849-n'}
+sauropode	{'01708998-n'}
+rommé	{'00495331-n'}
+samba	{'00497425-n'}
+männchen	{'01514668-n', '09624168-n'}
+knabe	{'09870926-n'}
+junge	{'10083358-n', '10285313-n'}
+segel	{'04127904-n'}
+avifauna	{'07993643-n'}
+arthritis	{'14186541-n'}
+paraphilie	{'00737705-n'}
+okapi	{'02439398-n'}
+ekel	{'07504111-n', '07503430-n', '07503987-n'}
+abneigung	{'07503987-n'}
+ausscheidungen	{'14853947-n'}
+kacke	{'14854581-n'}
+dünger	{'14854847-n'}
+herstellen	{'07705711-n'}
+fisch	{'07775375-n', '01140794-v'}
+fagott	{'02804610-n'}
+burgund	{'07893891-n'}
+kunststoff	{'14592610-n'}
+grabmal	{'03455488-n'}
+grotte	{'09294877-n', '09239302-n'}
+wolf	{'02114100-n'}
+schakal	{'02115096-n'}
+bataillon	{'08214083-n'}
+blatt	{'02848523-n', '13152742-n'}
+paddel	{'03873416-n'}
+russland	{'09007723-n'}
+wirbelsäule	{'05588174-n'}
+linie	{'08593262-n'}
+ensemble	{'08188235-n'}
+wasserstoff	{'14640434-n'}
+gewässer	{'09225146-n'}
+bucht	{'09220239-n'}
+verbraucher	{'10741590-n', '09612848-n'}
+kunde	{'09984659-n'}
+kalium	{'14650807-n'}
+unterwäsche	{'04508163-n', '04508949-n'}
+büstenhalter	{'02892767-n'}
+unterhemd	{'04223299-n'}
+leibchen	{'02944146-n'}
+reichen	{'03013580-n'}
+hemd	{'04197391-n', '03013580-n'}
+maxime	{'07152948-n'}
+fahrzeug	{'04524313-n', '03125870-n'}
+toboggan	{'04443433-n'}
+rennbob	{'02861022-n'}
+bob	{'05259109-n', '02861022-n'}
+rodeln	{'03695753-n'}
+wolfsmilch	{'12917901-n'}
+weihnachtsstern	{'12920204-n'}
+walisisch	{'09747329-n'}
+eine	{'02501278-v', '13742573-n', '00670261-v', '10225219-n'}
+gerechtigkeit	{'04839154-n', '04826235-n', '10225219-n'}
+ringelwurm	{'01934440-n'}
+wattwurm	{'01936671-n'}
+seele	{'10627082-n'}
+psyche	{'10627082-n'}
+sarkom	{'14246359-n'}
+tänzerin	{'09989502-n'}
+geist	{'14526182-n', '09545324-n', '04620558-n'}
+stellung	{'00722479-n', '05079866-n', '13948136-n'}
+ansehen	{'14438125-n'}
+ruhm	{'14437386-n'}
+hinsicht	{'14437552-n'}
+häuser	{'03544360-n'}
+conchologie	{'01015689-n'}
+rainfarn	{'12023726-n'}
+frauenminze	{'12021499-n'}
+mutterkraut	{'12023108-n'}
+pyrethrum	{'12022382-n', '12022719-n'}
+lernen	{'05755883-n', '05752544-n'}
+dach	{'04105068-n', '01233993-v'}
+gedeckt	{'01233993-v'}
+unterricht	{'05753564-n', '00884466-n', '00887081-n'}
+evangelisch	{'09679316-n'}
+zehe	{'05577410-n'}
+fußrücken	{'05576950-n'}
+fersenbein	{'05274808-n'}
+abschnitt	{'03511426-n', '05578095-n'}
+fußsohle	{'05577190-n'}
+umgekehrt	{'04085181-n', '00346693-n'}
+wende	{'00346693-n', '01946408-v'}
+parlament	{'08318777-n', '08319198-n'}
+symptom	{'14299637-n'}
+akrozyanose	{'14303448-n'}
+talus	{'05271383-n'}
+bakterien	{'01348530-n'}
+bakterium	{'01348530-n'}
+fremder	{'10103485-n'}
+kohlenwasserstoff	{'14911057-n'}
+limonen	{'14937658-n'}
+chymosin	{'15004317-n'}
+labferment	{'15004317-n'}
+kresol	{'14825982-n'}
+loge	{'02884225-n'}
+balkon	{'03758220-n'}
+schuh	{'04199027-n'}
+beziehungen	{'00845523-n'}
+notation	{'06763273-n'}
+hilfsmittel	{'03183080-n'}
+rede	{'07071483-n'}
+konfekt	{'07597365-n'}
+tiefdruckgebiet	{'14520829-n'}
+blutweiderich	{'12328398-n'}
+benennen	{'07230502-n'}
+nephelin	{'14683204-n'}
+kugelfisch	{'02655020-n', '07781972-n'}
+fettabsaugung	{'00682080-n'}
+zweiflügler	{'02188065-n'}
+umbo	{'05324553-n'}
+einbaum	{'03254374-n'}
+leukopenie	{'14196405-n'}
+kajak	{'03609235-n'}
+birkenrinde	{'02843029-n'}
+glockenvogel	{'01552034-n'}
+ideologie	{'06212839-n'}
+zähne	{'04452848-n', '05282433-n', '05282746-n'}
+gleichklang	{'07097346-n'}
+übereinstimmung	{'07097548-n'}
+alliteration	{'07097094-n'}
+hochgefühl	{'07527656-n'}
+kind	{'09918248-n', '09917593-n'}
+emblem	{'03282591-n', '06880664-n'}
+parfümerie	{'03916470-n'}
+köln	{'03071021-n'}
+konflikt	{'00953559-n', '07483439-n'}
+angriff	{'01237167-n'}
+kampf	{'00964343-n', '00952963-n', '01090335-v', '00953559-n'}
+beamter	{'10448983-n', '10372373-n'}
+sambesi	{'09483129-n'}
+harare	{'09167505-n'}
+victoria	{'11365857-n', '08996714-n', '09471638-n'}
+koenzym	{'14800277-n'}
+mätresse	{'10323752-n'}
+tabelle	{'07939382-n'}
+beidhändigkeit	{'05067199-n'}
+linkshändigkeit	{'05067367-n'}
+legion	{'08183802-n'}
+griechenland	{'08780881-n'}
+dorer	{'09710886-n'}
+achaier	{'09710619-n'}
+argiver	{'09807495-n'}
+freund	{'10112591-n'}
+schinken	{'07669891-n'}
+komödie	{'07015510-n'}
+immunglobulin	{'15030481-n'}
+generator	{'03433877-n'}
+malediven	{'08965251-n'}
+verschwörer	{'09958892-n'}
+band	{'04391838-n', '08240169-n', '04092609-n', '04088058-n', '02870092-n', '02785365-n', '02784218-n'}
+enterovirus	{'01337915-n'}
+rhinovirus	{'01338537-n'}
+müll	{'14857897-n', '14856263-n'}
+sprichwort	{'07151380-n'}
+evolution	{'13477023-n'}
+gauchheil	{'12092262-n'}
+granat	{'14676042-n'}
+demantoid	{'14829172-n'}
+kultur	{'05984936-n', '06194409-n', '00917759-n'}
+sehen	{'00880662-n'}
+zibetkatze	{'02135220-n'}
+zeh	{'05566097-n'}
+neutropenie	{'14196543-n'}
+protein	{'14728724-n'}
+ebenholz	{'12770736-n', '12770529-n'}
+löwenmäulchen	{'12877244-n'}
+befördern	{'01950798-v', '03100490-n'}
+psychochirurgie	{'00667384-n'}
+arbeit	{'08180639-n', '00620752-n', '00584367-n', '00576877-n'}
+arbeiten	{'01659248-v', '00584367-n', '04599396-n', '00575741-n'}
+erwerbstätigkeit	{'00584367-n'}
+rippenqualle	{'01918744-n'}
+schullehrer	{'10560352-n'}
+erzieher	{'09931418-n'}
+lehrer	{'10045713-n', '10694258-n'}
+cocktail	{'07911677-n'}
+vogel	{'01503061-n'}
+erläuterung	{'06738281-n'}
+lorbeer	{'11703669-n', '11704093-n'}
+intertrigo	{'07496166-n'}
+falle	{'04249415-n', '04474466-n'}
+fortsetzung	{'06621771-n'}
+formatierung	{'06636806-n'}
+atemlosigkeit	{'14370122-n'}
+orthopnoe	{'14369913-n'}
+mandrill	{'02486908-n'}
+drill	{'02487079-n'}
+tschakma	{'02486657-n'}
+azidose	{'14019600-n'}
+visier	{'04538878-n'}
+armet	{'02738741-n'}
+helm	{'03513137-n', '02978205-n', '03513376-n'}
+sprengstoff	{'03304730-n'}
+zimt	{'07814203-n'}
+muskatnuss	{'07815424-n'}
+ingwer	{'12355760-n', '07815163-n'}
+gewürz	{'07809368-n'}
+fenchel	{'07814790-n'}
+indianer	{'09645091-n'}
+winnipeg	{'08824152-n'}
+alpaka	{'02438272-n'}
+guanako	{'02438173-n'}
+zucker	{'07859284-n', '14792703-n'}
+virus	{'01328702-n'}
+unterschied	{'04749310-n'}
+glucosid	{'14887801-n'}
+winde	{'12823859-n'}
+clown	{'09930876-n'}
+hanswurst	{'09930876-n'}
+kampfläufer	{'02030035-n'}
+knutt	{'02028900-n'}
+sanderling	{'02029378-n'}
+theologie	{'06182144-n'}
+geschichte	{'06369829-n', '06156752-n'}
+stauen	{'03160309-n'}
+stechginster	{'12574866-n'}
+kalimantan	{'08909537-n'}
+messe	{'08408267-n', '03028079-n'}
+münster	{'03772077-n'}
+segment	{'09429387-n'}
+melasse	{'07860208-n', '07859951-n'}
+süßen	{'07858595-n'}
+grenadine	{'07860331-n'}
+schale	{'01904182-n'}
+gleichgewicht	{'02777100-n', '13934900-n'}
+anakonda	{'01743086-n'}
+revers	{'04084889-n'}
+truhe	{'03015254-n'}
+kommode	{'03015254-n'}
+plattitüde	{'07154046-n'}
+tapferkeit	{'05032193-n', '04857738-n'}
+wagemut	{'04857738-n'}
+bürgschaft	{'06685754-n'}
+notieren	{'02870092-n'}
+pseudonym	{'06338278-n'}
+urethritis	{'14567421-n'}
+honduraner	{'09712570-n'}
+lein	{'12486574-n'}
+fahren	{'01955984-v'}
+buchfink	{'01530439-n'}
+kernbeißer	{'01540233-n'}
+kanarienvogel	{'01533339-n'}
+gimpel	{'01534155-n'}
+girlitz	{'01533651-n'}
+hänfling	{'01532829-n'}
+birkenzeisig	{'01531971-n'}
+boot	{'02858304-n', '04530566-n', '01944692-v'}
+glas	{'14881303-n', '03438257-n'}
+priester	{'10470779-n', '10471250-n'}
+kardinal	{'09894143-n'}
+erzbischof	{'09805151-n'}
+kelch	{'11691523-n', '03147509-n'}
+weihbischof	{'10672540-n'}
+auspacken	{'01485513-v'}
+narbe	{'14363483-n'}
+sprechen	{'00941990-v', '00962447-v'}
+telefon	{'06272290-n', '04401088-n'}
+rundfunk	{'00968211-v', '06276697-n'}
+funk	{'06275353-n'}
+befruchtung	{'07436986-n'}
+satz	{'06750804-n', '00331950-n', '00798245-n', '07046339-n'}
+symphonie	{'07044760-n'}
+erfolg	{'07319103-n'}
+trennen	{'01458973-v'}
+getrennt	{'01458973-v'}
+kanal	{'09241247-n'}
+deflation	{'13499165-n'}
+abrasion	{'13423615-n'}
+bereuen	{'07535670-n'}
+schuldgefühl	{'07536245-n'}
+struktur	{'05225602-n', '08378819-n', '02712243-v', '04341686-n', '05726345-n'}
+variable	{'05857459-n', '07271280-n'}
+zeder	{'11623304-n'}
+camcorder	{'02942349-n'}
+reise	{'00295701-n', '00306426-n', '01835496-v', '01846916-v'}
+kalfatern	{'15014696-n'}
+alexandria	{'08898187-n', '09091285-n'}
+titel	{'06339416-n'}
+theismus	{'06223669-n'}
+kilt	{'03617312-n'}
+minirock	{'03770439-n'}
+sarong	{'04136333-n'}
+spalier	{'04478512-n'}
+pfanne	{'03880531-n'}
+krempe	{'02902079-n'}
+kopfbedeckung	{'03502509-n'}
+hutschnur	{'03498316-n'}
+barbiturat	{'02792049-n'}
+höhle	{'09238926-n', '05303402-n'}
+penis	{'05526384-n'}
+ordnung	{'08008335-n', '14981183-n', '01136519-n', '08435388-n', '08106934-n', '08456993-n'}
+hohlraum	{'05303402-n'}
+blastoporus	{'01463115-n'}
+rückkehr	{'00051192-n'}
+brandy	{'07903208-n'}
+fossa	{'02136623-n'}
+moskau	{'09004068-n'}
+kursk	{'09005611-n'}
+leningrad	{'09008454-n'}
+ural	{'09467185-n'}
+wolga	{'09473239-n'}
+kasan	{'09008333-n'}
+nowosibirsk	{'09010300-n'}
+nowgorod	{'09009174-n'}
+sibirien	{'09005712-n'}
+karelien	{'08779830-n'}
+graphit	{'14796575-n'}
+hochland	{'09302616-n'}
+kohle	{'14685296-n', '14633206-n', '14814616-n'}
+tafelberg	{'09351905-n'}
+ruß	{'14793533-n'}
+diamant	{'14834563-n'}
+fulleren	{'14622141-n'}
+hauptsächlich	{'10648696-n', '10474645-n'}
+star	{'09444783-n', '10648696-n', '09444100-n'}
+besonders	{'10676569-n'}
+mimik	{'10318892-n'}
+interpret	{'10415638-n'}
+angeklagt	{'00843468-v'}
+same	{'13135832-n'}
+chlorpyrifos	{'14810466-n'}
+carotinoid	{'14720962-n'}
+pfarrer	{'09927451-n'}
+gitarre	{'03467517-n'}
+unterführung	{'04508804-n'}
+enterobacteriaceae	{'01367430-n'}
+gebäck	{'07622708-n'}
+blitz	{'07412993-n'}
+erweiterung	{'06335162-n', '00365995-n'}
+unterarm	{'05564323-n'}
+seite	{'03264136-n', '05564590-n'}
+handgelenk	{'05584928-n'}
+öffnung	{'09379111-n', '03848729-n', '05249636-n'}
+homosexuell	{'10182913-n'}
+homo	{'10182913-n', '02472293-n'}
+männlich	{'09883947-n'}
+alkohol	{'07884567-n', '14708720-n'}
+treibstoff	{'14875077-n'}
+kaktus	{'11842204-n'}
+lebensmittel	{'07555863-n'}
+brie	{'07852614-n'}
+käsebruch	{'07849912-n'}
+parmesan	{'07854348-n'}
+gouda	{'07853648-n'}
+camembert	{'07852833-n'}
+mozzarella	{'07854184-n'}
+edamer	{'07853445-n'}
+anus	{'05538016-n'}
+feldspat	{'14864961-n'}
+albit	{'14865533-n'}
+anorthit	{'14865667-n'}
+togoer	{'09734535-n'}
+art	{'06825120-n', '04928903-n'}
+spiere	{'04267577-n'}
+seil	{'02933842-n', '04108268-n'}
+ort	{'03682189-n', '08664443-n'}
+job	{'03599628-n'}
+dynamit	{'03260293-n'}
+milizionär	{'10317717-n'}
+turm	{'04460130-n'}
+engel	{'09538915-n'}
+michael	{'09539517-n'}
+gabriel	{'09539394-n'}
+raphael	{'09539640-n'}
+maurer	{'10111144-n'}
+freimaurer	{'10111144-n'}
+untertreibung	{'06759063-n'}
+personenwagen	{'02958343-n'}
+massachusetts	{'09660373-n'}
+ottawa	{'08827486-n', '09664450-n'}
+illinois	{'09657615-n', '09082540-n'}
+neuroleptikum	{'03713736-n'}
+weinrebe	{'13144794-n'}
+sioux	{'09669125-n'}
+versuch	{'05787005-n'}
+ananas	{'07753275-n', '12607456-n'}
+verschmelzung	{'01237415-n'}
+cincinnati	{'09130883-n'}
+cleveland	{'09130714-n'}
+ton	{'06865345-n', '14813182-n', '06763273-n', '07082819-n'}
+gebäude	{'02913152-n'}
+saite	{'02880546-n'}
+amati	{'02700895-n'}
+haus	{'03544360-n'}
+angst	{'07519253-n', '14374432-n', '07523905-n'}
+protease	{'14999106-n'}
+bedeutung	{'06601327-n'}
+pkw	{'02959942-n', '02958343-n'}
+dingwort	{'06317862-n'}
+biologie	{'06037666-n'}
+paläontologie	{'06073888-n'}
+paläozoologie	{'06074860-n', '06074372-n'}
+zustand	{'14411243-n', '08168978-n', '01659248-v', '13920835-n', '00024720-n', '14479615-n'}
+schreiben	{'00929718-n', '00614224-n'}
+sich	{'04329190-n', '03744276-n', '04202417-n'}
+speicher	{'04329190-n', '03744276-n'}
+deck	{'03167666-n'}
+trauma	{'14285662-n'}
+verwundung	{'14285662-n'}
+bodyguard	{'09863031-n'}
+havanna	{'08750612-n'}
+kubaner	{'09698901-n'}
+demonstration	{'01177703-n'}
+widerstand	{'01169317-n'}
+streik	{'01178195-n'}
+boykott	{'00206130-n'}
+buchsbaum	{'12746106-n'}
+name	{'06333653-n'}
+tour	{'00306426-n'}
+babel	{'04460634-n'}
+zeichen	{'09909060-n', '06806469-n', '06818970-n', '06793231-n', '06817782-n', '07270179-n', '00508032-v'}
+ballade	{'07049713-n'}
+kunstlied	{'07051620-n'}
+sprache	{'07130050-n', '07051975-n', '06282651-n', '07109196-n'}
+volkslied	{'07050952-n'}
+rentier	{'02433925-n'}
+portland	{'09093472-n', '09133895-n'}
+erbschaft	{'13262913-n'}
+toxin	{'15034074-n'}
+quelle	{'09443453-n', '06417598-n', '08101937-n'}
+riese	{'09488711-n'}
+papageitaucher	{'02047614-n'}
+antimetabolit	{'02722166-n'}
+gruppe	{'14621446-n', '00031264-n'}
+zeit	{'06329506-n'}
+landzunge	{'09396465-n'}
+leukotomie	{'00684128-n'}
+lobotomie	{'00684128-n'}
+einrichtung	{'03315023-n', '03183080-n'}
+gegenstand	{'05981230-n', '00002684-n'}
+berührung	{'00046522-n'}
+edelstein	{'14699752-n'}
+taipeh	{'08730895-n'}
+taiwan	{'09733899-n', '08730550-n'}
+chinesen	{'09698108-n'}
+fürst	{'10628644-n'}
+polypeptid	{'14742917-n'}
+proteom	{'14736854-n'}
+rinde	{'13162297-n', '05486510-n'}
+thailand	{'09036452-n'}
+planetarium	{'03955809-n', '03955941-n'}
+befall	{'14452616-n'}
+änderung	{'07296428-n', '11412727-n'}
+fotograf	{'10426749-n'}
+strychnin	{'14715008-n'}
+coffein	{'14761122-n'}
+ephedrin	{'14713487-n'}
+scopolamin	{'04149490-n'}
+hyoscyamin	{'03554795-n'}
+union	{'08304895-n'}
+happening	{'00344643-v'}
+tabak	{'04442831-n'}
+gallien	{'09688487-n'}
+arabien	{'08847694-n'}
+zuwendung	{'01042764-n', '07546125-n', '07544491-n'}
+zypresse	{'11630489-n'}
+extrakt	{'13478525-n'}
+elektronik	{'06099269-n'}
+alabaster	{'14665351-n'}
+kreide	{'14676756-n'}
+vorrichtung	{'03183080-n'}
+antrieb	{'03789946-n'}
+maschinen	{'03701640-n'}
+amid	{'14724264-n'}
+stein	{'14696793-n', '04326084-n'}
+glück	{'07526757-n'}
+sex	{'00844254-n'}
+bergmann	{'09932508-n'}
+haarnixe	{'11718296-n'}
+eucharistie	{'01035853-n'}
+taufe	{'01037819-n', '01038375-n'}
+firmung	{'01038761-n'}
+bußsakrament	{'01039140-n'}
+ehe	{'13963970-n', '01036903-n', '07989373-n'}
+liturgie	{'01035853-n'}
+zeolith	{'15106867-n'}
+politiker	{'10450303-n'}
+simpel	{'10599354-n'}
+käufer	{'09984659-n', '09885145-n'}
+mandola	{'03716887-n'}
+antiarrhythmikum	{'02715941-n'}
+essen	{'07555863-n', '00838367-n'}
+feldzug	{'00968155-n'}
+erfinden	{'05633385-n'}
+genie	{'05625373-n'}
+innovation	{'05633385-n'}
+muster	{'05633385-n', '03178782-n', '05930736-n'}
+somalia	{'08998560-n'}
+mantelstromtriebwerk	{'03321103-n'}
+strahl	{'03595860-n'}
+turbojet	{'03321103-n'}
+autobahn	{'03306610-n'}
+fett	{'06827219-n', '04999401-n', '14864360-n'}
+keyboard	{'03614007-n'}
+wagen	{'02934451-n', '02970849-n', '02924116-n', '03055670-n', '02969010-n', '03895866-n', '04543158-n', '02968473-n'}
+verbrecher	{'09977660-n'}
+quitte	{'07769584-n', '12628986-n'}
+allianz	{'08293982-n'}
+koalition	{'08293982-n'}
+hyperlink	{'06586672-n'}
+fischfang	{'01140794-v'}
+finger	{'05566097-n', '05566504-n', '03341153-n'}
+daumen	{'05567217-n', '04430896-n'}
+hanf	{'14906500-n', '02949691-n'}
+sisal	{'15042654-n'}
+europa	{'09275473-n', '08173515-n'}
+nato	{'08174398-n'}
+baskisch	{'09692250-n'}
+pyrenäen	{'09401474-n'}
+galicien	{'09028204-n'}
+andalusien	{'08493261-n'}
+sevilla	{'09027089-n'}
+aragonien	{'09027460-n'}
+katalonien	{'09028062-n'}
+ebro	{'09271415-n'}
+kastilien	{'09027853-n'}
+madrid	{'09024467-n'}
+mallorca	{'09024844-n'}
+tajo	{'09453566-n'}
+barcelona	{'09025189-n'}
+elektrophorese	{'13472518-n'}
+lakota	{'09669631-n'}
+iowa	{'09657748-n'}
+missouri	{'09660958-n'}
+zelt	{'04411264-n', '02653996-v'}
+funafuti	{'08840657-n'}
+bakelit	{'14596216-n'}
+polypropylen	{'14996158-n'}
+polyester	{'14993559-n', '03979377-n'}
+thermoplast	{'14593344-n'}
+polytetrafluorethylen	{'14596398-n'}
+erbse	{'12560016-n'}
+anthologie	{'06591609-n'}
+analysiert	{'00643473-v'}
+elektron	{'09271904-n'}
+neutrino	{'09369412-n'}
+myon	{'09363214-n'}
+monarch	{'10628644-n'}
+spionage	{'00654234-n'}
+bronzen	{'02906175-n', '14717275-n'}
+halbleiter	{'14821248-n', '04171831-n'}
+schmuck	{'03597469-n'}
+brandenburg	{'08775597-n'}
+repräsentation	{'04076846-n', '05926676-n'}
+zyanose	{'14303009-n'}
+suchen	{'00648224-v', '01143838-v', '05770058-n'}
+untersuchung	{'00648224-v', '00636921-n'}
+suche	{'00648224-v'}
+gaza	{'08794366-n'}
+jerusalem	{'08794798-n'}
+israeli	{'09715833-n'}
+negev	{'09171560-n'}
+galiläa	{'08793914-n'}
+klippe	{'09259025-n'}
+chip	{'03020034-n'}
+hämodialyse	{'00650543-n'}
+osmose	{'13528100-n'}
+myositis	{'14350292-n'}
+marquis	{'10295479-n'}
+parodontitis	{'14080622-n'}
+fairness	{'04839154-n'}
+dänemark	{'08761244-n'}
+ganz	{'04850341-n'}
+gewächshaus	{'03092166-n'}
+wohnung	{'03259505-n'}
+wohnen	{'03259505-n'}
+mannschaft	{'08273736-n', '08273167-n'}
+endodontie	{'06048184-n'}
+kieferorthopädie	{'06048552-n'}
+parodontologie	{'06048851-n'}
+findling	{'14696793-n'}
+chemie	{'06084469-n'}
+bitumen	{'14911530-n'}
+trypsin	{'15081052-n'}
+gekröse	{'05429195-n'}
+latinismus	{'06293655-n'}
+gallizismus	{'07081646-n'}
+dinosaurier	{'01699831-n'}
+salmler	{'02583890-n'}
+otto	{'04446276-n'}
+konzentration	{'00375071-n', '05038593-n'}
+familie	{'07970406-n', '07970721-n', '08107499-n'}
+werk	{'03316406-n', '04602044-n', '04599396-n', '03129123-n', '06362953-n'}
+morphin	{'03786417-n'}
+parallelepiped	{'13884740-n'}
+fahrt	{'00307631-n'}
+rhodos	{'08783812-n'}
+schuhwerk	{'03380867-n'}
+sandale	{'04133789-n'}
+oberteil	{'04514359-n', '04453666-n'}
+laufsohle	{'03862190-n'}
+einlegesohle	{'03573848-n'}
+schnürsenkel	{'04200637-n', '03631445-n'}
+bereich	{'13899200-n'}
+lasche	{'04450994-n'}
+wirtschaftsprüfer	{'09822955-n'}
+buchhalter	{'09866115-n'}
+cefuroxim	{'02990103-n'}
+cefotaxim	{'02989475-n'}
+ceftriaxon	{'02989893-n'}
+cefoperazon	{'02989313-n'}
+cefadroxil	{'02989178-n'}
+ceftazidim	{'02989685-n'}
+einäscherung	{'00378706-n'}
+rätsel	{'06784639-n', '04028315-n'}
+nephritis	{'14113798-n'}
+kennzeichnen	{'07270179-n'}
+vertrauen	{'13929852-n'}
+stempelung	{'07270179-n'}
+kameradschaft	{'13929588-n'}
+katze	{'02120997-n'}
+cheyenne	{'09159675-n'}
+casper	{'09159546-n'}
+transplantation	{'00693679-n'}
+dämon	{'09542339-n'}
+botschafter	{'09787534-n'}
+gesandter	{'10061043-n'}
+konsul	{'09959797-n'}
+norweger	{'06954303-n'}
+parallelogramm	{'13883133-n', '13881175-n'}
+quadrat	{'13878634-n'}
+fußball	{'00478262-n', '03378765-n'}
+rugby	{'00470966-n'}
+vermis	{'05486159-n'}
+paläocerebellum	{'05486319-n'}
+laut	{'06278136-n', '02176268-v', '07111047-n'}
+paste	{'07856270-n'}
+schulaufgaben	{'00728641-n'}
+position	{'08621598-n', '00722479-n', '13948136-n', '08664443-n'}
+megaspore	{'11688199-n'}
+mikrospore	{'11687789-n'}
+endospore	{'11548594-n'}
+abrogation	{'00231887-n'}
+dressing	{'07832902-n', '00046534-v'}
+kleidung	{'04532106-n', '03051540-n', '00046534-v', '02756098-n', '02728440-n'}
+menschen	{'07942152-n', '10289039-n', '10287213-n'}
+quantum	{'05855517-n'}
+lexikon	{'06418901-n'}
+körper	{'05549830-n', '13860793-n', '15046900-n', '05996646-n', '09224911-n', '00007846-n'}
+mekka	{'08994090-n'}
+medina	{'08994339-n'}
+eis	{'09308398-n', '14915184-n'}
+moräne	{'09358907-n'}
+lena	{'09337686-n'}
+chabarowsk	{'09005273-n'}
+cowboy	{'09973209-n', '09972661-n'}
+skorbut	{'14201520-n'}
+rachitis	{'14201311-n'}
+biene	{'02206856-n'}
+gewicht	{'13608788-n', '05026843-n'}
+nymphe	{'09548632-n', '02311617-n'}
+hals	{'03814112-n', '05547508-n'}
+rucksack	{'02769748-n'}
+gemeinde	{'08665504-n'}
+elfenblumen	{'11698895-n'}
+sauerampfer	{'12603959-n'}
+knöterichgewächse	{'12600574-n'}
+löwe	{'09337833-n', '02129165-n'}
+dasein	{'00004475-n'}
+philosoph	{'10423589-n', '10425946-n'}
+tote	{'09994943-n'}
+soma	{'05217168-n'}
+lateinisch	{'10247880-n'}
+hebräisch	{'09681351-n'}
+geschöpf	{'09976429-n'}
+ursache	{'00007347-n'}
+persönlichkeit	{'04617562-n'}
+angehörigen	{'07942152-n'}
+stärke	{'15054467-n', '15053867-n'}
+gelehrte	{'10251779-n'}
+herr	{'10388440-n', '10271677-n', '10289039-n', '10287213-n'}
+leib	{'05217168-n'}
+zitronengelb	{'04966543-n'}
+staubbeutel	{'11675245-n'}
+safran	{'12416703-n', '04966717-n'}
+gelb	{'04966240-n'}
+intellekt	{'09621545-n'}
+intellektuelle	{'09621545-n'}
+pyroxen	{'14693396-n'}
+apfel	{'12633994-n', '07739125-n'}
+hellsehen	{'07256695-n'}
+psychokinese	{'07257045-n'}
+kapital	{'13358549-n'}
+mexikaner	{'09722658-n'}
+gefühle	{'00026192-n'}
+fürchten	{'07519253-n'}
+freude	{'07491038-n', '07527352-n'}
+liebe	{'01775535-v', '07543288-n'}
+komponist	{'09947232-n'}
+menstruation	{'13513747-n'}
+erinyen	{'09506337-n'}
+murmeltier	{'02361337-n'}
+enterobakterien	{'01367772-n'}
+kongo	{'08734385-n', '09252078-n'}
+mundart	{'07156219-n'}
+herbizid	{'14906850-n'}
+arena	{'04295881-n'}
+elfe	{'09540739-n'}
+kobold	{'09540739-n'}
+erlösung	{'00093483-n'}
+fastball	{'00108181-n'}
+parther	{'09726374-n'}
+elritze	{'01442972-n'}
+reiher	{'02008041-n'}
+suppe	{'07585208-n', '07583197-n'}
+mystik	{'05948857-n'}
+dienst	{'00579564-n', '00586262-n'}
+bestimmt	{'06751142-n'}
+logische	{'06753030-n'}
+konstante	{'13585429-n'}
+armut	{'14493145-n', '14493613-n'}
+cyanobakterien	{'01358572-n'}
+gipskarton	{'03957762-n'}
+tod	{'13962498-n', '07291794-n'}
+vorurteil	{'06201908-n'}
+kaneel	{'11704791-n', '11705052-n'}
+geschnitten	{'07653394-n', '01552519-v'}
+beefsteak	{'07658168-n'}
+bonbon	{'07597365-n', '07596684-n'}
+pipa	{'01653975-n'}
+norden	{'09052652-n'}
+oklahoma	{'09131654-n'}
+west	{'08682819-n'}
+schwester	{'10595164-n'}
+verwandt	{'07969695-n'}
+verwandte	{'07969695-n'}
+dermatitis	{'14224757-n'}
+management	{'01133281-n'}
+wasserpest	{'12614477-n', '12614962-n'}
+fasern	{'03309808-n'}
+kommunismus	{'06214744-n'}
+bogen	{'02879718-n', '02733524-n'}
+brückenpfeiler	{'03933933-n'}
+viadukt	{'04532670-n'}
+fußgängerbrücke	{'03379828-n'}
+aalmolch	{'01638722-n'}
+schlammteufel	{'01633406-n'}
+aufmerksamkeit	{'04662951-n', '05611302-n'}
+gewand	{'04532106-n'}
+stil	{'05750163-n', '07066659-n'}
+trend	{'05750163-n'}
+mode	{'05750163-n', '05750657-n'}
+kryptographie	{'00614489-n'}
+erzengel	{'09539183-n'}
+messen	{'00996969-n'}
+salat	{'11986306-n', '07806221-n'}
+sonne	{'09450454-n'}
+galaxie	{'08271042-n'}
+parameter	{'09469152-n'}
+schalmei	{'04186624-n'}
+heckelphon	{'03510866-n'}
+grabstein	{'03455488-n'}
+anden	{'09196611-n'}
+kolumbianer	{'09698517-n'}
+orinoco	{'09379938-n'}
+wega	{'09469912-n'}
+ehemann	{'10193967-n'}
+galgen	{'03413124-n'}
+knesset	{'08319679-n'}
+kiribati	{'08840749-n'}
+nauru	{'08841209-n'}
+konzertina	{'03086670-n'}
+ödem	{'14316714-n'}
+möbelstück	{'03405725-n'}
+regal	{'04190052-n'}
+schach	{'00503237-n'}
+kaninchennasenbeutler	{'01876667-n'}
+gehen	{'01927903-v', '01904930-v', '01927447-v'}
+spazierengehen	{'01904930-v'}
+wandern	{'01926031-v'}
+dichtung	{'04159354-n', '01926031-v'}
+finnland	{'08779504-n'}
+sanikel	{'12943443-n'}
+salzen	{'15010703-n'}
+betonung	{'14435187-n', '06822198-n'}
+umlaut	{'06823760-n'}
+zirkumflex	{'06823102-n'}
+macron	{'06823440-n'}
+breve	{'06822831-n'}
+tilde	{'06823561-n'}
+bereit	{'14031523-n'}
+tangelo	{'07748574-n'}
+ugli	{'07748574-n'}
+endung	{'06308765-n'}
+suffix	{'06308987-n', '06308049-n'}
+soldat	{'09902611-n', '09902353-n'}
+infanterist	{'10204921-n'}
+piaffe	{'00288384-n'}
+paraffin	{'14926086-n'}
+feindseligkeit	{'07547805-n'}
+gefühl	{'07480068-n', '05712076-n', '00026192-n', '07481951-n'}
+abscheu	{'07503430-n'}
+druck	{'11429458-n'}
+offiziell	{'10372076-n'}
+epidermis	{'05240211-n'}
+lederhaut	{'05243879-n'}
+melanin	{'14757172-n'}
+serbien	{'08816969-n'}
+montenegro	{'08817235-n'}
+belgrad	{'08817418-n'}
+gips	{'14677778-n'}
+karneol	{'14801594-n'}
+sarder	{'15019734-n'}
+chrysopras	{'14812233-n'}
+heliotrop	{'14781631-n'}
+blutstein	{'14781631-n'}
+plasma	{'14992165-n'}
+achat	{'14708232-n'}
+onyx	{'14969523-n'}
+glomerulonephritis	{'14116078-n'}
+zuhause	{'03259505-n'}
+flur	{'03719053-n', '03718581-n'}
+bauernhaus	{'03322836-n'}
+streichung	{'00659667-n'}
+petrissage	{'00659834-n'}
+tapotement	{'00660324-n'}
+reflexzonenmassage	{'00659946-n'}
+zoologie	{'06083243-n'}
+lepidopterologie	{'06072476-n'}
+handfläche	{'05565696-n'}
+mittelhand	{'05593871-n'}
+faust	{'05565064-n'}
+imitator	{'10319163-n'}
+stendelwurz	{'12062468-n'}
+sein	{'09963320-n', '00004475-n'}
+anlass	{'00007347-n'}
+beatmung	{'00831191-n'}
+atmung	{'00831191-n'}
+übergang	{'07415730-n'}
+veränderung	{'07296428-n', '07337390-n', '00126264-v', '10341660-n'}
+elektrode	{'03274796-n'}
+photokathode	{'03924407-n'}
+stapeln	{'07961480-n'}
+röhrling	{'13054560-n', '13055009-n'}
+halsbandpekari	{'02397744-n'}
+paarhufer	{'02394477-n'}
+arsen	{'14629149-n'}
+arie	{'07049514-n'}
+handlung	{'14006945-n', '00952963-n', '07009640-n', '00407535-n', '00037396-n'}
+übertitel	{'06347811-n'}
+keratin	{'14732472-n'}
+mann	{'02472293-n', '10582746-n', '10287213-n'}
+nasopharynx	{'05528854-n'}
+mundrachen	{'05529012-n'}
+schlundrachen	{'05529159-n'}
+licht	{'03665366-n', '11473954-n'}
+sprachen	{'06282651-n', '06304059-n', '07109196-n'}
+somalier	{'09749880-n'}
+mogadischu	{'08998853-n'}
+schachbrett	{'03011521-n'}
+fleischfresser	{'02074915-n', '02075296-n'}
+verteidigung	{'03171356-n'}
+mauer	{'04051825-n'}
+böschung	{'03282060-n', '03296328-n'}
+bunker	{'02920503-n'}
+hammerhai	{'01494475-n'}
+sozialismus	{'08366202-n'}
+faschismus	{'06217944-n', '08366440-n'}
+neugeborenes	{'10353016-n'}
+treue	{'04877530-n'}
+germanium	{'14638517-n'}
+irokesenschnitt	{'09661731-n'}
+seneca	{'09668058-n'}
+eriesee	{'09135447-n', '09655018-n'}
+reiter	{'02377703-n', '09902353-n'}
+moor	{'09452395-n', '09347779-n'}
+sumpf	{'09347779-n'}
+columbium	{'14647154-n'}
+nil	{'09371360-n'}
+kairo	{'08898633-n'}
+gizeh	{'08899149-n'}
+luxor	{'08899577-n'}
+ägyptisch	{'09700492-n'}
+assuan	{'08898457-n'}
+malaysia	{'08963369-n'}
+strophe	{'06384708-n', '07052291-n'}
+mesenchym	{'01464441-n'}
+reihenfolge	{'06503224-n'}
+rochen	{'01495701-n'}
+maul	{'05302499-n'}
+schnabel	{'01758510-n', '01758308-n'}
+flotte	{'08292756-n'}
+umgebung	{'08567235-n', '13934596-n'}
+rahmen	{'03391770-n'}
+centime	{'13665965-n'}
+glukosurie	{'14267722-n'}
+blindwühle	{'01655344-n'}
+pastinak	{'12941536-n'}
+pomade	{'03980026-n'}
+graf	{'09969218-n'}
+lob	{'06693198-n'}
+schlachtschiff	{'02812201-n', '03236093-n'}
+gänsefuß	{'11828247-n'}
+phenytoin	{'03203441-n'}
+fügen	{'01291069-v'}
+verbunden	{'01291069-v'}
+nasenbeutler	{'01876326-n'}
+seidenpflanze	{'13233727-n'}
+serum	{'05403149-n'}
+montage	{'03067912-n'}
+collage	{'03067912-n'}
+fiber	{'14866889-n'}
+teilchen	{'09386422-n'}
+empörung	{'07517737-n'}
+hypersomnie	{'14023236-n'}
+mangan	{'14644654-n'}
+schote	{'13139055-n'}
+humor	{'06776138-n'}
+witz	{'06776138-n'}
+lehnwort	{'06293460-n'}
+brauch	{'00413239-n'}
+bischof	{'09857200-n'}
+metropolit	{'10313239-n'}
+iran	{'08910668-n'}
+bischofssitz	{'08586825-n'}
+erzbistum	{'08550862-n'}
+eparchie	{'08551296-n'}
+jurisdiktion	{'08590369-n'}
+streit	{'07181935-n'}
+rechte	{'05174653-n'}
+eiweiß	{'14728724-n'}
+pepsin	{'14978729-n'}
+polymerase	{'14984378-n'}
+amylase	{'14735457-n'}
+lipase	{'14938687-n'}
+jakarta	{'08909719-n'}
+javaner	{'10220080-n'}
+texas	{'09141526-n'}
+augenbohne	{'12578626-n'}
+mungo	{'12578255-n', '02137549-n'}
+ergosterol	{'15059404-n'}
+base	{'14618253-n'}
+abweichung	{'14501726-n'}
+pipette	{'03247083-n'}
+länge	{'05129201-n'}
+radius	{'05102101-n'}
+chrysolith	{'14812047-n'}
+magnesium	{'14644249-n'}
+baltimore	{'09094381-n'}
+reihe	{'02703539-v', '04008385-n'}
+gepäck	{'02774630-n'}
+atherosklerose	{'14108713-n'}
+sklerose	{'14110411-n'}
+pullover	{'04021028-n'}
+strickjacke	{'02963159-n'}
+halsausschnitt	{'03815278-n'}
+rollkragen	{'04502197-n'}
+trinken	{'07881800-n', '07885223-n'}
+mastkraut	{'11814238-n'}
+gamasche	{'04027935-n', '04269822-n'}
+hannoveraner	{'10159852-n'}
+georg	{'10995592-n'}
+nation	{'08166552-n', '08168978-n'}
+frei	{'07947958-n'}
+grottenolm	{'01634092-n'}
+infinitiv	{'06318904-n'}
+intransitiv	{'06331641-n'}
+transitiv	{'06331281-n'}
+partizip	{'06330528-n'}
+konjugation	{'13804085-n'}
+vorzeichen	{'07286014-n'}
+reim	{'07096661-n', '06381869-n'}
+detektiv	{'10009484-n'}
+catechin	{'15067237-n'}
+stuhl	{'14854262-n', '03001627-n'}
+grasland	{'08598301-n'}
+glykoproteine	{'14888310-n'}
+besteigen	{'09359803-n'}
+berg	{'09359803-n'}
+isolierung	{'14414715-n'}
+bürgermeister	{'10303814-n', '09880881-n'}
+haft	{'13998576-n'}
+phage	{'01334862-n'}
+vektor	{'01372038-n'}
+tellur	{'14657228-n'}
+sänger	{'10599806-n'}
+süßstoff	{'07858595-n'}
+syrer	{'09733459-n'}
+damaskus	{'09033936-n'}
+aleppo	{'09034286-n'}
+latakia	{'09034402-n'}
+orgelpfeife	{'03945615-n'}
+eidechsenfisch	{'02543565-n'}
+route	{'04096066-n'}
+fischadler	{'01616086-n'}
+robe	{'04097866-n'}
+doktrin	{'05943300-n'}
+epizykloide	{'13909488-n'}
+magen	{'05395690-n'}
+regieren	{'15295416-n'}
+pfeiler	{'03074380-n', '03073977-n'}
+niederschlag	{'11494638-n', '11501381-n'}
+esotropie	{'14506233-n'}
+exotropie	{'14557573-n'}
+friesland	{'08951513-n'}
+extremität	{'05559908-n'}
+glied	{'05559908-n'}
+hundsgift	{'11767354-n'}
+ändern	{'07296428-n'}
+deletion	{'07425577-n'}
+obstruktion	{'14507951-n'}
+verstopfung	{'02853449-n', '14507951-n'}
+organisation	{'08164585-n', '08008335-n'}
+khoikhoi	{'06941479-n'}
+produkt	{'03748886-n', '14997699-n'}
+gravidität	{'14046861-n'}
+kanone	{'02950256-n', '02950826-n'}
+trockenheit	{'14536438-n'}
+allergie	{'14532816-n'}
+bioethik	{'06159777-n'}
+vorrat	{'13777344-n'}
+hasenglöckchen	{'12459275-n'}
+beschlagnahme	{'00088481-n', '00085219-n'}
+region	{'05221895-n', '08630039-n', '08630985-n', '08644722-n'}
+baldrian	{'12950126-n'}
+bestreben	{'00923444-n'}
+portugal	{'08984788-n'}
+bindegewebe	{'05582513-n'}
+fatalismus	{'05971394-n'}
+führung	{'01133281-n'}
+durst	{'14040660-n'}
+dinge	{'01220984-n'}
+wahrnehmung	{'05710020-n'}
+praxis	{'00671351-n', '00410247-n', '05667196-n'}
+macht	{'05616246-n'}
+standort	{'08651247-n'}
+prophet	{'10102506-n'}
+depression	{'14404160-n', '14389240-n'}
+hamburger	{'07664007-n', '07697100-n'}
+ekzem	{'14226056-n'}
+neurodermitis	{'14224341-n'}
+blühen	{'11669921-n'}
+gondel	{'02960501-n'}
+prallluftschiff	{'02850950-n'}
+regenmantel	{'04049405-n', '03703590-n'}
+wasserdicht	{'04049405-n'}
+vanadium	{'14661020-n'}
+wasserschlauch	{'12872458-n'}
+führen	{'05826914-n', '00854876-n', '10162991-n', '01256743-n'}
+bussard	{'01607962-n'}
+trisaccharid	{'15080571-n'}
+satsuma	{'07748276-n'}
+ziel	{'05981230-n', '05982152-n'}
+reiseziel	{'05981768-n'}
+absicht	{'05982152-n'}
+thorax	{'02665543-n'}
+malachit	{'14680661-n'}
+trommeln	{'03249569-n'}
+augenblick	{'15246853-n'}
+minute	{'15246853-n', '15234764-n'}
+ketten	{'03000021-n'}
+schnur	{'02999757-n', '03106110-n'}
+halsband	{'03024882-n'}
+brahman	{'02404573-n'}
+overall	{'03121897-n'}
+vasodilatator	{'04522904-n'}
+methanol	{'14687818-n'}
+diol	{'14835980-n'}
+revolver	{'04086273-n'}
+behandeln	{'00658082-n'}
+gen	{'05436752-n'}
+keks	{'07635155-n'}
+eingelegt	{'00212414-v'}
+nasal	{'07119211-n'}
+alveolar	{'07115493-n'}
+velar	{'07120025-n'}
+krankenhaus	{'03540595-n'}
+gewitter	{'11519253-n'}
+schneesturm	{'11509570-n'}
+sturm	{'11461825-n', '11527014-n'}
+blizzard	{'11509570-n'}
+hagelsturm	{'11465688-n'}
+olecranon	{'05593654-n'}
+messgerät	{'03753077-n'}
+verkündigung	{'07243837-n'}
+prisma	{'13884511-n'}
+quader	{'13884930-n'}
+rhomboeder	{'13915417-n'}
+zwergfledermaus	{'02147947-n'}
+bus	{'02924116-n'}
+verfolgen	{'00884466-n', '02084071-n'}
+bitterwurz	{'11860555-n'}
+taube	{'01811909-n'}
+spinat	{'11835568-n', '07736692-n'}
+gemüse	{'12212361-n', '07707451-n'}
+kontrafagott	{'03096439-n'}
+voran	{'09284433-n'}
+glasgow	{'08892971-n'}
+hebriden	{'08893223-n'}
+tipi	{'04412416-n'}
+partyzelt	{'03900979-n'}
+neonatologie	{'06061917-n'}
+blende	{'02727141-n'}
+karte	{'02962545-n', '06627006-n', '06793426-n', '03009920-n'}
+anbetung	{'01028655-n'}
+raupe	{'02309337-n'}
+bärenspinner	{'02305245-n'}
+wolke	{'09247410-n'}
+pferdestute	{'02374451-n'}
+relation	{'00031921-n'}
+aufnahme	{'04063868-n', '01248191-n'}
+videokassette	{'04533700-n'}
+pilze	{'12992868-n', '12992464-n'}
+quiche	{'07619594-n'}
+physiologie	{'06080522-n'}
+neurowissenschaften	{'06081833-n'}
+honolulu	{'09078784-n'}
+mihrab	{'03762434-n'}
+felsenbirne	{'12623524-n'}
+ansiedlung	{'08226699-n'}
+dörfer	{'08226699-n'}
+buchhaltung	{'00618734-n'}
+robotik	{'06133654-n'}
+frauenhaarfarn	{'13206817-n'}
+spartanisch	{'09711661-n'}
+wein	{'07891726-n'}
+irokesen	{'09657887-n', '06916803-n'}
+flyer	{'07250339-n'}
+linse	{'03656484-n'}
+dialyse	{'00649760-n'}
+einzeln	{'00007846-n'}
+begierde	{'07485475-n'}
+mangel	{'07486229-n', '14449405-n', '14493426-n', '14463471-n'}
+produktion	{'00924825-n', '00913705-n'}
+wettbewerb	{'07456188-n'}
+feuerung	{'03344509-n'}
+medikament	{'03740161-n'}
+arzneimittel	{'03740161-n'}
+malve	{'12170585-n', '12170415-n'}
+abelmoschus	{'12171750-n'}
+buchweizen	{'07803310-n'}
+archäologie	{'06144081-n'}
+status	{'13920835-n'}
+dominanz	{'14442530-n'}
+beryllium	{'14631295-n'}
+morganit	{'14955776-n'}
+aquamarin	{'14767663-n'}
+smaragd	{'14849655-n'}
+gemeinschaft	{'08223802-n', '08227916-n', '01036333-n', '08229467-n'}
+wasserfahrzeug	{'04530566-n'}
+handbuch	{'06421685-n'}
+verheiratung	{'13963970-n'}
+polygynie	{'13967089-n'}
+vielmännerei	{'13966795-n'}
+vereinigung	{'13963970-n', '08304895-n'}
+tropfstein	{'14936630-n'}
+zahl	{'13582013-n', '06807198-n'}
+paramaribo	{'09031061-n'}
+würfeln	{'03144592-n'}
+sechs	{'04225417-n'}
+vier	{'03388826-n'}
+fünf	{'03353783-n'}
+benzin	{'14686913-n'}
+naphthalin	{'14958564-n'}
+ethan	{'14850826-n'}
+regenbaum	{'11759853-n'}
+erdhügel	{'03792048-n'}
+hügel	{'09326662-n', '03792048-n'}
+tube	{'04494204-n'}
+chartreuse	{'07908923-n'}
+stechwinde	{'12470512-n'}
+sassaparille	{'12470092-n'}
+frieden	{'13970236-n'}
+hirnschädel	{'05540513-n'}
+vögeln	{'05269901-n'}
+oberkiefer	{'05546040-n'}
+vomer	{'05610734-n'}
+nördlich	{'11487950-n'}
+mennoniten	{'09677561-n'}
+brustkorb	{'05553288-n'}
+brust	{'05553288-n', '05551711-n', '01591697-n'}
+sternum	{'05281189-n'}
+pustel	{'14334122-n'}
+akne	{'14222112-n'}
+milch	{'07844042-n', '05399034-n'}
+pantoffeltierchen	{'01396048-n'}
+dns	{'14830364-n'}
+perianth	{'11692265-n'}
+spross	{'11674914-n'}
+stamen	{'11675096-n'}
+karpell	{'11677743-n'}
+fruchtknoten	{'11678635-n'}
+stempel	{'11676500-n'}
+humus	{'14908822-n'}
+untergrund	{'14695838-n'}
+tupelobaum	{'12340998-n'}
+prakrit	{'06973092-n'}
+hochzeit	{'13963970-n'}
+grenader	{'09749260-n'}
+bakterizid	{'02716205-n'}
+zeitraum	{'13513747-n', '15113229-n'}
+mangelernährung	{'14199700-n'}
+flügel	{'02151625-n', '04592741-n'}
+springschwanz	{'02163297-n'}
+hautflügler	{'02206270-n', '02205896-n'}
+käfer	{'02164464-n'}
+mord	{'00220522-n'}
+polysaccharid	{'14994004-n'}
+maniok	{'12926480-n', '14761578-n'}
+sago	{'15054607-n'}
+behaarung	{'04683453-n'}
+stärkemehl	{'15054467-n'}
+kammer	{'03003730-n'}
+karfiol	{'07715103-n'}
+kaufen	{'00081572-n'}
+fink	{'01529672-n'}
+kalmus	{'11780930-n'}
+schizophrenie	{'14398523-n'}
+beißen	{'14287408-n'}
+verwirrung	{'13975752-n'}
+dolmetscher	{'10212501-n'}
+übersetzer	{'10212501-n'}
+immergrün	{'11772408-n', '11777929-n', '11777779-n'}
+pestizid	{'14980215-n'}
+parathion	{'15012214-n'}
+affenpinscher	{'02110627-n'}
+dimenhydrinat	{'03198951-n'}
+promethazin	{'04010348-n'}
+leder	{'14759722-n'}
+kneipe	{'02796995-n'}
+lokal	{'04018399-n', '02796995-n'}
+ausdruck	{'07151380-n'}
+schloss	{'03877845-n'}
+rosskastanie	{'12768369-n'}
+island	{'08953324-n'}
+blattwespe	{'02218713-n'}
+blütenstand	{'11674332-n'}
+turin	{'08810220-n'}
+stachelhäuter	{'02316707-n'}
+gerinnungshemmend	{'02718259-n'}
+pate	{'10134760-n', '10134982-n'}
+patin	{'10134870-n'}
+glaube	{'08081668-n', '05946687-n', '05941423-n'}
+christentum	{'06226057-n'}
+fischermarder	{'02450829-n'}
+zobel	{'02450426-n'}
+widerruf	{'00232386-n'}
+alexandrit	{'14715679-n'}
+reguliert	{'02510337-v', '00234988-v'}
+regulieren	{'00234988-v'}
+reduzieren	{'00233203-v'}
+einstellen	{'00234988-v'}
+klinik	{'03043274-n'}
+station	{'04549919-n'}
+jazz	{'07062697-n'}
+spore	{'11547855-n'}
+zwischenhirn	{'05496990-n'}
+zahnwurzel	{'05308310-n'}
+schneidezahn	{'05307641-n'}
+zahnbein	{'05274446-n'}
+pulpa	{'05308950-n'}
+krone	{'11691046-n', '03138856-n', '05308141-n', '13128003-n'}
+sternmiere	{'11817914-n'}
+später	{'05306476-n'}
+dentition	{'05282433-n'}
+okra	{'12171966-n'}
+marabu	{'02003204-n'}
+jabiru	{'02004492-n'}
+mohrenklaffschnabel	{'02003577-n'}
+fluoreszenz	{'11458102-n'}
+bühne	{'04296562-n'}
+oper	{'03849814-n'}
+orchestergraben	{'03853178-n'}
+legierung	{'14586769-n'}
+ethen	{'14851157-n'}
+tempel	{'04407435-n', '04407686-n'}
+chirurgie	{'00671351-n'}
+mullah	{'10338231-n'}
+übertragen	{'02232190-v', '00315986-n', '01107932-n'}
+wand	{'04547592-n'}
+grenze	{'02796623-n'}
+hecke	{'03511175-n'}
+befehlshaber	{'09941964-n'}
+lage	{'08591680-n', '14411243-n'}
+aldosteron	{'14752511-n'}
+gattung	{'08108972-n'}
+schlagen	{'01411085-v'}
+auspeitschung	{'01411085-v'}
+venedig	{'08813264-n'}
+padua	{'08813156-n'}
+marokko	{'14763059-n', '08969291-n'}
+algerien	{'08705397-n'}
+tunesien	{'09037394-n'}
+kalebasse	{'12157769-n'}
+osterluzei	{'11801392-n'}
+eitelkeit	{'07508996-n'}
+küste	{'09433839-n'}
+strand	{'09428293-n', '09217230-n'}
+chemotaxis	{'00862859-n'}
+astigmatismus	{'14553590-n'}
+vesikel	{'05517578-n'}
+kurkuma	{'12356395-n', '12356255-n', '07821919-n'}
+nucellus	{'11679250-n'}
+mikropyle	{'11679378-n'}
+kaugummi	{'14898470-n'}
+gemessen	{'00489837-v'}
+aktinolith	{'14725217-n'}
+anthophyllit	{'14725444-n'}
+asbest	{'14725591-n'}
+befragung	{'07193958-n', '07193184-n'}
+inquisition	{'07194676-n'}
+geschworene	{'10228278-n'}
+fieberrinde	{'12664710-n'}
+zusammenfügung	{'07951464-n'}
+trampeltier	{'02437136-n'}
+nelkenwurz	{'12631331-n'}
+schreibweise	{'06763273-n'}
+wurf	{'00106272-n'}
+sauerstoff	{'14648100-n'}
+kapuzinerkresse	{'12719684-n'}
+strauchmargerite	{'11925898-n'}
+pampelmuse	{'07749969-n', '07750146-n'}
+zitruspflanze	{'12707781-n'}
+glaubwürdigkeit	{'04784525-n'}
+seeteufel	{'07779747-n'}
+weidenröschen	{'12342299-n', '12342498-n'}
+jünger	{'09798811-n'}
+anhänger	{'10099375-n', '10016103-n'}
+wichita	{'09088989-n', '09671974-n'}
+pawnee	{'09665218-n'}
+sakrament	{'01034925-n'}
+eintauchen	{'01038485-n'}
+übergießen	{'01038147-n'}
+aspersion	{'01038261-n'}
+messer	{'03623556-n', '03624134-n'}
+oberfläche	{'01264283-v', '04362025-n', '02688443-n'}
+silber	{'14654954-n', '01395493-v'}
+nickel	{'13390139-n', '01395663-v', '14646610-n'}
+lösung	{'14589223-n'}
+block	{'02852523-n', '02557199-v', '02853449-n'}
+guinness	{'07890540-n'}
+ale	{'07889510-n'}
+süßigkeit	{'07596684-n'}
+toffee	{'07609407-n'}
+profit	{'13258362-n'}
+einkommen	{'13258362-n'}
+pica	{'14055977-n'}
+amaryllis	{'12419037-n'}
+psychologie	{'06136258-n'}
+houston	{'09144851-n'}
+dallas	{'09143786-n'}
+austin	{'09143017-n'}
+rot	{'09405949-n'}
+colorado	{'09249418-n', '09250016-n'}
+giraffe	{'02439033-n'}
+gyrus	{'05492426-n'}
+wicke	{'12575322-n'}
+loben	{'06693198-n'}
+eritreer	{'09705784-n'}
+asmara	{'08777815-n'}
+gurke	{'12165384-n'}
+barrister	{'09840963-n'}
+beruf	{'00582388-n', '10480253-n'}
+staatsanwalt	{'10484858-n'}
+haben	{'00094460-v'}
+alphavirus	{'01332488-n'}
+archaikum	{'15129220-n'}
+proterozoikum	{'15128997-n'}
+pfahlrohr	{'12109189-n'}
+wächter	{'10150071-n', '09984298-n', '10271216-n'}
+trommel	{'03249569-n'}
+psychotherapie	{'06056923-n', '00700652-n'}
+schokolade	{'04972451-n'}
+sepia	{'01972411-n', '04973386-n'}
+rotbraun	{'04974145-n'}
+umbra	{'04972451-n'}
+exophthalmus	{'14313017-n'}
+gibraltarer	{'09749011-n'}
+leier	{'03699280-n'}
+wirksamkeit	{'05199286-n'}
+erdbeere	{'07745940-n', '12630144-n'}
+brombeere	{'07744811-n'}
+himbeere	{'07745466-n'}
+kleinkraftrad	{'03785016-n'}
+sassafras	{'07816052-n'}
+teigwaren	{'07698915-n'}
+gesetz	{'06532330-n', '01125693-n', '08209687-n', '08441203-n'}
+jurisprudenz	{'08441203-n'}
+lesbianismus	{'00857424-n'}
+video	{'04534127-n', '06277803-n'}
+rohrkolben	{'12155583-n'}
+cherub	{'09539730-n'}
+hammer	{'03481521-n', '03481172-n'}
+glocke	{'02824448-n', '03017168-n'}
+meiose	{'13512725-n'}
+entfernung	{'00393369-n'}
+stützen	{'04359589-n'}
+nikotin	{'14714817-n'}
+koma	{'09251002-n', '05680193-n'}
+waschbecken	{'02801525-n'}
+henker	{'10159615-n'}
+scharfrichter	{'10164997-n'}
+alge	{'01397114-n'}
+haiti	{'08751494-n'}
+olympia	{'08790953-n'}
+sparta	{'08787240-n'}
+schnupftabak	{'04252939-n'}
+fakir	{'10076307-n'}
+bonobo	{'02482650-n'}
+krähenfuß	{'12723610-n'}
+blastocoel	{'01459242-n'}
+embryo	{'01458842-n'}
+blastocyste	{'01462042-n'}
+trophoblast	{'01462209-n'}
+bourbon	{'08154012-n', '07906718-n'}
+hohenzollern	{'08155518-n'}
+hannover	{'08154960-n'}
+qin	{'08157182-n'}
+han	{'08154703-n'}
+song	{'08158741-n'}
+yuan	{'08160146-n'}
+mandschu	{'08157405-n'}
+merowinger	{'08156200-n'}
+york	{'08159924-n'}
+haarschnitt	{'05257593-n'}
+haar	{'05254795-n'}
+pferdeschwanz	{'05260380-n'}
+wellen	{'05259240-n', '00039488-v'}
+löckchen	{'05257737-n'}
+flechten	{'05259512-n'}
+pony	{'02382437-n', '05258985-n'}
+dutt	{'05259726-n'}
+pagenschnitt	{'05260127-n'}
+afro	{'05258889-n'}
+twist	{'05259512-n'}
+philharmoniker	{'08248856-n'}
+landschaft	{'03640166-n', '08644722-n'}
+polizei	{'08209687-n'}
+fäustling	{'03775071-n'}
+häm	{'15024997-n'}
+ozeanographie	{'06119904-n'}
+planarie	{'01925270-n'}
+thrombophlebitis	{'14353862-n'}
+tektonik	{'06118370-n'}
+vorfertigung	{'00924825-n'}
+herstellung	{'00924825-n'}
+boston	{'09095751-n'}
+stechmücke	{'02200630-n'}
+beruhigungsmittel	{'04470232-n'}
+clozapin	{'03053272-n'}
+chlorpromazin	{'03023175-n'}
+pelycosaurier	{'01721898-n'}
+dimetrodon	{'01722670-n'}
+gravur	{'00938791-n'}
+ätzung	{'00938791-n'}
+siebdruck	{'00939231-n'}
+drucker	{'04004767-n'}
+gilbweiderich	{'12095020-n'}
+tor	{'03427296-n'}
+tablett	{'04131929-n'}
+verabredung	{'01231435-n'}
+treffen	{'01230965-n'}
+technologie	{'06125041-n'}
+habicht	{'01606522-n'}
+idylle	{'06379439-n'}
+caracas	{'09162276-n'}
+venezolaner	{'09747062-n'}
+nachspeise	{'07609840-n'}
+sadomasochismus	{'07494018-n'}
+antiferromagnetismus	{'11479640-n'}
+tradition	{'05667404-n'}
+chinesisch	{'06929742-n'}
+buch	{'07009946-n', '06636524-n', '01153861-n'}
+zinn	{'14658855-n'}
+provo	{'09147618-n'}
+entenfuß	{'11700058-n'}
+register	{'06507041-n'}
+flieder	{'12310153-n'}
+garnele	{'07794159-n'}
+mehl	{'07567707-n', '07573696-n', '07569106-n'}
+vorteil	{'13610426-n'}
+start	{'00235435-n'}
+trotz	{'07508486-n'}
+wissenschaft	{'05999797-n'}
+anwesenheit	{'13957601-n'}
+umriss	{'08612786-n'}
+koboldmaki	{'02501583-n'}
+wanderfalke	{'01611472-n'}
+krinoline	{'03132776-n'}
+gerfalke	{'01611800-n'}
+merlin	{'01612275-n'}
+turmfalke	{'01612122-n'}
+falke	{'01605630-n'}
+brief	{'06624161-n'}
+waldbrand	{'07304753-n'}
+paradiesvogelblume	{'12354374-n'}
+peyote	{'03750912-n'}
+psilocybin	{'04017019-n'}
+import	{'02346136-v'}
+export	{'02346409-v'}
+exportiert	{'02346409-v'}
+mittelhandknochen	{'05277261-n'}
+retinitis	{'14354960-n'}
+kicker	{'10436851-n', '10230580-n'}
+figur	{'07105475-n', '03335600-n'}
+raute	{'12707199-n', '13882961-n'}
+gartenhortensie	{'12788854-n'}
+conakry	{'08947617-n'}
+bagger	{'02769290-n'}
+schicht	{'08591680-n'}
+textilfaser	{'14866889-n'}
+königsmakrele	{'02626265-n'}
+sterilisierung	{'00253919-n'}
+sterilisation	{'00253919-n'}
+inflation	{'13498828-n'}
+dollbord	{'04544805-n'}
+louisiana	{'09090825-n'}
+täglich	{'06267564-n'}
+monatsblutung	{'13513747-n'}
+feuilleton	{'06268784-n'}
+zeitung	{'06267145-n', '06267655-n'}
+hufschmied	{'09859152-n', '10079677-n'}
+wal	{'02062744-n', '02062430-n'}
+abbruch	{'00209943-n'}
+fehlgeburt	{'00230324-n', '00230475-n'}
+silberkärpfling	{'01449252-n'}
+lagomorpha	{'02323186-n'}
+verfolgung	{'00420477-n'}
+brahma	{'09524921-n'}
+vishnu	{'09529999-n'}
+shiva	{'09528727-n'}
+blei	{'14643467-n'}
+hering	{'07784522-n', '02532028-n'}
+hörnchen	{'02355227-n'}
+besserungsanstalt	{'04069777-n'}
+quetzal	{'01844551-n'}
+spalte	{'03416329-n', '09258715-n'}
+gedicht	{'06377442-n'}
+hausmeister	{'09984298-n'}
+flugzeug	{'02691156-n'}
+shell	{'01101913-v'}
+entfernen	{'02224055-v'}
+husarenfische	{'01450661-n'}
+fresszelle	{'05450740-n'}
+österreich	{'08845555-n'}
+deutsche	{'09747722-n'}
+type	{'06825399-n'}
+schriftart	{'06825399-n'}
+fahne	{'06882009-n', '03354903-n'}
+erz	{'14688500-n'}
+rohstoff	{'14580897-n', '03309808-n'}
+halit	{'14672224-n'}
+pyrit	{'14692682-n'}
+aragonit	{'14666758-n'}
+kyanit	{'14679584-n'}
+bleiglanz	{'14675910-n'}
+binse	{'11743294-n'}
+apatit	{'14666510-n'}
+opal	{'14688234-n'}
+pudding	{'07612996-n'}
+sylvin	{'15065928-n'}
+sphalerit	{'15107876-n'}
+cuprit	{'14673325-n'}
+kassiterit	{'14669927-n'}
+chromit	{'14671125-n'}
+etrusker	{'09716643-n'}
+tachymeter	{'04383015-n'}
+stimulans	{'04320126-n'}
+kongress	{'08161757-n'}
+kingston	{'08754238-n', '08827853-n'}
+offizier	{'10317007-n'}
+landung	{'00052500-n'}
+orange	{'14991210-n', '07747607-n'}
+zitrone	{'07749582-n'}
+limette	{'07749731-n'}
+zitronatzitrone	{'07750449-n'}
+kumquat	{'07749446-n'}
+ultrazentrifuge	{'02047500-v'}
+rotieren	{'02068062-v'}
+auflösung	{'13467916-n'}
+könig	{'10231515-n'}
+imperator	{'10053004-n'}
+zar	{'09987239-n'}
+schah	{'10585496-n'}
+pedalieren	{'03903424-n'}
+lenker	{'03487090-n'}
+tandem	{'02835271-n'}
+sendung	{'06276697-n'}
+kontraktion	{'00369802-n'}
+organ	{'05297523-n'}
+vetternwirtschaft	{'01153548-n'}
+hunger	{'14039534-n'}
+emmer	{'12143215-n'}
+dinkel	{'12143065-n'}
+hartweizen	{'12142450-n'}
+umfang	{'06697331-n', '05090441-n'}
+katzenminze	{'12859986-n'}
+amsterdam	{'08949737-n'}
+rotterdam	{'08950907-n'}
+maas	{'09353437-n'}
+rhein	{'09408540-n'}
+utrecht	{'08951278-n'}
+kiebitz	{'02024763-n'}
+einbringen	{'00320852-n'}
+buganda	{'09043411-n'}
+bridge	{'02898711-n'}
+spannweite	{'02898711-n'}
+stock	{'04317420-n'}
+antihypertonikum	{'02721160-n'}
+bier	{'07886849-n'}
+zimmer	{'04105893-n'}
+bett	{'02818832-n'}
+luchs	{'02127052-n'}
+daten	{'08462320-n'}
+vernichten	{'01619929-v'}
+zerstört	{'01619929-v'}
+aufzeichnung	{'06636524-n'}
+prägen	{'13388245-n'}
+dalmatiner	{'09988918-n'}
+gitter	{'03458552-n', '03646916-n'}
+anpassung	{'13427078-n'}
+multimedia	{'06261744-n'}
+meteoroid	{'09353109-n'}
+meteor	{'11483990-n', '09353109-n'}
+narkolepsie	{'14307468-n'}
+perikarditis	{'14339682-n'}
+myokarditis	{'14339387-n'}
+endokarditis	{'14339094-n'}
+pankarditis	{'14339536-n'}
+stab	{'07267160-n', '04296261-n'}
+verbeugung	{'07274425-n'}
+neapolitanisch	{'10350666-n'}
+ausstrahlung	{'06254007-n'}
+pharao	{'10421016-n'}
+stout	{'07890352-n'}
+mahlzeit	{'07573696-n'}
+detektor	{'03181501-n'}
+bukarest	{'08814474-n'}
+pfosten	{'03798268-n', '03988170-n'}
+nase	{'05658826-n'}
+carjacking	{'01472417-v'}
+wermut	{'11929477-n'}
+waldmeister	{'12661538-n'}
+verfahren	{'05660268-n', '01184814-n'}
+kakaobaum	{'12201580-n'}
+niob	{'14646942-n'}
+tantal	{'14656666-n'}
+belagerung	{'01075117-n'}
+slalom	{'01939037-v'}
+steinbrech	{'12793015-n'}
+arbeiter	{'10481711-n', '10241300-n'}
+schiffskiel	{'09236077-n'}
+kleinhirn	{'05485554-n'}
+nachhirn	{'05500812-n'}
+metencephalon	{'05481997-n'}
+bantu	{'06991980-n'}
+surikate	{'02138777-n'}
+diarrhö	{'14371913-n'}
+saugwurm	{'01925695-n'}
+hartwurm	{'01690149-n'}
+blindschleiche	{'01690149-n'}
+quorum	{'08357992-n'}
+flugsaurier	{'01722998-n'}
+quecksilber	{'14645346-n'}
+schmuckschildkröte	{'01668892-n'}
+plankton	{'01383638-n'}
+gnitze	{'02202678-n'}
+pterodaktylus	{'01723579-n'}
+archosaurier	{'01695681-n'}
+schörl	{'15020905-n'}
+ardennen	{'08941681-n'}
+ulaanbaatar	{'08969123-n'}
+gobi	{'09169801-n'}
+lichtnussbaum	{'12927494-n'}
+alken	{'14713120-n'}
+sittich	{'01821203-n'}
+müller	{'10614812-n'}
+québec	{'08829317-n'}
+montréal	{'08829533-n'}
+vertrag	{'07175241-n'}
+khartum	{'09030210-n'}
+sudanese	{'09732170-n'}
+darfur	{'09029884-n'}
+jahrestag	{'15249799-n'}
+paris	{'08932568-n'}
+brühe	{'07585208-n'}
+gazpacho	{'07585758-n'}
+borschtsch	{'07584423-n'}
+fischsuppe	{'07587441-n'}
+gumbo	{'07585906-n'}
+minestrone	{'07586894-n'}
+kretinismus	{'14121667-n'}
+myxödem	{'14121500-n'}
+yamswurzel	{'12087961-n'}
+cayenne	{'07822518-n'}
+gerüst	{'03391770-n', '04479694-n'}
+kubistisch	{'09982013-n'}
+recht	{'05174653-n'}
+pink	{'04971313-n'}
+nelke	{'04971211-n'}
+schierling	{'12935609-n', '11627168-n'}
+nachbarschaft	{'08225090-n'}
+knapp	{'03511426-n'}
+schuhspitze	{'04444749-n'}
+stiefelschaft	{'02874642-n'}
+knobelbecher	{'03516844-n'}
+erklärung	{'06725877-n', '06738281-n'}
+bissau	{'08948027-n'}
+beitrag	{'00586262-n'}
+arbeitsplatz	{'00586262-n'}
+stellen	{'08621598-n', '03313602-n', '00586262-n'}
+lama	{'02437616-n', '02437825-n'}
+tragödie	{'07016948-n'}
+flasche	{'02876657-n'}
+lese	{'07892418-n'}
+masern	{'14123044-n'}
+corgi	{'02112826-n'}
+behältnis	{'03094503-n', '04531098-n'}
+pferd	{'02374451-n'}
+ammoniak	{'14743582-n'}
+sturmtaucher	{'02060411-n'}
+oxidase	{'14971234-n'}
+windische	{'09731343-n'}
+slowenisch	{'09749753-n'}
+ljubljana	{'08818736-n'}
+pfannkuchen	{'07640203-n'}
+aräometer	{'03553486-n'}
+personenkraftwagen	{'02958343-n'}
+lehre	{'06185955-n'}
+känozoikum	{'15124361-n'}
+kuwait	{'08929243-n', '08929555-n'}
+kuwaiter	{'09719653-n'}
+cabochon	{'14700046-n'}
+leiter	{'03088707-n', '14821043-n'}
+leitung	{'03946325-n', '03604843-n'}
+platane	{'12806732-n'}
+codein	{'03062461-n'}
+torah	{'06451891-n'}
+antlitz	{'05600637-n'}
+fell	{'14764061-n'}
+phönizier	{'06989473-n'}
+toluol	{'15075378-n'}
+pistole	{'03948459-n'}
+nachthemd	{'03824999-n', '03824381-n'}
+ebene	{'09393605-n', '03954731-n'}
+wochentag	{'15163157-n'}
+tafel	{'02856463-n'}
+dardanellen	{'09041371-n'}
+konstantinopel	{'09041785-n'}
+smyrna	{'09042322-n'}
+chemisch	{'14806838-n'}
+ararat	{'09203032-n'}
+istanbul	{'09041785-n'}
+ankara	{'09040601-n'}
+schulterhöhe	{'05280365-n'}
+wachstum	{'13489037-n', '14234074-n'}
+ammonium	{'14744120-n'}
+quark	{'09401834-n'}
+matrix	{'05582305-n'}
+meson	{'09352282-n'}
+kollagen	{'05287090-n'}
+antiquark	{'09200317-n'}
+faserknorpel	{'05288593-n'}
+astrolabium	{'02751215-n'}
+taschentuch	{'02786198-n'}
+rettung	{'00093483-n'}
+protestantismus	{'06228549-n'}
+objekt	{'05810948-n'}
+fotografie	{'03925226-n'}
+einwirkung	{'03925226-n'}
+abbildung	{'03925226-n', '04076846-n', '05926676-n'}
+orion	{'09380117-n'}
+erde	{'09335240-n'}
+reithose	{'02902816-n'}
+schießbaumwolle	{'14794993-n'}
+nitroglyzerin	{'14886579-n'}
+redensart	{'07069948-n'}
+auerhuhn	{'01797020-n'}
+formaldehyd	{'14873196-n'}
+methanal	{'14873196-n'}
+acetaldehyd	{'14711008-n'}
+ethanal	{'14711008-n'}
+propionaldehyd	{'14998042-n'}
+propanal	{'14998042-n'}
+furfural	{'14876473-n'}
+garten	{'03417345-n'}
+weide	{'08616050-n'}
+sehnsucht	{'07487375-n'}
+dermatomyositis	{'14209348-n'}
+polymyositis	{'14209635-n'}
+darstellung	{'04076846-n', '05926676-n'}
+phenol	{'14989545-n'}
+albanien	{'08704822-n'}
+bewertung	{'05733583-n'}
+tonscherbe	{'03992436-n'}
+strukturalismus	{'06168152-n'}
+verzehr	{'00838367-n'}
+fressen	{'00838367-n'}
+melodie	{'07028373-n'}
+wiese	{'08598301-n', '08570634-n'}
+hafen	{'08639058-n', '08633957-n'}
+tätigkeitswort	{'06318062-n'}
+gewehr	{'03467984-n', '04090263-n'}
+kruste	{'09260010-n'}
+erdmantel	{'09346450-n'}
+geld	{'13384877-n'}
+münzprägung	{'13387877-n'}
+bargeld	{'13386614-n'}
+hafer	{'12109827-n'}
+prärielilie	{'12449296-n'}
+quamash	{'12449296-n'}
+basilikum	{'12860365-n'}
+ausbeutung	{'00418903-n'}
+neokolonialismus	{'00426757-n'}
+verwendung	{'00418903-n'}
+charakter	{'05929008-n'}
+futter	{'01178565-v', '07800091-n'}
+denver	{'09068107-n'}
+arkansas	{'09206375-n'}
+republikaner	{'09407632-n'}
+empfängnis	{'07328942-n'}
+bestäubung	{'07437372-n'}
+minister	{'10570019-n'}
+tamariske	{'12386462-n'}
+weitsichtigkeit	{'14555214-n'}
+presbyopie	{'14555214-n'}
+yttrium	{'14661740-n'}
+pagode	{'03874965-n'}
+pantheon	{'03884778-n'}
+bikini	{'02837789-n'}
+hypothyreose	{'14121276-n'}
+kibbuznik	{'10230335-n'}
+oxid	{'14971519-n'}
+glucocorticoid	{'14752057-n'}
+stäbchen	{'05456456-n'}
+zapfen	{'05456257-n'}
+fovea	{'05455375-n'}
+aktionär	{'10657969-n'}
+stammvater	{'09792555-n'}
+dendrit	{'05469861-n'}
+axon	{'05468849-n'}
+karthago	{'08919949-n'}
+pflaume	{'07751451-n'}
+mandarin	{'12709901-n'}
+ralle	{'02014941-n'}
+kokytos	{'09248724-n'}
+styx	{'09449773-n'}
+mohn	{'11900986-n', '11900569-n'}
+schüssel	{'07557434-n'}
+roboter	{'02761392-n', '02710201-n'}
+tragfläche	{'02688443-n'}
+anhang	{'06399631-n'}
+maschine	{'10278666-n', '03699975-n'}
+prozessor	{'02995345-n'}
+hardware	{'03493333-n'}
+großrechner	{'02995345-n'}
+triebwagen	{'02959942-n'}
+luft	{'14841267-n'}
+bö	{'11514008-n', '11465017-n'}
+brise	{'11431754-n'}
+monsun	{'11484570-n'}
+blasen	{'00855301-n', '11465017-n'}
+paradoxon	{'06724559-n'}
+phonem	{'07111711-n'}
+lüge	{'06756407-n'}
+falschheit	{'06756407-n'}
+adler	{'09202142-n', '13392472-n'}
+grob	{'14799244-n'}
+amerikaner	{'09738708-n'}
+panzytopenie	{'13973769-n'}
+pillenfarn	{'12958261-n'}
+hypermenorrhoe	{'13513540-n'}
+tauchboot	{'04348359-n', '04348184-n'}
+aponeurose	{'05582690-n'}
+opsin	{'14735077-n'}
+retinal	{'15005386-n'}
+unpaarhufer	{'02373336-n'}
+fledermaus	{'02139199-n'}
+werfen	{'00104539-n'}
+biotit	{'14668743-n'}
+phlogopit	{'14690790-n'}
+zinnwaldit	{'15109016-n'}
+saccharose	{'15062778-n'}
+lactose	{'14929462-n'}
+maltose	{'14946618-n'}
+toronto	{'08828432-n'}
+niagara	{'09370773-n'}
+hamilton	{'08827689-n'}
+auflage	{'06590446-n'}
+sekretär	{'10569744-n', '04164868-n'}
+tausendfüßler	{'01786646-n'}
+branntwein	{'07903208-n'}
+mittsommer	{'15222012-n'}
+babylonisch	{'06352446-n'}
+sandwich	{'07698401-n', '07695965-n', '07696527-n'}
+cheeseburger	{'07697313-n'}
+würzsauce	{'07582441-n', '07810907-n'}
+vermessen	{'00996969-n'}
+konstruktivistisch	{'09959658-n'}
+glauben	{'05941423-n'}
+häresie	{'05980412-n'}
+schwärmer	{'02298541-n'}
+willkommen	{'06631322-n'}
+mischna	{'06462807-n'}
+brownie	{'09540739-n'}
+sehr	{'00415676-n'}
+lambertshasel	{'12289433-n'}
+nouakchott	{'08967176-n'}
+mauretanier	{'09722399-n'}
+reisender	{'10718131-n'}
+entflammbarkeit	{'04712568-n', '04712405-n'}
+tranquilizer	{'04470232-n'}
+oxazepam	{'03867675-n'}
+buspiron	{'02926044-n'}
+hydroxyzin	{'03554131-n'}
+bohrer	{'03239726-n', '01443021-v'}
+skateboard	{'04225987-n'}
+snowboard	{'04251791-n'}
+schimpanse	{'02481823-n'}
+gangster	{'10120085-n'}
+erdrutsch	{'07405411-n', '07404944-n'}
+lotos	{'11715810-n'}
+pongo	{'02480346-n'}
+ruf	{'14438788-n'}
+ehre	{'14436875-n'}
+orchidee	{'12041446-n'}
+macchie	{'08360849-n'}
+bulgur	{'07803408-n'}
+melde	{'11830906-n'}
+gartenmelde	{'11830714-n'}
+geheimdienst	{'00981830-n'}
+spionageabwehr	{'00654683-n'}
+beintastler	{'02163763-n'}
+mönch	{'10112129-n'}
+schüttelfrost	{'14340462-n'}
+rind	{'02403454-n'}
+ochse	{'02403231-n'}
+bulle	{'02403325-n'}
+kalb	{'01887896-n', '14761334-n'}
+dumm	{'02402010-n'}
+roseau	{'08763387-n'}
+neurochirurgie	{'00688915-n'}
+singen	{'01729431-v', '01254685-n', '00545501-n'}
+ansprache	{'07238694-n'}
+wolle	{'04599235-n'}
+filzen	{'03326795-n'}
+seide	{'04219424-n'}
+leinen	{'02953673-n'}
+geflecht	{'03819595-n'}
+minze	{'12855042-n'}
+keton	{'14926294-n'}
+verhütungsmittel	{'03096593-n'}
+verhinderung	{'03096593-n'}
+cajun	{'09677280-n'}
+muskel	{'05289297-n'}
+stachelbeere	{'07744430-n'}
+kreuzotter	{'01752165-n'}
+lyse	{'13509528-n'}
+einlage	{'03338009-n'}
+stumpen	{'03014119-n'}
+wortstamm	{'06294941-n'}
+feld	{'05996646-n', '08569998-n'}
+stoma	{'00689550-n'}
+columbia	{'09106502-n'}
+weiße	{'09478355-n'}
+feuerwerk	{'03348454-n'}
+jugoslawien	{'08816236-n'}
+rubin	{'15008142-n'}
+saphir	{'15019483-n'}
+tonerde	{'14823944-n'}
+kieferorthopäde	{'10384610-n'}
+puzzle	{'04028315-n'}
+endoskopie	{'00642045-n'}
+antimon	{'14628668-n'}
+aden	{'09164903-n'}
+gefängnis	{'04005630-n'}
+dhoti	{'03186199-n'}
+entdecker	{'10072708-n'}
+abenteurer	{'10072708-n'}
+enthaltsamkeit	{'01068773-n'}
+nahrung	{'07555863-n', '01070187-n'}
+ramadan	{'01243089-n'}
+ausatmung	{'00835267-n'}
+ausbildung	{'00611433-n'}
+literatur	{'00610592-n'}
+kaskade	{'09475292-n'}
+kopie	{'03104594-n', '03562126-n'}
+wirtschaftswissenschaft	{'06149484-n'}
+religiosität	{'04826999-n'}
+anode	{'02714315-n'}
+kathode	{'02984699-n'}
+umhang	{'03045337-n'}
+birkenfeige	{'12401122-n'}
+prediger	{'10464178-n'}
+empfindung	{'07480068-n'}
+verliebtheit	{'07544351-n'}
+agape	{'07543910-n'}
+verehrung	{'07501420-n'}
+homonym	{'06292649-n'}
+symbol	{'05765415-n', '06795746-n', '06806469-n'}
+tisch	{'04379243-n'}
+papa	{'09988063-n'}
+elternteil	{'10399491-n'}
+papi	{'09988063-n'}
+sturmvogel	{'02059162-n'}
+vorhersage	{'06748969-n'}
+rösten	{'07686873-n'}
+hyperbilirubinämie	{'14318927-n'}
+verschlüsselung	{'00615887-n'}
+entschlüsselung	{'00617059-n'}
+samurai	{'08388966-n'}
+krieger	{'10768585-n'}
+berberitze	{'11697560-n'}
+hobel	{'03954731-n'}
+fremdenführer	{'10151570-n'}
+magnetismus	{'11479058-n'}
+einberufung	{'01158064-n'}
+partnerschaft	{'08060694-n'}
+sansibar	{'09035458-n'}
+tanganjika	{'09035305-n'}
+tansanier	{'09734185-n'}
+pektin	{'14978232-n'}
+goldspecht	{'01839598-n'}
+kleistogamie	{'07439167-n'}
+fahrer	{'10034906-n', '10035430-n'}
+mutter	{'10332385-n'}
+ferrit	{'14859201-n'}
+zementit	{'14805145-n'}
+kümmel	{'12934479-n'}
+präfix	{'06308304-n'}
+infix	{'06309272-n'}
+nachtfalke	{'01836384-n'}
+verbrennung	{'13450206-n', '00378069-n'}
+sünde	{'00757080-n'}
+chorioretinitis	{'14354847-n'}
+mädchen	{'10129825-n'}
+kloster	{'03396580-n', '04073948-n'}
+abtei	{'02667379-n'}
+albinismus	{'14152279-n'}
+vanessa	{'02275921-n'}
+dura	{'05482529-n'}
+berufskolleg	{'08278324-n'}
+beluga	{'02640857-n'}
+progesteron	{'14746048-n'}
+israel	{'08792295-n', '08792548-n'}
+gleiten	{'07404944-n', '00303495-n'}
+lahar	{'07405292-n'}
+pistazie	{'12761702-n'}
+mastixstrauch	{'12762049-n'}
+plejaden	{'09549758-n'}
+gartenrotschwanz	{'01561452-n'}
+krait	{'01751036-n'}
+partikel	{'14585519-n'}
+manubrium	{'05281584-n'}
+blockflöte	{'03343354-n'}
+quäker	{'09679708-n'}
+echsenbeckensaurier	{'01708106-n'}
+blase	{'05512139-n'}
+drehbuch	{'07012279-n'}
+drama	{'06376154-n'}
+mikroorganismus	{'01326291-n'}
+aufklärung	{'00985106-n'}
+kognak	{'07903208-n', '07903841-n'}
+tau	{'04108268-n'}
+spermium	{'05457469-n'}
+sperma	{'05457469-n'}
+suite	{'07047011-n'}
+verbot	{'02796995-n'}
+trochanter	{'05574151-n'}
+zweier	{'13743269-n'}
+ramie	{'12393269-n'}
+polydipsie	{'14040966-n'}
+ruhen	{'04081044-n'}
+predigt	{'07243837-n'}
+schwefel	{'14656219-n', '14785325-n'}
+maräne	{'02539573-n'}
+süßholz	{'12532886-n'}
+bison	{'07663492-n', '02407959-n', '02410509-n', '02410702-n'}
+amerika	{'09044862-n'}
+meteorologie	{'06118563-n'}
+pflanzen	{'12212361-n', '00017222-n'}
+übung	{'00894552-n'}
+kakadu	{'01819115-n'}
+serbisch	{'09751076-n'}
+kroaten	{'09751256-n'}
+nagetier	{'02329401-n'}
+zement	{'14704640-n'}
+kleister	{'14704966-n'}
+epoxid	{'14902733-n'}
+verfassung	{'06533648-n'}
+anolis	{'01682714-n'}
+matrose	{'10294602-n'}
+fan	{'10077593-n'}
+haare	{'09838895-n'}
+spriet	{'04289449-n'}
+chrom	{'14635092-n'}
+toleranz	{'04637923-n'}
+klang	{'07371293-n'}
+zischen	{'07384898-n'}
+zusammenkunft	{'08310389-n'}
+whisky	{'07906284-n'}
+nach	{'01998432-v'}
+milbe	{'01779629-n'}
+markt	{'01097292-n'}
+drossel	{'01557185-n'}
+kondensation	{'11446242-n'}
+arioso	{'07087508-n'}
+gestaltung	{'00925207-n'}
+ragout	{'07592656-n'}
+eintopf	{'07590611-n'}
+rad	{'01935476-v'}
+pedal	{'01935476-v'}
+fahrrad	{'01935476-v'}
+motorrad	{'01935476-v'}
+mutti	{'10278128-n'}
+mama	{'10278128-n'}
+rotauge	{'01442450-n'}
+venus	{'01957739-n'}
+teufelszwirn	{'12825497-n'}
+zytokinese	{'13504497-n'}
+karyokinese	{'13504739-n'}
+prophase	{'13542374-n'}
+metaphase	{'13515149-n'}
+telophase	{'13565940-n'}
+kleinbuchstabe	{'06824757-n'}
+typ	{'06825120-n'}
+leerzeichen	{'06839190-n'}
+pocken	{'14124232-n'}
+bleistift	{'14796748-n'}
+konferenz	{'07142566-n'}
+lusaka	{'09165996-n'}
+debatte	{'00714884-v'}
+störung	{'14083790-n', '14052403-n'}
+anglesey	{'08895928-n'}
+waliser	{'09747329-n'}
+cardiff	{'08895386-n'}
+debattiert	{'00714884-v'}
+zusammenfassung	{'06468951-n', '06467007-n'}
+abkürzung	{'06468123-n'}
+simvastatin	{'04221994-n'}
+pravastatin	{'03997980-n'}
+atorvastatin	{'02754421-n'}
+rund	{'01858910-v'}
+kommen	{'13129165-n', '01849221-v'}
+wechseln	{'02088241-v'}
+aufstellen	{'04038440-n'}
+wellhornschnecke	{'01947396-n'}
+verschönern	{'03169390-n'}
+vorfahre	{'10102369-n'}
+vorfahr	{'10126806-n'}
+aflatoxin	{'14714645-n'}
+auftritt	{'06891493-n'}
+tsunami	{'07349299-n'}
+citrin	{'14813067-n'}
+amethyst	{'14722589-n'}
+skulptur	{'04157320-n'}
+kellner	{'10763383-n'}
+diskriminierung	{'01153548-n'}
+steigerung	{'00363260-n'}
+rättin	{'02331046-n'}
+maus	{'02330245-n'}
+biber	{'02363005-n'}
+schläfer	{'02352591-n'}
+capybara	{'02365480-n'}
+eichhörnchen	{'02355227-n'}
+hausmeerschweinchen	{'02364520-n'}
+bisamratte	{'02338145-n'}
+hamster	{'02342885-n'}
+baumstachler	{'02346627-n'}
+chinchilla	{'02367492-n'}
+oberlippenbart	{'05262185-n'}
+dreitagebart	{'05263183-n'}
+schnurrbart	{'05262185-n'}
+kinnbart	{'05263029-n'}
+wasserratte	{'02366959-n'}
+nutria	{'02366959-n'}
+wachs	{'15094294-n'}
+studium	{'05996646-n'}
+tanz	{'01708676-v', '07020538-n', '00428270-n'}
+oboe	{'03838899-n'}
+supermarkt	{'04358707-n'}
+stopp	{'01860795-v'}
+hymenopteren	{'02205896-n'}
+kriegsschiff	{'04552696-n'}
+gebiet	{'08556491-n', '05996646-n'}
+atopie	{'14532250-n'}
+oxydul	{'14954601-n'}
+wasserhanf	{'11968931-n'}
+periskop	{'03917048-n'}
+sonar	{'04259771-n'}
+nautilus	{'03811295-n'}
+schnorchel	{'04250850-n'}
+fluorid	{'14871601-n'}
+bromid	{'14785625-n'}
+iodid	{'14922371-n'}
+kochsalz	{'05717342-n', '15010703-n'}
+thorium	{'14658109-n'}
+marihuana	{'12397210-n'}
+erzählung	{'06369829-n'}
+palisanderholz	{'12522493-n'}
+proletariat	{'08180639-n', '10481711-n'}
+antibiotisch	{'02716866-n'}
+nische	{'04061969-n'}
+parser	{'06577369-n'}
+hamadryade	{'09551260-n'}
+erwähnen	{'06766190-n'}
+elefantenkuh	{'02503517-n'}
+gaststätte	{'04081281-n'}
+eisenbahner	{'10722758-n'}
+schäferhund	{'02104523-n'}
+bongo	{'02424085-n', '02869737-n'}
+berlin	{'08769645-n'}
+deutscher	{'09747722-n'}
+informant	{'10205985-n'}
+antigen	{'15037339-n'}
+leute	{'10287213-n'}
+handwerker	{'09974648-n'}
+paarung	{'00847340-n'}
+konstruktion	{'04341686-n'}
+gesims	{'03111041-n'}
+blutung	{'14288235-n'}
+viereck	{'13879126-n'}
+rechteck	{'13883346-n'}
+wasserfall	{'09236957-n'}
+katarakt	{'09237918-n'}
+arterie	{'05333777-n'}
+busch	{'13112664-n'}
+wiederkäuer	{'02399000-n'}
+elch	{'02432983-n'}
+geweih	{'01325658-n'}
+muntjak	{'02434954-n'}
+kitz	{'02430830-n'}
+sikahirsch	{'02431976-n'}
+sambar	{'02431628-n'}
+wapiti	{'02431785-n'}
+rübe	{'11832214-n'}
+scharfschütze	{'10294953-n'}
+desoxyribose	{'14833514-n'}
+monosaccharid	{'14954284-n'}
+mehrfachzucker	{'14969044-n'}
+ribose	{'14696331-n'}
+oxford	{'03868509-n'}
+gebiss	{'02844714-n'}
+maputo	{'08971554-n'}
+mosambikaner	{'09723689-n'}
+stativ	{'04038440-n'}
+assoziation	{'13435152-n'}
+korund	{'14672717-n'}
+lanze	{'04270891-n'}
+geschoss	{'04008634-n'}
+screening	{'04153330-n'}
+schrei	{'07120524-n'}
+veilchen	{'04970758-n'}
+mauve	{'04970544-n'}
+fortbewegung	{'00283127-n'}
+sprint	{'00294452-n'}
+drogenhändler	{'10474446-n'}
+schöllkraut	{'11903671-n'}
+phonograph	{'04064401-n'}
+zedernholz	{'11623105-n'}
+arthrose	{'14188238-n'}
+gicht	{'14188804-n'}
+alhambra	{'02696669-n'}
+viskose	{'14965780-n'}
+zimmerpflanze	{'13083023-n'}
+blech	{'02891788-n'}
+gummi	{'04116512-n', '15006258-n'}
+kebap	{'07869775-n'}
+gleis	{'04048568-n'}
+ware	{'03748886-n'}
+rechtschreibung	{'06353445-n'}
+implantat	{'03563710-n'}
+statin	{'03676175-n'}
+diversität	{'04751305-n'}
+plaudern	{'07134850-n'}
+organelle	{'05445668-n'}
+bewusstsein	{'05677952-n'}
+ich	{'05675601-n'}
+cholesterin	{'15058544-n'}
+synchrotron	{'04375775-n'}
+kodex	{'06667317-n', '06407372-n'}
+patchwork	{'03898633-n'}
+molch	{'01631663-n', '01630284-n'}
+satyagraha	{'01243262-n'}
+schmecken	{'05715283-n'}
+vanille	{'05716462-n'}
+spiegel	{'03773035-n'}
+beweglichkeit	{'04773761-n'}
+anordnung	{'05075602-n', '07938773-n'}
+stabilität	{'04738641-n'}
+körnchen	{'09290777-n'}
+manuskript	{'06407221-n'}
+jakobsmuschel	{'01965889-n'}
+öllampe	{'03636248-n'}
+stelle	{'08621598-n', '00586262-n', '06208751-n'}
+ameisenbär	{'02460009-n'}
+nephron	{'05247178-n'}
+verschlechtern	{'00092293-v'}
+arthroplastik	{'00666733-n'}
+rechenschaft	{'06738281-n'}
+mikrochip	{'03020034-n'}
+denken	{'00628491-v'}
+finden	{'00628491-v'}
+intelligenz	{'05617606-n'}
+radiologie	{'00903309-n'}
+ghostwriter	{'10128748-n'}
+brett	{'02857023-n', '02856463-n'}
+montevideo	{'09160571-n'}
+uruguayer	{'09746936-n'}
+banner	{'04301140-n'}
+einsicht	{'05805475-n'}
+erleuchtung	{'05807933-n'}
+gingerol	{'15033063-n'}
+triose	{'14689817-n'}
+aldose	{'14710662-n'}
+azalee	{'12245319-n'}
+genuesisch	{'10123415-n'}
+strömung	{'07406765-n'}
+charybdis	{'07433336-n'}
+straße	{'04097622-n', '04334599-n'}
+impfung	{'00823884-n', '00828990-n'}
+poesie	{'07092592-n'}
+motor	{'03287733-n'}
+wiederherstellung	{'00268557-n'}
+quacksalber	{'10497202-n'}
+schwindler	{'09998101-n'}
+triebwerk	{'03789946-n'}
+wollmispel	{'12629666-n'}
+lincoln	{'09109882-n'}
+omaha	{'09110229-n'}
+japan	{'03593362-n'}
+feuerfisch	{'02643566-n'}
+bedürfnis	{'14493716-n'}
+gelee	{'07643981-n'}
+nebengebäude	{'03859280-n'}
+morchel	{'13032115-n'}
+ruander	{'09749509-n'}
+hutu	{'09693100-n'}
+tutsi	{'09693809-n'}
+kigali	{'08815346-n'}
+fallschirmjägertruppe	{'08390374-n'}
+gott	{'09505418-n'}
+fechterschnecke	{'01943899-n'}
+anthropologie	{'06143546-n'}
+schaltung	{'03033362-n'}
+minsk	{'09011518-n'}
+gomel	{'09011679-n'}
+whistleblower	{'10777400-n'}
+kitzler	{'05523420-n'}
+urethra	{'05513020-n'}
+schiefertafel	{'04234670-n'}
+natur	{'09393605-n'}
+filander	{'01879217-n'}
+verbrauchermarkt	{'03555426-n'}
+steroid	{'14745635-n'}
+testosteron	{'14748577-n'}
+androsteron	{'14747981-n'}
+sinn	{'06601327-n', '05919866-n'}
+kriminell	{'09977660-n'}
+bande	{'08244062-n'}
+calcit	{'14935751-n'}
+calcium	{'14632648-n'}
+persien	{'08910668-n'}
+wissenschaftler	{'10560637-n'}
+ehren	{'06696483-n'}
+tongaer	{'09750410-n'}
+jordan	{'09321901-n'}
+judäa	{'08799271-n'}
+philistäa	{'08799706-n'}
+samaria	{'08799462-n'}
+juda	{'08799123-n'}
+bioassay	{'05740300-n'}
+probe	{'00791078-n'}
+sklaverei	{'13997253-n', '13998014-n'}
+leibeigene	{'13997253-n'}
+solidus	{'13389194-n'}
+avers	{'03840507-n'}
+kopf	{'03501811-n'}
+real	{'13389577-n'}
+zürgelbaum	{'12409231-n'}
+bienenwachs	{'15094824-n'}
+walrat	{'15095389-n'}
+carnaubapalme	{'12588584-n', '12588320-n'}
+ceresin	{'14805322-n'}
+posaune	{'04123123-n', '04487394-n'}
+unsterblichkeit	{'15144094-n'}
+torero	{'09836160-n'}
+feministisch	{'10084635-n'}
+strafe	{'13300555-n'}
+überlieferungen	{'05985381-n'}
+märchen	{'07222050-n'}
+ernährung	{'01178565-v', '07561112-n'}
+studierende	{'10557854-n'}
+parabolantenne	{'03207305-n'}
+veranda	{'03984381-n', '03637480-n'}
+reich	{'08405603-n', '08405723-n', '07940552-n'}
+abteilung	{'08220891-n'}
+subphylum	{'08103299-n'}
+sport	{'00523513-n'}
+zuhören	{'02169891-v', '00882159-n'}
+lauschen	{'02169891-v'}
+tier	{'00015388-n'}
+kaulquappe	{'02469472-n'}
+tuch	{'03309808-n'}
+skorpion	{'09426143-n'}
+schlange	{'08430203-n'}
+blockade	{'00954086-n'}
+zeichnung	{'03234306-n', '01690294-v'}
+lindwurm	{'09503486-n'}
+schafgarbe	{'11916696-n'}
+pinscher	{'02106966-n'}
+denkmal	{'03743902-n'}
+bauchfüßer	{'01942177-n'}
+napfschnecke	{'01948573-n'}
+hinterkiemerschnecken	{'01950195-n'}
+mitglied	{'10307234-n'}
+gemeinderat	{'09944677-n'}
+dubliner	{'09715427-n'}
+viertel	{'08627919-n'}
+zentral	{'02994858-n'}
+sauer	{'05716744-n', '07918028-n'}
+manhattan	{'07915618-n'}
+martini	{'07916041-n'}
+schicklichkeit	{'04898437-n'}
+kornblume	{'11947802-n'}
+bulgarien	{'08714132-n'}
+panzer	{'02739668-n', '03886053-n'}
+brustpanzer	{'02895154-n'}
+nachtigall	{'01560105-n'}
+verwaltung	{'01133281-n'}
+korinthe	{'07752966-n'}
+diener	{'10292192-n', '10582154-n'}
+instrumentation	{'07038615-n'}
+instrumentieren	{'07038910-n'}
+bass	{'02803349-n'}
+bewegt	{'00124442-v'}
+ichthyosaurier	{'01724231-n'}
+stadion	{'04295881-n'}
+biographie	{'06515827-n'}
+mädchenaugen	{'11957678-n'}
+regnen	{'11501381-n'}
+lavendel	{'12849717-n'}
+karacke	{'02968210-n'}
+schurke	{'10753546-n'}
+hochebene	{'09453008-n'}
+promenade	{'04010205-n'}
+mondviole	{'11891541-n'}
+perkussion	{'00876239-n'}
+erlaubnis	{'02444662-v'}
+winter	{'15237782-n'}
+sommer	{'15237250-n'}
+fallen	{'15236859-n'}
+frühling	{'15237044-n'}
+herbst	{'15236859-n'}
+präzisionsschütze	{'10294953-n'}
+enttäuschung	{'07540602-n'}
+ode	{'06383659-n'}
+peking	{'08724726-n'}
+tschador	{'02998841-n'}
+nanking	{'08728066-n'}
+jangtse	{'09481523-n'}
+brahmaputra	{'09228144-n'}
+amur	{'09196103-n'}
+guangzhou	{'08725454-n'}
+tianjin	{'08728882-n'}
+höher	{'10675876-n'}
+dschiggetai	{'02390938-n'}
+beobachten	{'02169352-v'}
+gouverneur	{'10140314-n'}
+khedive	{'10230216-n'}
+uniform	{'04509592-n'}
+tribunal	{'08329453-n'}
+tiger	{'02129604-n'}
+jaguar	{'02128925-n'}
+leopard	{'02128385-n'}
+adrenalin	{'05408388-n'}
+gedächtnis	{'05935060-n'}
+vorderpfote	{'02440121-n'}
+affix	{'06308049-n'}
+ethylen	{'14851157-n'}
+sämischleder	{'14761806-n'}
+veloursleder	{'14763964-n'}
+hirschleder	{'14760555-n'}
+tierhaut	{'14762486-n'}
+schweinsleder	{'14763424-n'}
+wald	{'08438533-n', '09284015-n'}
+wüste	{'08505573-n'}
+thermometer	{'04421872-n'}
+terrarium	{'04414199-n'}
+aquarium	{'02732072-n'}
+entbindung	{'00042541-n', '13532886-n'}
+halstuch	{'03814817-n'}
+meerrettich	{'11873182-n'}
+rogen	{'07799278-n'}
+raubmöwe	{'02044178-n'}
+tessera	{'04414909-n'}
+baldachin	{'02951843-n'}
+äthiopier	{'09705124-n'}
+würstchen	{'07675627-n'}
+methyl	{'14952122-n'}
+ethyl	{'14710325-n'}
+endothel	{'05240522-n'}
+mesothel	{'05240710-n'}
+peyotl	{'11849271-n'}
+monotheismus	{'06224136-n'}
+pantheismus	{'06225235-n'}
+polytheismus	{'06224305-n'}
+lieschgras	{'12130549-n'}
+elastin	{'05287731-n'}
+käsekuchen	{'07630089-n'}
+früchtebrot	{'07631350-n'}
+torte	{'07633511-n'}
+nadel	{'03940256-n'}
+kathmandu	{'08906809-n'}
+nepali	{'09724066-n'}
+nepalesen	{'09724066-n'}
+vokal	{'07112550-n'}
+athletik	{'07456638-n'}
+kenaf	{'12178129-n', '12178358-n'}
+roselle	{'12179632-n'}
+hickory	{'12320285-n'}
+bitternuss	{'12320806-n'}
+kampala	{'09043926-n'}
+farbstoff	{'14989820-n', '14991106-n'}
+zahnreinigungsmittel	{'03176084-n'}
+hangar	{'02687821-n'}
+flugplatz	{'02687992-n'}
+platz	{'02687992-n'}
+koboldkärpfling	{'01449374-n'}
+proletarier	{'10481711-n'}
+lumpenproletariat	{'08181075-n'}
+meditation	{'05785885-n'}
+mandoline	{'03716966-n'}
+gämse	{'02419336-n'}
+herzrhythmusstörung	{'14110674-n'}
+bienenstock	{'02822865-n'}
+bienenhaus	{'02822865-n'}
+dichter	{'10444194-n'}
+beschaffung	{'00083729-n', '02238536-v', '02210855-v', '00041899-n'}
+string	{'02880546-n'}
+finanzierung	{'02217266-v'}
+finanz	{'02217266-v'}
+tschechisch	{'09699200-n'}
+tschechoslowakisch	{'09699200-n'}
+umwandlung	{'07415730-n'}
+experte	{'09617867-n'}
+held	{'10172793-n'}
+verpflegung	{'01180844-v'}
+sadismus	{'07493830-n'}
+masochismus	{'07494175-n'}
+glottis	{'05301526-n'}
+stellknorpel	{'05530092-n'}
+phytoplankton	{'01383896-n'}
+zooplankton	{'01384164-n'}
+unterlage	{'03872495-n'}
+futon	{'03408444-n'}
+adel	{'10271677-n', '08388207-n'}
+staub	{'14839846-n'}
+hauhechel	{'12553114-n'}
+raumschiff	{'04264914-n', '04304215-n'}
+tölpel	{'02053083-n', '02053584-n'}
+klassifikation	{'01012712-n'}
+zwillinge	{'09287613-n'}
+häutchen	{'05426243-n'}
+wärmedämmung	{'14415518-n'}
+adenosin	{'14707101-n'}
+desoxyadenosin	{'15073018-n'}
+guanosin	{'15073285-n'}
+inosin	{'14919635-n'}
+yokohama	{'08924238-n'}
+kyōto	{'08925093-n'}
+sekretion	{'05404728-n'}
+insulin	{'05410646-n'}
+vasopressin	{'05414147-n'}
+kassie	{'12491626-n'}
+halluzinogen	{'03479647-n'}
+schaft	{'04270891-n'}
+folter	{'00421437-n'}
+wegerich	{'12598826-n'}
+bocksbart	{'12027222-n'}
+haferwurzel	{'12027658-n'}
+these	{'06750804-n'}
+hibiskus	{'12177844-n'}
+grillen	{'00324806-v'}
+garen	{'00322847-v'}
+gegrillt	{'00328370-v'}
+stheno	{'09498072-n'}
+euryale	{'09498186-n'}
+medusa	{'09497913-n'}
+moostierchen	{'02313495-n'}
+riemen	{'04333500-n', '04333129-n'}
+nehmen	{'02209745-v'}
+institution	{'08053576-n'}
+ideal	{'05923696-n'}
+geschichtenerzähler	{'10345804-n'}
+hagebutte	{'12620546-n'}
+bardame	{'09839702-n'}
+angestellte	{'10053808-n'}
+ninja	{'08389094-n'}
+terrorismus	{'00759694-n'}
+tierkreiszeichen	{'06791372-n', '08685677-n'}
+krebs	{'09232687-n', '14239918-n'}
+widder	{'09206133-n'}
+stier	{'09455306-n'}
+wassermann	{'09201840-n'}
+schütze	{'09419112-n'}
+steinbock	{'09235713-n'}
+waage	{'09339109-n'}
+fische	{'09392824-n'}
+dakar	{'08996118-n'}
+braunhemd	{'09877443-n'}
+abalone	{'01943087-n'}
+cool	{'04904162-n'}
+diptam	{'12712488-n'}
+pipeline	{'03946325-n'}
+papaya	{'12373100-n'}
+bockshornklee	{'12574470-n'}
+vortrag	{'07135734-n'}
+thrombus	{'14373246-n'}
+neu	{'06367879-n'}
+appendix	{'06399337-n'}
+vogelbeckensaurier	{'01700470-n'}
+schwede	{'09732441-n'}
+skandinavien	{'08760510-n'}
+stockholm	{'08766236-n'}
+göteborg	{'08766667-n'}
+uppsala	{'08766846-n'}
+sack	{'02773037-n'}
+mitochondrium	{'05445389-n'}
+zellkern	{'05434927-n'}
+asimina	{'11695599-n'}
+spielfeld	{'08570758-n'}
+stehen	{'04300741-n'}
+park	{'02782778-n'}
+ungefähr	{'02782778-n'}
+antiteilchen	{'09199904-n'}
+masse	{'00020827-n'}
+sediment	{'09428967-n'}
+jacke	{'03589791-n'}
+mittelfußknochen	{'05277405-n'}
+pfauenspinner	{'02301452-n'}
+beobachtung	{'01002956-n'}
+mitteilung	{'06253690-n'}
+anzeige	{'06887726-n'}
+signalübertragung	{'06791372-n'}
+sarkomer	{'05460163-n'}
+ultramarinblau	{'04974859-n', '15083146-n'}
+gesang	{'07048000-n'}
+astrologie	{'05778131-n'}
+albtraum	{'05769062-n'}
+fantasie	{'05767733-n'}
+sonnentau	{'12782530-n'}
+flucht	{'02074677-v'}
+ausgabe	{'06590446-n'}
+katholik	{'09679925-n'}
+päpste	{'08053260-n'}
+gegenpapst	{'09797375-n'}
+vene	{'05418717-n'}
+aluminium	{'14627820-n'}
+kümmern	{'00654885-n'}
+pflege	{'00654885-n'}
+mahlen	{'03765561-n'}
+amphitheater	{'02704949-n'}
+zirkus	{'03035089-n'}
+vaquero	{'09973209-n'}
+cowgirl	{'09973422-n'}
+gaucho	{'10122441-n'}
+ergosterin	{'15059404-n'}
+design	{'01639714-v'}
+gerät	{'03183080-n', '02729965-n', '04176528-n'}
+silberrücken	{'02481500-n'}
+damaszener	{'09733580-n'}
+korsar	{'10435367-n'}
+armagnac	{'07903731-n'}
+fluchen	{'07125096-n'}
+doktorfisch	{'02621258-n'}
+guanin	{'14892138-n'}
+adenin	{'14706889-n'}
+thymin	{'15072857-n'}
+cytosin	{'14828511-n'}
+faktor	{'05436752-n'}
+pyrop	{'15000060-n'}
+almandin	{'14676486-n'}
+andradit	{'14829264-n'}
+karfunkel	{'14877486-n'}
+meerbarbe	{'02600298-n'}
+grasnelke	{'12098827-n'}
+florenz	{'08812166-n'}
+pisa	{'08809910-n'}
+entwicklung	{'13489037-n'}
+eidechse	{'01693020-n'}
+azurit	{'14667855-n'}
+gibbon	{'02483362-n'}
+fluor	{'14637507-n'}
+lhasa	{'08907377-n'}
+jahrbuch	{'06426468-n'}
+nervengift	{'15036321-n'}
+weizen	{'12142085-n', '07803545-n'}
+geben	{'00944247-v'}
+flug	{'00302394-n'}
+unterschrift	{'06404907-n'}
+quilt	{'04033995-n'}
+gnomon	{'03442597-n'}
+sula	{'02053279-n'}
+kreuzkraut	{'12012755-n'}
+volk	{'07942152-n', '08372411-n'}
+eisenholz	{'12288005-n', '12317296-n'}
+pfand	{'03177349-n'}
+weiß	{'00280301-v'}
+peroxid	{'00279661-v'}
+gebleicht	{'00280301-v'}
+sonnenhut	{'12008252-n', '11962272-n'}
+interpretation	{'05928513-n', '07170753-n'}
+kühlung	{'13548531-n'}
+transistor	{'04471632-n'}
+diode	{'03202760-n'}
+syndrom	{'14304060-n'}
+zahnmedizin	{'06047430-n'}
+periode	{'15254028-n'}
+lasagne	{'07701053-n'}
+spagetti	{'07699914-n'}
+tortellini	{'07700167-n'}
+makkaroni	{'07700964-n'}
+tagliatelle	{'07701372-n'}
+diebstahl	{'00780889-n'}
+mitgefühl	{'07553301-n'}
+verschweigen	{'01048912-n'}
+lemur	{'02496913-n'}
+erbrechen	{'00118733-n'}
+kaiser	{'10053004-n'}
+pause	{'15274074-n'}
+fotomontage	{'03927201-n'}
+dip	{'07582609-n'}
+schwan	{'09262490-n'}
+geschlechtertrennung	{'08380340-n'}
+royalist	{'10327824-n'}
+monarchist	{'10327824-n'}
+wunderstrauch	{'12923652-n'}
+nazaret	{'08794193-n'}
+purpurglöckchen	{'12798284-n'}
+rabe	{'01578821-n'}
+vorliebe	{'07497473-n'}
+galgant	{'12356960-n'}
+territorium	{'08552138-n'}
+mauritier	{'09722530-n'}
+toxikologie	{'06064462-n'}
+pharmakokinetik	{'06055529-n'}
+chemotherapie	{'00662340-n'}
+physiotherapie	{'00700000-n'}
+nährstoff	{'00021265-n'}
+freitod	{'00222485-n'}
+wahl	{'00181781-n'}
+kiew	{'09015907-n'}
+krim	{'09015460-n'}
+tschernobyl	{'09016365-n'}
+donau	{'09263087-n'}
+charkiw	{'09016860-n'}
+donezk	{'09016099-n'}
+odessa	{'09017005-n'}
+salamander	{'01629276-n'}
+frosch	{'01639765-n'}
+abzeichen	{'06883073-n', '06882561-n'}
+fußmatte	{'03223299-n'}
+klassenlehrer	{'10694258-n'}
+spülen	{'00255710-n'}
+dover	{'09070233-n'}
+runde	{'00466377-n'}
+kartusche	{'02971691-n'}
+bluterbrechen	{'00119210-n'}
+hyperemesis	{'00119297-n'}
+wiederkäuen	{'00119079-n'}
+aronstab	{'11779300-n'}
+vermehrung	{'00849982-n'}
+herkunft	{'08101937-n', '08507558-n'}
+drucktechnik	{'00937476-n'}
+aquatinta	{'00939091-n'}
+aerosol	{'11422597-n'}
+enden	{'08566028-n'}
+gin	{'00496877-n'}
+canasta	{'00497060-n'}
+ergebung	{'07509325-n'}
+demut	{'07509325-n'}
+zucchini	{'12158148-n'}
+fuchsschwanz	{'11824146-n'}
+referenz	{'06763681-n'}
+ohrenheilkunde	{'06054700-n'}
+uran	{'14660443-n'}
+stockente	{'01847806-n'}
+pfeifente	{'01848648-n'}
+krickente	{'01848123-n'}
+spießente	{'01849157-n'}
+löffelente	{'01848976-n'}
+mal	{'15122231-n'}
+auswahl	{'00161243-n'}
+tyrann	{'10735298-n'}
+gliazellen	{'05467054-n'}
+großkatze	{'02127808-n'}
+verteilung	{'07445896-n'}
+weiblichkeit	{'04667660-n'}
+asket	{'09758173-n'}
+gilde	{'08227214-n'}
+übergewicht	{'05000342-n'}
+trizyklisch	{'04482543-n'}
+schaf	{'02411705-n'}
+seidelbast	{'12347158-n'}
+restaurant	{'04081281-n'}
+kläger	{'10672192-n'}
+dromedar	{'02437312-n'}
+beutelratte	{'01881171-n'}
+wombat	{'01883070-n'}
+pilgern	{'00311687-n'}
+steinfliege	{'02262803-n'}
+metonymie	{'07107676-n'}
+erzielen	{'00186634-n'}
+mineralocorticoid	{'14751863-n'}
+hämangiom	{'14247575-n'}
+lymphangiom	{'14247954-n'}
+bücher	{'06410904-n', '02870092-n'}
+taschenbuch	{'03973170-n'}
+neoplasie	{'14235200-n'}
+trottellumme	{'02046759-n'}
+krabbentaucher	{'02046171-n'}
+tordalk	{'02045864-n'}
+epitop	{'15037664-n'}
+schärpe	{'03438071-n'}
+uracil	{'15084357-n'}
+weißdorn	{'12627750-n', '12626353-n'}
+mai	{'12627750-n'}
+hagedorn	{'12626353-n'}
+leere	{'14455206-n'}
+belletristik	{'06367107-n'}
+islam	{'06234825-n', '08095647-n'}
+souffleuse	{'04010779-n'}
+erscheinung	{'07323231-n'}
+georgetown	{'08948704-n'}
+guyaner	{'09712324-n'}
+lupine	{'12546183-n'}
+quastenflosser	{'02515713-n'}
+lilie	{'12426248-n'}
+gestapo	{'08211760-n'}
+schlammspringer	{'02619550-n'}
+libanesisch	{'09720595-n'}
+beirut	{'08957806-n'}
+perseus	{'09390236-n'}
+kuskus	{'01881564-n'}
+dreistigkeit	{'04915866-n'}
+frechheit	{'04915866-n'}
+punktieren	{'00942988-n'}
+ungeheuer	{'10109443-n'}
+sockel	{'03525454-n', '03158668-n'}
+kolumnist	{'09939154-n'}
+korrespondent	{'09966710-n'}
+beenden	{'08566028-n'}
+terminal	{'08566028-n'}
+nitrat	{'15015501-n'}
+kressen	{'11890507-n'}
+trollblume	{'11739365-n'}
+irak	{'08913434-n'}
+venezuela	{'09161803-n'}
+libyen	{'08959683-n'}
+katar	{'08986905-n'}
+indonesien	{'08907606-n'}
+konsonant	{'07115021-n'}
+andorn	{'12854048-n'}
+minneapolis	{'09102883-n'}
+hof	{'03120198-n'}
+gift	{'15032376-n'}
+sol	{'14590795-n'}
+gel	{'14590542-n'}
+osteosarkom	{'14241556-n'}
+chondrosarkom	{'14240487-n'}
+liposarkom	{'14241241-n'}
+leiomyosarkom	{'14241088-n'}
+rhabdomyosarkom	{'14245405-n'}
+sirup	{'07859583-n'}
+tragflügel	{'02688443-n'}
+flügelschlag	{'03357716-n'}
+querruder	{'02685253-n'}
+zervix	{'05303232-n'}
+eileiter	{'05518870-n'}
+plazenta	{'05520699-n'}
+endometrium	{'05519820-n'}
+mispel	{'12636224-n'}
+murgang	{'07405579-n'}
+bergsturz	{'07405817-n'}
+schneehuhn	{'01796340-n'}
+vergiftung	{'14509712-n'}
+unterscheidung	{'01153548-n'}
+abstimmung	{'00182213-n'}
+tunesier	{'09734760-n'}
+tunis	{'09037838-n'}
+spalt	{'07367812-n'}
+hochzeitstag	{'15249799-n'}
+rabat	{'08970445-n'}
+casablanca	{'08969798-n'}
+marrakesch	{'08970189-n'}
+tanger	{'08970611-n'}
+marokkaner	{'09723564-n'}
+fès	{'08970064-n'}
+vivarium	{'04539203-n'}
+nebel	{'11482706-n'}
+normandie	{'08944561-n'}
+balsam	{'14896714-n'}
+begeisterung	{'07555014-n'}
+ginseng	{'11800236-n'}
+gemälde	{'05936704-n'}
+asien	{'09207288-n'}
+vibrator	{'04533042-n'}
+koriander	{'12936469-n'}
+syllepsis	{'07108657-n'}
+mannstreu	{'12938081-n'}
+autokratie	{'08361001-n'}
+fingerhut	{'15060131-n'}
+samarkand	{'09022667-n'}
+taschkent	{'09022538-n'}
+retorte	{'04083649-n'}
+mykose	{'14176895-n'}
+grammophon	{'03452267-n'}
+schalldose	{'04450465-n'}
+halten	{'03485997-n'}
+prozession	{'00296585-n'}
+knochenhecht	{'02641379-n'}
+klotho	{'09565503-n'}
+lachesis	{'09565639-n'}
+atropos	{'09565787-n'}
+opfer	{'00227595-n'}
+ahnentafel	{'08101937-n'}
+vorfahren	{'08101937-n'}
+stammbaum	{'08101937-n'}
+feuerwanze	{'02245111-n'}
+pestwurz	{'12002428-n'}
+agave	{'12476510-n'}
+hochmut	{'04887912-n'}
+querflöte	{'03372029-n'}
+hautausschlag	{'14321953-n'}
+statue	{'04306847-n'}
+relief	{'04073669-n'}
+stuck	{'03779621-n'}
+büste	{'02926188-n'}
+marmor	{'03721169-n'}
+verzierung	{'01675963-v'}
+phyle	{'08373969-n'}
+künstler	{'09812338-n'}
+prophezeiung	{'05775407-n'}
+hydantoin	{'03550533-n'}
+fahl	{'12727301-n'}
+verletzung	{'14298815-n', '07313636-n'}
+pita	{'07683617-n'}
+holunder	{'12678224-n'}
+besen	{'02906734-n'}
+ente	{'01846331-n'}
+storchschnabel	{'12685431-n'}
+immunität	{'14527171-n'}
+hopfen	{'12397864-n'}
+spieler	{'10439851-n', '10340312-n'}
+machairodontinae	{'02127808-n'}
+eibe	{'11661372-n'}
+nuklease	{'14963916-n'}
+huflattich	{'12029635-n'}
+groppe	{'02645304-n'}
+lachs	{'02534734-n'}
+anfänger	{'10363913-n'}
+moslemin	{'09682291-n'}
+auster	{'01960459-n'}
+petersilie	{'12942395-n'}
+aussehen	{'00877127-n'}
+oregano	{'12853287-n', '07818995-n'}
+majoran	{'12853287-n', '07818995-n'}
+bankrott	{'14478433-n'}
+trypsinogen	{'15081221-n'}
+wetten	{'00506658-n'}
+jungvogel	{'07644382-n'}
+feder	{'01896031-n'}
+urvogel	{'01516212-n'}
+gefieder	{'01896031-n'}
+fixierung	{'00276342-n'}
+imprägnierung	{'13496517-n'}
+härtung	{'13491060-n'}
+austrocknen	{'13491060-n'}
+fertig	{'13491060-n'}
+gut	{'13250930-n'}
+besitz	{'00032613-n'}
+vermögen	{'13250398-n'}
+stadt	{'08524735-n'}
+paracetamol	{'02674482-n'}
+fentanyl	{'03328650-n'}
+mast	{'03726760-n'}
+traube	{'13132486-n'}
+spitz	{'02111626-n'}
+kandelaber	{'02947818-n'}
+kronleuchter	{'02947818-n'}
+säbel	{'02987492-n', '02904640-n'}
+hühnerfleisch	{'01791625-n'}
+kräfte	{'08208016-n'}
+nebelhorn	{'03375171-n'}
+seelenruhe	{'04904352-n'}
+alant	{'11984659-n'}
+pompadour	{'04083309-n'}
+griff	{'03520654-n', '03485997-n', '03038281-n'}
+löwenzahn	{'11988893-n'}
+bombarde	{'02867267-n'}
+pennsylvanien	{'04512476-n'}
+philadelphia	{'09136182-n'}
+pittsburgh	{'09136582-n'}
+wallwurz	{'12822769-n'}
+babylon	{'08916832-n'}
+babylonien	{'08917503-n'}
+assyrien	{'08918944-n'}
+zuteilung	{'01083645-n'}
+kalisalpeter	{'14861355-n'}
+hirtenhund	{'02104523-n'}
+landwirtschaft	{'00916464-n'}
+zierpflanzenbau	{'00921399-n'}
+landschaftsbau	{'00921160-n'}
+papyrus	{'14975598-n', '12151365-n'}
+nussgras	{'12151615-n'}
+schritt	{'04476831-n'}
+setzstufe	{'04094720-n'}
+träger	{'04359589-n'}
+shoshone	{'09668729-n'}
+erdnuss	{'11748501-n'}
+landstreicherei	{'13943236-n'}
+reinigungsmittel	{'15097017-n', '03040587-n'}
+monrovia	{'08959495-n'}
+audio	{'06278136-n', '04262678-n'}
+nitril	{'14827346-n'}
+grunzer	{'02588286-n'}
+kassava	{'14761578-n'}
+strauß	{'01518878-n'}
+moa	{'01523105-n'}
+nandu	{'01521756-n'}
+kiwi	{'07763629-n', '01520576-n'}
+lenkung	{'08164585-n'}
+carotin	{'15090535-n', '14721236-n'}
+lutein	{'14721635-n'}
+zeaxanthin	{'14721781-n'}
+lycopin	{'14721342-n'}
+flöte	{'03945615-n'}
+musette	{'03800371-n'}
+sauce	{'07829412-n'}
+kaschmir	{'08975617-n'}
+pakistaner	{'09725772-n'}
+peschawar	{'08977527-n'}
+karatschi	{'08977211-n'}
+islamabad	{'08977035-n'}
+massassauga	{'01757677-n'}
+bibliothek	{'07978055-n'}
+agglutination	{'13428608-n'}
+nauruer	{'09723944-n'}
+atropin	{'02754756-n'}
+heidelbeere	{'12246641-n', '12248574-n'}
+kürbis	{'12158798-n', '12158443-n'}
+freiheit	{'13994456-n'}
+muskelkrampf	{'14360459-n'}
+androgen	{'14747587-n'}
+not	{'14449405-n'}
+forstwirtschaft	{'06071934-n'}
+otter	{'02444819-n'}
+portrait	{'03987079-n'}
+hoch	{'14520670-n'}
+reinkarnation	{'07321247-n'}
+geißel	{'01458302-n'}
+akrosom	{'05457795-n'}
+neger	{'09638009-n'}
+spielzeug	{'03964744-n'}
+waldnymphe	{'09551040-n'}
+straßen	{'04096066-n'}
+kappe	{'03531281-n'}
+turban	{'04498389-n'}
+mitra	{'03773970-n'}
+sedativum	{'04166553-n'}
+pyrimidin	{'14999913-n'}
+gekämpft	{'01090335-v'}
+acrylnitril	{'14998677-n'}
+schrecken	{'00759500-n'}
+kette	{'08376250-n'}
+berichterstattung	{'06266710-n'}
+sufi	{'10672371-n'}
+ichneumon	{'02137888-n'}
+geflügel	{'07644706-n'}
+huhn	{'01791625-n'}
+truthuhn	{'01794158-n'}
+haddsch	{'05915034-n'}
+alekto	{'09506598-n'}
+tisiphone	{'09506751-n'}
+studie	{'05996646-n'}
+igel	{'01893825-n'}
+aurikel	{'12091806-n'}
+schlüsselblume	{'12091377-n'}
+rückfall	{'00068333-n'}
+tetragramm	{'06360996-n'}
+pharmakologie	{'06054892-n'}
+ringelgans	{'01857325-n'}
+hanoi	{'09164095-n'}
+vietnamese	{'09747191-n'}
+saigon	{'09164241-n'}
+standarte	{'04301140-n', '02788021-n'}
+trikolore	{'04481796-n'}
+wimpel	{'03911866-n'}
+kroatien	{'08815858-n'}
+vertreibung	{'00206302-n'}
+gründling	{'01443243-n'}
+gürteltier	{'02454379-n'}
+argument	{'07183151-n'}
+myzel	{'13022709-n'}
+hymenium	{'11550474-n'}
+candida	{'13079419-n'}
+shiitake	{'13001930-n'}
+pilz	{'13054073-n', '12992868-n'}
+mutterkorn	{'12965626-n'}
+thunfisch	{'02626762-n'}
+converso	{'09962214-n'}
+zyklotron	{'03156071-n'}
+amphetamin	{'02704153-n'}
+methylphenidat	{'03756624-n'}
+flugkapitän	{'09892693-n'}
+seifenkraut	{'11814584-n'}
+homograph	{'07131022-n'}
+homophon	{'07131169-n'}
+monster	{'09491966-n'}
+mauerpfeffer	{'12785889-n'}
+cumulus	{'09261960-n'}
+federwolke	{'09245964-n'}
+nimbus	{'09371686-n'}
+schleierwolke	{'09245833-n'}
+cumulonimbus	{'09261772-n'}
+kondensstreifen	{'09255519-n'}
+papst	{'10453533-n'}
+schusswaffe	{'03343853-n'}
+karabiner	{'02961451-n'}
+narzisse	{'12421683-n'}
+eukalyptus	{'12334891-n'}
+horn	{'01325417-n', '03536761-n'}
+pferde	{'02374451-n'}
+leiste	{'03780392-n'}
+zierleiste	{'03780392-n'}
+nikosia	{'08757132-n'}
+sure	{'06461830-n'}
+sehnenscheidenentzündung	{'14356578-n'}
+einkauf	{'00081572-n'}
+division	{'08213205-n'}
+heer	{'08191230-n'}
+klapperschlange	{'01754876-n'}
+agitprop	{'06674791-n'}
+balsamwurzel	{'11939180-n'}
+primatologie	{'06073647-n'}
+aufstand	{'00962129-n'}
+mol	{'01889520-n'}
+vorspeise	{'07581346-n'}
+löten	{'01595260-v'}
+lot	{'01595260-v'}
+cer	{'14633957-n'}
+gadolinium	{'14638041-n'}
+brasilholz	{'12489268-n'}
+sterol	{'15058310-n'}
+hiv	{'01336718-n'}
+kratzbeere	{'12654387-n'}
+börsenmakler	{'09777012-n'}
+salbe	{'03845550-n'}
+mittel	{'05154676-n'}
+scat	{'00547244-n'}
+seehund	{'02076196-n'}
+walross	{'02081571-n'}
+bruder	{'09877951-n'}
+rezitativ	{'07087346-n'}
+konkubinat	{'01054876-n'}
+farce	{'07016250-n'}
+situationskomik	{'07017877-n'}
+sitcom	{'07017733-n'}
+strafrecht	{'06152460-n'}
+soziologie	{'06151693-n'}
+verrücktheit	{'14397889-n'}
+wahnsinn	{'14395240-n'}
+lilongwe	{'08963095-n'}
+riff	{'07045788-n'}
+kinshasa	{'08735164-n'}
+kalmar	{'07781801-n'}
+tintenfisch	{'07781801-n'}
+plattform	{'03961939-n'}
+gesungen	{'01729431-v'}
+spermatogenese	{'13560329-n'}
+oogenese	{'13524612-n'}
+geschmack	{'05715864-n'}
+bitter	{'07889814-n', '05717115-n'}
+kokosnuss	{'07773238-n'}
+verlegenheit	{'07507098-n'}
+verein	{'08049401-n'}
+bergminze	{'12842887-n'}
+zünder	{'03666591-n'}
+flüssigkeitsansammlung	{'14316714-n'}
+agrigent	{'08811812-n'}
+palermo	{'08811473-n'}
+syrakus	{'08810051-n'}
+laus	{'02251775-n'}
+blattläuse	{'02253127-n'}
+rundholz	{'04267577-n'}
+polygon	{'13866144-n'}
+karelisch	{'09706746-n'}
+symbolismus	{'06807849-n'}
+signal	{'11447319-n', '06791372-n'}
+salami	{'07677747-n'}
+chorizo	{'07676520-n'}
+leberwurst	{'07677360-n'}
+wiener	{'07676602-n'}
+moiren	{'09565099-n'}
+phototropismus	{'00862399-n'}
+reaktion	{'13447361-n', '00859001-n'}
+gravitropismus	{'00861990-n'}
+heliotropismus	{'00862079-n'}
+thermotropismus	{'00862595-n'}
+wohnsitz	{'03719053-n'}
+jagd	{'01143838-v', '00945401-n'}
+fluorapatit	{'14675216-n'}
+phosphor	{'14649197-n'}
+agnosie	{'14099933-n'}
+dudelsack	{'02775483-n'}
+rabbiner	{'10502329-n'}
+strahlentierchen	{'01391028-n'}
+kochen	{'00243918-n'}
+vorbereitung	{'00243918-n'}
+hecht	{'02561108-n'}
+bischkek	{'09020792-n'}
+bergsteigen	{'01922895-v'}
+mailand	{'08809165-n'}
+kante	{'08593262-n'}
+kraft	{'08208016-n', '10461424-n'}
+nährgewebe	{'11682512-n'}
+perikarp	{'11684264-n'}
+hinkelstein	{'03745571-n'}
+hünenbett	{'03220237-n'}
+plasminogen	{'14983911-n'}
+katalog	{'06487897-n'}
+mauerwerk	{'03725717-n'}
+einbruch	{'00785263-n'}
+verfestigung	{'13491060-n'}
+warzenschwein	{'02397096-n'}
+funktionalität	{'06582403-n'}
+unterprogramm	{'06582403-n'}
+freeware	{'06567865-n'}
+shareware	{'06587596-n'}
+befreiung	{'00095502-n'}
+durchschlag	{'04332243-n'}
+kissen	{'03151500-n'}
+feuerwaffe	{'03343853-n'}
+planung	{'01144355-n'}
+schnittstelle	{'03578656-n'}
+bürste	{'02908217-n'}
+tora	{'06408442-n'}
+leuchtdiode	{'03666362-n'}
+abführmittel	{'03650084-n'}
+kaiserkrone	{'12451915-n'}
+wohnungen	{'03546340-n'}
+maisonette	{'03713254-n'}
+penthouse	{'03912821-n'}
+süßungsmittel	{'07858595-n'}
+karamell	{'07595180-n'}
+sitzung	{'08307589-n'}
+tollkirsche	{'02825004-n', '12898342-n'}
+budapest	{'08952423-n'}
+ungar	{'09713985-n'}
+plattensee	{'09212935-n'}
+europäer	{'09686536-n'}
+norwegen	{'08764107-n'}
+oberlicht	{'04473108-n'}
+jalousie	{'03692842-n'}
+dachfenster	{'04232800-n'}
+scheibe	{'03881893-n'}
+bullauge	{'03986562-n'}
+goldhähnchen	{'01563945-n', '01563746-n'}
+wetter	{'01928283-v'}
+halbinsel	{'01928154-v'}
+wenden	{'01946408-v'}
+rennen	{'01927903-v'}
+kreuzen	{'01946817-v'}
+vorliek	{'01928154-v'}
+killen	{'01928154-v'}
+segeln	{'01944692-v'}
+saibling	{'02538406-n'}
+herberge	{'03541696-n'}
+schuppen	{'14231207-n', '01902877-n'}
+steak	{'07657903-n'}
+filet	{'07660065-n'}
+bestätigung	{'06628861-n'}
+mydriatikum	{'03803610-n'}
+tang	{'01403457-n'}
+eosin	{'14987484-n'}
+pfeilspitze	{'02743050-n'}
+bolzen	{'04031481-n'}
+bi	{'09857007-n'}
+empfänger	{'04402580-n'}
+telefonhörer	{'03488438-n'}
+libysch	{'09720967-n'}
+bengasi	{'08960363-n'}
+text	{'06387980-n'}
+zitterer	{'10585773-n'}
+hochchinesisch	{'07747951-n'}
+personal	{'08208016-n', '08287586-n'}
+litotes	{'07104292-n'}
+plattenkiemer	{'01481599-n'}
+holocephali	{'01480715-n'}
+laufen	{'01904930-v'}
+lähmung	{'14558226-n'}
+espresso	{'07920052-n'}
+erdrauch	{'11909527-n'}
+zauberspruch	{'07159791-n'}
+zauber	{'07159791-n'}
+beschwörung	{'07160296-n'}
+orthoptera	{'02226183-n'}
+schwitzen	{'13535261-n'}
+drucken	{'04003597-n'}
+notiz	{'06504462-n'}
+portugiesisch	{'09728009-n'}
+azoren	{'08985345-n'}
+aldohexose	{'14710501-n'}
+porto	{'08986374-n'}
+ketohexose	{'14927587-n'}
+lissabon	{'08986066-n'}
+ängstlichkeit	{'07522729-n'}
+weißclown	{'10778044-n'}
+narr	{'10221312-n'}
+harlekin	{'10160280-n'}
+lorbeerkranz	{'03648804-n'}
+rotor	{'04111668-n'}
+spektakel	{'04271891-n'}
+migräne	{'14327707-n'}
+kalorie	{'13726296-n'}
+rittersporn	{'11733312-n'}
+einlegearbeit	{'01682039-v'}
+bronchopneumonie	{'14148231-n'}
+konföderation	{'09050244-n'}
+epikard	{'05428645-n'}
+logo	{'07272084-n'}
+schild	{'01903346-n'}
+marke	{'06851742-n'}
+spinett	{'04278247-n', '03496296-n'}
+tamburin	{'04387400-n'}
+spitzkiel	{'12554526-n'}
+scheinbeere	{'12235765-n'}
+unterkunft	{'02652494-v'}
+widerspruch	{'07206887-n'}
+lederhose	{'03653833-n'}
+wassermelone	{'12164065-n'}
+kapsel	{'11685179-n'}
+großsprecherei	{'07229530-n'}
+verfügung	{'06552984-n'}
+schmiedbarkeit	{'05021884-n'}
+atelier	{'02746841-n'}
+fehler	{'06769392-n', '14463826-n'}
+drehbuchautor	{'10564905-n'}
+abbild	{'03876519-n'}
+maleo	{'01802159-n'}
+klettern	{'00325110-n'}
+granit	{'14890286-n'}
+bärenhüter	{'09226738-n'}
+gefäß	{'04531098-n'}
+blinddarm	{'05537576-n'}
+heparin	{'03514974-n'}
+angiom	{'14235928-n'}
+tabakpflanze	{'12907465-n'}
+getanzt	{'01708676-v'}
+lager	{'02944826-n'}
+adenokarzinom	{'14246710-n'}
+laden	{'04202417-n'}
+fehlschluss	{'05893916-n'}
+verchromen	{'14810704-n'}
+jasmin	{'12307240-n'}
+satzzeichen	{'06841365-n'}
+xanthelasma	{'14233155-n'}
+karma	{'07330362-n'}
+prädestination	{'07330666-n'}
+zornnatter	{'01730679-n'}
+schleim	{'05415815-n'}
+geistlicher	{'09927451-n'}
+priestertum	{'08113443-n'}
+geistliche	{'08113634-n'}
+kreuzung	{'03135152-n', '01429953-v'}
+hypoxie	{'14041256-n'}
+hyperkapnie	{'14041940-n'}
+psychiatrie	{'06055946-n'}
+fettkraut	{'12872914-n'}
+lindenbaum	{'12202936-n'}
+schellack	{'14701628-n', '04191150-n'}
+wasserfahrzeuge	{'04530566-n'}
+motorboot	{'03790230-n'}
+botanik	{'06066555-n'}
+bank	{'02828884-n'}
+sägen	{'03996145-n', '04140064-n'}
+bohrung	{'01443021-v'}
+bohren	{'01443021-v'}
+schachtelhalm	{'13219422-n'}
+london	{'08873622-n'}
+manchester	{'08876975-n'}
+birmingham	{'08877613-n'}
+liverpool	{'08877382-n'}
+bristol	{'08878708-n'}
+gekreuzt	{'01429953-v'}
+würfel	{'13916721-n'}
+aztekisch	{'09648911-n'}
+gejagt	{'01143838-v'}
+australopithecus	{'02475821-n'}
+athen	{'08785343-n'}
+läufer	{'10542608-n'}
+antananarivo	{'08962465-n'}
+thailänder	{'09734294-n'}
+bangkok	{'09036880-n'}
+verb	{'06320569-n', '06318062-n'}
+großkantschil	{'02436353-n'}
+topf	{'03990474-n'}
+gehandelt	{'02260362-v'}
+gendarmerie	{'08210254-n'}
+polizist	{'10448983-n'}
+nukleon	{'09374886-n'}
+österreichisch	{'09691604-n'}
+wien	{'08846324-n'}
+graz	{'08846626-n'}
+venezianer	{'09717454-n'}
+linz	{'08846739-n'}
+salzburg	{'08846885-n'}
+innsbruck	{'08847024-n'}
+tirol	{'08846135-n'}
+phenothiazin	{'14771643-n'}
+erdbeben	{'07428954-n'}
+reinigungskraft	{'03040587-n'}
+karde	{'12682411-n'}
+stachel	{'04033901-n'}
+kugelschreiber	{'02783161-n'}
+blutgerinnsel	{'05402091-n'}
+oberleitungsbus	{'04487081-n'}
+kleinbus	{'03769881-n'}
+krume	{'07622261-n'}
+anzahl	{'00634586-n'}
+zählung	{'00634586-n'}
+oleander	{'11773987-n'}
+kuhkraut	{'11818636-n'}
+mähre	{'02377480-n'}
+fohlen	{'02376542-n'}
+kleinpferd	{'02380335-n'}
+widerrist	{'02462602-n'}
+schecke	{'02389261-n'}
+milwaukee	{'09158268-n'}
+wunde	{'14285662-n'}
+platzwunde	{'14287314-n'}
+saskatoon	{'08830116-n'}
+regina	{'08830005-n'}
+karakorum	{'09323824-n'}
+graph	{'01755291-v'}
+schneckenklee	{'12548280-n'}
+zirkon	{'14662281-n'}
+windhund	{'02090827-n'}
+rhododendron	{'12244153-n'}
+schal	{'04143897-n'}
+sand	{'15019030-n'}
+propaganda	{'06674542-n'}
+unternehmer	{'09882716-n'}
+bern	{'09032321-n'}
+genf	{'09032604-n'}
+basel	{'09032483-n'}
+zürcher	{'09033117-n'}
+lausanne	{'09032981-n'}
+theophyllin	{'04419315-n'}
+roggen	{'12134025-n', '07907429-n'}
+scotch	{'07907548-n'}
+gälisch	{'07907161-n'}
+tram	{'04335435-n'}
+straßenbahn	{'04335435-n'}
+nepal	{'08906374-n'}
+meningoenzephalitis	{'14343411-n'}
+pusteblume	{'12024176-n'}
+absorption	{'13423922-n'}
+adsorption	{'13427789-n'}
+segler	{'01832167-n'}
+fibroadenom	{'14238211-n'}
+alkanna	{'12817694-n'}
+eisen	{'14642417-n'}
+natrium	{'14655371-n'}
+zink	{'14661977-n'}
+palladium	{'14648754-n'}
+osmium	{'14647907-n'}
+molybdän	{'14645661-n'}
+rhodium	{'14652623-n'}
+ruthenium	{'14653242-n'}
+iridium	{'14642219-n'}
+bismut	{'14631502-n'}
+aktivität	{'00407535-n'}
+kreter	{'09709795-n'}
+asphalt	{'03900750-n', '14977504-n'}
+pflaster	{'03900750-n'}
+radikal	{'14621446-n'}
+allee	{'02763472-n'}
+sind	{'13613862-n'}
+dachboden	{'03686130-n', '03686470-n'}
+untergeschoss	{'02800497-n'}
+zwischengeschoss	{'03758089-n'}
+keller	{'02800497-n'}
+eros	{'07487955-n'}
+möhre	{'12937388-n'}
+seezunge	{'02663849-n'}
+armee	{'08191230-n'}
+bologna	{'08806458-n'}
+kautschuk	{'15006789-n'}
+gier	{'04945758-n'}
+habgier	{'04945758-n'}
+wunsch	{'04945057-n'}
+wassermokassinotter	{'01754533-n'}
+batholith	{'14932303-n'}
+pluton	{'14932303-n'}
+dezidua	{'05519707-n'}
+neodym	{'14645882-n'}
+praseodym	{'14651212-n'}
+samarium	{'14653596-n'}
+lehrbuch	{'06414372-n'}
+schulbuch	{'06414372-n'}
+heft	{'06413889-n'}
+regenwurm	{'01935395-n'}
+mufflon	{'02415829-n'}
+tee	{'07932841-n'}
+grill	{'04111531-n'}
+absurdität	{'06607809-n'}
+unsinn	{'06609296-n'}
+kokolores	{'06608728-n'}
+level	{'05131902-n'}
+höhe	{'05131283-n'}
+kapillare	{'02956069-n'}
+strahlungsthermometer	{'04029734-n'}
+sepsis	{'14189837-n'}
+größe	{'05095691-n', '05098942-n'}
+maisgrieß	{'07568095-n'}
+mus	{'07703333-n'}
+exhibitionismus	{'00737894-n'}
+fetischismus	{'00738058-n'}
+pädophilie	{'00738270-n'}
+voyeurismus	{'00738372-n'}
+perversion	{'00854717-n'}
+geschütz	{'03467984-n'}
+faustfeuerwaffe	{'03948459-n'}
+schlagzeuger	{'10415037-n'}
+makrele	{'02624167-n'}
+triglycerid	{'14885369-n'}
+siswati	{'09732293-n'}
+mbabane	{'09031501-n'}
+shōgi	{'00505726-n'}
+gerste	{'12123244-n'}
+täufer	{'09677427-n'}
+traubenzucker	{'14884336-n'}
+aceton	{'14600504-n'}
+propanon	{'14600504-n'}
+geformt	{'01659248-v'}
+antimaterie	{'14582535-n'}
+fantasy	{'06368425-n'}
+suva	{'08779375-n'}
+fidschianisch	{'09705909-n'}
+organell	{'05445668-n'}
+erinnerung	{'05760202-n'}
+spitzbergen	{'08764717-n'}
+fertigkeit	{'05637558-n'}
+scandium	{'14653831-n'}
+flüssig	{'14940386-n'}
+kandidose	{'14181713-n'}
+sauger	{'01444922-n'}
+rationalismus	{'06191018-n'}
+reflex	{'00863513-n'}
+golfspieler	{'10136959-n'}
+konservatismus	{'06216160-n'}
+mexiko	{'08740875-n'}
+schneiden	{'01552519-v'}
+geschliffen	{'01552519-v'}
+steuerung	{'08164585-n'}
+transkription	{'06349597-n'}
+geißblatt	{'12676534-n'}
+erweckungsbewegung	{'06231191-n'}
+thalamus	{'05499172-n'}
+hypothalamus	{'05499379-n'}
+matratze	{'03731164-n'}
+stimme	{'07030718-n'}
+motiv	{'07029247-n'}
+leitmotiv	{'07028797-n'}
+kosovo	{'08816807-n'}
+flavin	{'14870924-n'}
+paddeln	{'02951358-n'}
+hijacking	{'01471825-v'}
+platterbse	{'12539074-n'}
+avocado	{'11706761-n'}
+zwergspitz	{'02112018-n'}
+wolfsspitz	{'02112350-n'}
+silhouette	{'08613345-n'}
+belegen	{'10205985-n'}
+mantel	{'03057021-n', '02955767-n'}
+ulster	{'04506402-n'}
+haferbrei	{'07874995-n'}
+grütze	{'07704054-n'}
+borrelien	{'01383027-n'}
+soda	{'15044844-n'}
+rhombencephalon	{'05500594-n'}
+rautenhirn	{'05500594-n'}
+markierung	{'07270179-n'}
+subjekt	{'10668666-n'}
+japaner	{'09718217-n'}
+wahlrecht	{'05187446-n'}
+reiherschnabel	{'12688716-n'}
+dickkopf	{'02645538-n'}
+sauerbaum	{'12242409-n'}
+kartoffel	{'12897493-n'}
+nachtschatten	{'12893463-n'}
+aubergine	{'12896000-n'}
+panamaer	{'09726120-n'}
+konvention	{'06774316-n'}
+emoticon	{'06280162-n'}
+teilen	{'01557774-v'}
+chlor	{'14634591-n'}
+brom	{'14632129-n'}
+iod	{'14641397-n'}
+astat	{'14629561-n'}
+gefangene	{'10476086-n'}
+landwirt	{'10078806-n'}
+bergfried	{'03610098-n'}
+fort	{'03385557-n'}
+hauptturm	{'03610098-n'}
+protium	{'12693033-n'}
+helling	{'04565039-n'}
+trockendock	{'03251533-n'}
+funktionieren	{'04602044-n'}
+untergang	{'11444117-n'}
+petticoat	{'03920737-n'}
+antioxidans	{'14724645-n'}
+schwarz	{'04960582-n'}
+sandstrand	{'15019030-n'}
+wellenbrecher	{'02894605-n'}
+emotion	{'00026192-n'}
+traurigkeit	{'07534430-n'}
+überhang	{'03864356-n'}
+melia	{'12695760-n'}
+galeere	{'03412674-n'}
+parthenogenese	{'13532501-n'}
+globin	{'15025942-n'}
+immunelektrophorese	{'13496167-n'}
+brachsenkraut	{'13226320-n'}
+rettich	{'11894327-n'}
+kämpfer	{'09939313-n'}
+kleriker	{'09927451-n'}
+leibeigenschaft	{'13998263-n'}
+nylon	{'14966192-n'}
+pet	{'00902376-n'}
+grubenwurm	{'01933151-n'}
+archive	{'03177349-n'}
+erdwolf	{'02118176-n'}
+bratsche	{'12387478-n'}
+rückkoppelung	{'13539262-n'}
+jordanier	{'09718811-n'}
+amman	{'08927548-n'}
+seehase	{'02646667-n'}
+testament	{'05800272-n'}
+ding	{'04424418-n'}
+homosexualität	{'00856847-n'}
+geschworener	{'10228278-n'}
+esparsette	{'12552309-n'}
+schleifenblume	{'11889619-n'}
+erfindung	{'03129123-n'}
+leguminose	{'11747468-n'}
+drücken	{'04027023-n'}
+zügel	{'04072551-n'}
+zaumzeug	{'03503718-n'}
+nasenriemen	{'03831382-n'}
+backenstück	{'03012013-n'}
+physiker	{'10428004-n'}
+forscher	{'10523076-n'}
+chemiker	{'09913824-n'}
+biologe	{'09855630-n'}
+geologe	{'10127689-n'}
+versehen	{'02327200-v'}
+versorgung	{'02327200-v'}
+ausstattung	{'02327200-v'}
+bergfink	{'01530575-n'}
+vanuatu	{'09160775-n'}
+laichkraut	{'12615710-n'}
+lyon	{'08936647-n'}
+ausübung	{'00631378-n'}
+arteriole	{'05337301-n'}
+aorta	{'05335971-n'}
+pensionierung	{'13384341-n'}
+geschützturm	{'03469175-n'}
+trübung	{'04703698-n'}
+virginal	{'04537436-n'}
+klaviatur	{'03039015-n', '03614007-n'}
+harfe	{'03495258-n'}
+taublatt	{'12783601-n'}
+landgut	{'13246662-n'}
+risiko	{'14541044-n'}
+alkylbenzol	{'14601505-n'}
+prednisolon	{'14753188-n'}
+modiolus	{'05322735-n'}
+bohnenkraut	{'12866968-n'}
+zusammenschluss	{'08293982-n'}
+kessel	{'04397768-n'}
+einsatz	{'03990474-n'}
+mond	{'15207872-n'}
+lunation	{'15207872-n'}
+monohydrat	{'14954152-n'}
+aggression	{'00964569-n'}
+versicherung	{'13344804-n'}
+kerbel	{'12932706-n'}
+oberschenkelknochen	{'05573895-n'}
+hüfte	{'05596004-n'}
+quadrizeps	{'05294819-n'}
+herde	{'07994331-n'}
+wachsen	{'15094294-n'}
+medium	{'06261586-n', '06254669-n'}
+kontrapunkt	{'07025419-n'}
+glasgower	{'09749142-n'}
+atomkern	{'09375085-n'}
+isotop	{'14619658-n'}
+harnlassen	{'13515958-n'}
+birne	{'07767847-n'}
+euterpe	{'12590842-n'}
+allegro	{'15265021-n'}
+andante	{'15265219-n'}
+beiz	{'04018399-n'}
+partei	{'08256968-n'}
+lebermoos	{'11542640-n'}
+olive	{'07767344-n'}
+mandel	{'07750586-n'}
+pfirsich	{'07751004-n'}
+ausatmen	{'00835267-n'}
+einatmen	{'00836788-n'}
+hyperventilation	{'00833870-n'}
+china	{'03018209-n', '08723006-n'}
+louisville	{'09089923-n'}
+lexington	{'09089782-n'}
+hauptquartier	{'03504723-n'}
+vorname	{'06337307-n'}
+patrizier	{'09807754-n'}
+peerage	{'08388636-n'}
+heuchler	{'10195593-n'}
+weißfisch	{'01441117-n'}
+döbel	{'01441272-n'}
+tendenz	{'06199561-n'}
+amtstracht	{'04532106-n'}
+wisent	{'02410900-n'}
+detonation	{'00377686-n'}
+stöcker	{'02580336-n'}
+selene	{'02578125-n'}
+kursiv	{'06827344-n'}
+helvetica	{'06827947-n'}
+taoist	{'09848285-n'}
+ibis	{'02005790-n'}
+schreitvögel	{'02001428-n'}
+amnion	{'01472638-n'}
+lärche	{'11619136-n'}
+mammalia	{'01861465-n'}
+soße	{'07838073-n'}
+label	{'00971650-v'}
+natrolith	{'15107524-n'}
+chabasit	{'15107196-n'}
+erklären	{'00024720-n'}
+weichmacher	{'15055936-n'}
+opa	{'10142391-n'}
+oma	{'10142747-n'}
+opi	{'10142391-n'}
+morphologie	{'06178042-n'}
+syntax	{'06176322-n'}
+atrazin	{'14629772-n'}
+totschlag	{'00220409-n'}
+algen	{'01397497-n'}
+chlorella	{'01411450-n'}
+geheim	{'06672953-n'}
+spannfutter	{'03027250-n'}
+handrad	{'03490649-n'}
+lehnsessel	{'03325403-n'}
+eizelle	{'05457973-n'}
+scimitar	{'04147793-n'}
+ruine	{'01564144-v'}
+simulation	{'00754956-n'}
+muschel	{'01956481-n'}
+arm	{'04565375-n'}
+insekt	{'02159955-n'}
+hooligan	{'09879297-n'}
+erfahrung	{'05999797-n'}
+ladendiebstahl	{'00781480-n'}
+slowakisch	{'09699536-n'}
+preßburg	{'08759263-n'}
+pfeifenstrauch	{'12791329-n'}
+bärentraube	{'12231192-n'}
+jacquard	{'03591592-n'}
+knauf	{'03626272-n'}
+grabkammer	{'02921884-n'}
+seismologie	{'06120496-n'}
+geodäsie	{'06120881-n'}
+kabel	{'06278338-n'}
+pfifferling	{'13004423-n'}
+hackbrett	{'03254737-n'}
+fächer	{'03320046-n'}
+broadway	{'09122086-n'}
+prinz	{'10472799-n'}
+artikel	{'06268096-n'}
+sufismus	{'05949266-n'}
+gegend	{'08630039-n'}
+halobakterien	{'01348232-n'}
+pike	{'03935450-n'}
+oxidation	{'13530408-n'}
+urin	{'14855724-n'}
+gebrauch	{'00413239-n'}
+comedian	{'09940818-n'}
+weber	{'01542786-n'}
+zuckerwurzel	{'12945549-n'}
+polynesier	{'09727826-n'}
+samoa	{'08991182-n'}
+tonga	{'09037133-n'}
+kletterpflanze	{'13102409-n'}
+efeu	{'11798978-n'}
+wolfram	{'14659512-n'}
+böller	{'03345115-n'}
+tubulus	{'05246796-n'}
+pantherinae	{'02127808-n'}
+trocknen	{'15239292-n'}
+bit	{'13625237-n'}
+nibble	{'13625884-n'}
+kolitis	{'14341091-n'}
+dominant	{'05438130-n'}
+rezessiv	{'05438315-n'}
+pinke	{'02684649-n'}
+schnürung	{'03631445-n'}
+atrium	{'02754656-n'}
+kreuzgang	{'03047941-n'}
+kaki	{'12771192-n', '12771390-n'}
+erschöpfung	{'14463676-n', '14016361-n'}
+halskette	{'03814906-n'}
+schmuckstück	{'03596787-n'}
+pin	{'03940713-n'}
+spinne	{'01772222-n'}
+dunkelsäger	{'01854415-n'}
+zwergsäger	{'01855188-n'}
+kappensäger	{'01854415-n'}
+gänsesäger	{'01854700-n'}
+intarsie	{'03572449-n'}
+rem	{'14025755-n'}
+schlaf	{'05681117-n'}
+glykogen	{'14795749-n'}
+cellulose	{'14793921-n'}
+chitin	{'14732722-n'}
+saccharid	{'14792703-n'}
+ionosphäre	{'08588916-n'}
+tollwut	{'14271667-n'}
+zeitmessgerät	{'04437953-n'}
+armbanduhr	{'04607869-n'}
+zeitmesser	{'04437953-n'}
+penelope	{'01799876-n'}
+rheinland	{'08775297-n'}
+bonn	{'08772137-n'}
+hermelin	{'02442172-n'}
+hexenblume	{'11725623-n'}
+affenbrotbaum	{'12189987-n'}
+zellulose	{'14793921-n'}
+platte	{'06255777-n'}
+pergament	{'14975779-n'}
+malz	{'07926642-n'}
+kreuzer	{'03140900-n'}
+fregatte	{'03397412-n'}
+panzerschiff	{'03585551-n'}
+zerstörer	{'03180504-n'}
+korvette	{'03113035-n'}
+kamille	{'11949402-n'}
+specht	{'01838598-n'}
+mikroglia	{'05468211-n'}
+schwadron	{'08220089-n'}
+anglikanismus	{'06229106-n'}
+weichtier	{'01940736-n'}
+amin	{'14739004-n'}
+panther	{'02128669-n'}
+leopardin	{'02128598-n'}
+kopiergerät	{'03257586-n'}
+list	{'06760508-n'}
+arkadier	{'09711754-n'}
+desinfektionsmittel	{'02724207-n'}
+amontillado	{'07901264-n'}
+gelatine	{'07643981-n'}
+sulz	{'07643981-n'}
+sonate	{'07044088-n'}
+pole	{'03976960-n'}
+spießbock	{'02428508-n'}
+jahrhundert	{'15205532-n'}
+orakeln	{'10483530-n'}
+prophetin	{'10483530-n'}
+bildhauerkunst	{'04157320-n'}
+nubisch	{'10364333-n'}
+cortisol	{'14752702-n'}
+cortison	{'14752952-n'}
+dexamethason	{'14753808-n'}
+segelfliegen	{'00303495-n'}
+bandit	{'10120085-n'}
+fasan	{'01803078-n'}
+krankheitserreger	{'01386007-n'}
+sorte	{'08101085-n'}
+antidiabetikum	{'02719105-n'}
+tolbutamid	{'04448826-n'}
+kreuz	{'08227214-n'}
+migration	{'01123095-n'}
+rhythmus	{'07086518-n'}
+eichel	{'12267677-n'}
+anthrakose	{'14150210-n'}
+asbestose	{'14150363-n'}
+staublunge	{'14150612-n'}
+fibrose	{'14207809-n'}
+zweikeimblättrigen	{'11666854-n'}
+alkan	{'14951377-n'}
+krokodil	{'01697178-n'}
+sülze	{'07808675-n'}
+hengst	{'02374451-n'}
+vergangenheit	{'06330262-n'}
+parese	{'14558599-n'}
+arabisch	{'09729530-n'}
+araber	{'09729530-n'}
+gänseblümchen	{'11939491-n'}
+schma	{'07034035-n'}
+mixer	{'03775199-n'}
+buddha	{'09532942-n'}
+whitehorse	{'08830882-n'}
+klondike	{'08830720-n'}
+kahlhecht	{'02639087-n'}
+schnabeltier	{'01873310-n'}
+echidna	{'01872772-n'}
+ökotourismus	{'00298351-n'}
+panik	{'14405931-n'}
+café	{'02936281-n'}
+korridor	{'03479952-n', '03895585-n'}
+sone	{'13713817-n'}
+solvent	{'15047313-n'}
+eier	{'05524430-n'}
+gendarm	{'10123122-n'}
+polizeitruppe	{'08209687-n'}
+nestor	{'01818704-n'}
+papagei	{'01816887-n'}
+instrument	{'03800933-n'}
+mesoderm	{'01464077-n'}
+herzkurve	{'13909632-n'}
+basketball	{'02802426-n'}
+volleyball	{'04540053-n'}
+adeliger	{'10412910-n'}
+peeress	{'10242791-n'}
+dame	{'10242791-n'}
+nahuatl	{'09648743-n'}
+bor	{'14631871-n'}
+memsahib	{'09687940-n'}
+myelofibrose	{'14207978-n'}
+kritik	{'05734018-n'}
+krähenbeere	{'12751675-n'}
+boa	{'01741943-n'}
+akazie	{'11756092-n'}
+birke	{'12281600-n', '12281241-n'}
+eiche	{'12268246-n'}
+maria	{'12365158-n'}
+apia	{'08991752-n'}
+erhalten	{'07642471-n'}
+menadion	{'15093049-n'}
+raumfahrzeug	{'04304215-n'}
+gymnasium	{'08284481-n'}
+nitrozellulose	{'14794993-n'}
+campher	{'14790979-n'}
+chromatin	{'05436080-n'}
+chromatid	{'05444175-n'}
+zentromer	{'05444324-n'}
+schwingen	{'04371774-n'}
+töpferwaren	{'03262519-n'}
+männlichkeit	{'05008227-n'}
+annalen	{'06515662-n'}
+skandinavier	{'09730204-n'}
+übergewichtig	{'05000537-n'}
+mangostane	{'12366675-n'}
+bezirk	{'08546183-n'}
+drall	{'07442288-n'}
+knoten	{'03627232-n'}
+sandstein	{'14995541-n'}
+maskulinum	{'06329165-n'}
+loch	{'03526198-n'}
+planke	{'15101854-n'}
+koloskopie	{'00642446-n'}
+sigmoidoskopie	{'00643208-n'}
+rektoskopie	{'00643067-n'}
+hysteroskopie	{'00642910-n'}
+gastroskopie	{'00642762-n'}
+selbstgespräch	{'07011387-n'}
+schlichtung	{'07150644-n'}
+ausländer	{'10103485-n'}
+endorphin	{'14809057-n'}
+schmalz	{'04627506-n'}
+guyot	{'09300559-n'}
+angelpunkt	{'03951971-n'}
+taxonomie	{'06153186-n'}
+biosystematik	{'06152973-n'}
+polystyrol	{'14595711-n'}
+indianapolis	{'09085593-n'}
+kühlschrank	{'03273913-n'}
+abt	{'09754404-n'}
+benzylpenicillin	{'03910723-n'}
+ampicillin	{'02705651-n'}
+methicillin	{'03755388-n'}
+piperacillin	{'03946532-n'}
+kambodscha	{'08716738-n'}
+myanmar	{'08715390-n'}
+vietnam	{'09163192-n'}
+hernie	{'14295389-n'}
+eigentümlichkeit	{'04763925-n'}
+anguilla	{'02526673-n'}
+eingetragen	{'02472223-v'}
+verzeichnis	{'02472223-v'}
+ermittler	{'10215623-n'}
+privatdetektiv	{'10476671-n'}
+abhandlung	{'06408651-n'}
+libreville	{'08945705-n'}
+pendel	{'03909160-n'}
+flocke	{'11509066-n'}
+schneeflocke	{'11509066-n'}
+schneefall	{'11508578-n'}
+schwindsucht	{'14144064-n'}
+arbeitnehmer	{'09632518-n'}
+adverb	{'06323612-n'}
+streitaxt	{'02764044-n'}
+schimmelpilz	{'13077033-n'}
+gewaltlosigkeit	{'01242716-n'}
+schlitten	{'04235291-n'}
+rabbinat	{'08113910-n'}
+combo	{'08249960-n'}
+malen	{'03875218-n'}
+devanagari	{'06352782-n'}
+passionsblume	{'12383402-n'}
+ätzend	{'15014529-n'}
+stechpalme	{'12756862-n'}
+unzufrieden	{'07538965-n'}
+karpfen	{'01439514-n'}
+wasserrad	{'04563204-n'}
+ökologie	{'06070929-n'}
+spielzug	{'00279835-n'}
+zauberin	{'10626540-n'}
+geste	{'00334509-n'}
+kopra	{'07773572-n'}
+beerdigung	{'07451687-n'}
+begräbnis	{'07451687-n'}
+feier	{'07450842-n'}
+erdbestattung	{'07451687-n'}
+schwarze	{'09636339-n'}
+hassen	{'07546465-n'}
+strontium	{'14655731-n'}
+polyp	{'01909906-n'}
+blumentiere	{'01913838-n'}
+qualle	{'01910747-n'}
+schmätzer	{'01560636-n'}
+bischofskappe	{'12800586-n'}
+abendkleid	{'03450230-n'}
+unterkleid	{'03013438-n'}
+schulterfrei	{'04334105-n'}
+asw	{'07256695-n'}
+community	{'07941729-n'}
+buschbock	{'02425228-n'}
+nyala	{'02424909-n'}
+diazepam	{'03189995-n'}
+anxiolytikum	{'03771443-n'}
+lanzettfischchen	{'01467804-n'}
+hyperopie	{'14554011-n'}
+tötungsdelikt	{'00220023-n'}
+phallus	{'13040108-n'}
+gazelle	{'02423022-n'}
+speckstein	{'15044327-n'}
+drache	{'09494388-n'}
+lesezeichen	{'03721797-n'}
+türkis	{'04969798-n'}
+tagebuch	{'06402031-n'}
+schmidt	{'10614629-n'}
+kabeljau	{'02522399-n'}
+wegekuckuck	{'01824035-n'}
